@@ -1,0 +1,17 @@
+T22k84.mp3/0/3.190000/Topic 22. Every Day (Chủ đề 22. Mỗi ngày);
+T22k84.mp3/4/6.590000/1. Monday (1. Thứ Hai);
+T22k84.mp3/9/11.040000/2. Tuesday (2. Thứ Ba);
+T22k84.mp3/13/15.150000/3. Wednesday (3. Thứ Tư);
+T22k84.mp3/17/19.320000/4. Thursday (4. Thứ Năm);
+T22k84.mp3/21/23.440000/5. Friday (5. Thứ Sáu);
+T22k84.mp3/25/27.720000/6. Saturday (6. Thứ Bảy);
+T22k84.mp3/29/32.000000/7. Sunday (7. Chủ Nhật);
+T22k84.mp3/34/36.530000/8. Ballet Class (8. Lớp ba lê);
+T22k84.mp3/39/41.420000/9. Piano Class (9. Lớp piano);
+T22k84.mp3/44/46.370000/10. Karate class (10. Lớp karate);
+T22k84.mp3/48/51.400000/11. Swimming class (11. Lớp bơi);
+T22k84.mp3/54/56.340000/12. Soccer Practice (12. Tập bóng đá);
+T22k84.mp3/59/61.090000/13. Morning (13. Buổi sáng);
+T22k84.mp3/63/65.480000/14. Afternoon (14. Buổi chiều);
+T22k84.mp3/67/69.680000/15. Evening (15. Buổi tối);
+T22k84.mp3/72/73.860000/16. Night (16. Ban đêm);

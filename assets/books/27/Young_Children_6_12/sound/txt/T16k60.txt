@@ -1,0 +1,14 @@
+T16k60.mp3/0/2.760000/Topic 16, the weather (Chủ đề 16, Thời tiết);
+T16k60.mp3/4/6.150000/One, hot (Một, nóng);
+T16k60.mp3/8/10.350000/2. Cold (2. Lạnh);
+T16k60.mp3/13/14.840000/Three, warm (Ba, ấm áp);
+T16k60.mp3/17/19.180000/Four, cool (Bốn, mát mẻ);
+T16k60.mp3/21/23.450000/5. Snowy (5. Có tuyết);
+T16k60.mp3/26/27.930000/6. Rainy (6. Có mưa);
+T16k60.mp3/30/32.420000/7. Sunny (7. Có nắng);
+T16k60.mp3/34/36.530000/8. Cloudy (8. Có mây);
+T16k60.mp3/39/40.970000/9. Foggy (9. Có sương mù);
+T16k60.mp3/43/45.210000/10. Windy (10. Có gió);
+T16k60.mp3/47/49.710000/11. Stormy (11. Có bão);
+T16k60.mp3/52/54.090000/12. Thunder (12. Sấm);
+T16k60.mp3/56/58.690000/13. Lightning (13. Chớp);

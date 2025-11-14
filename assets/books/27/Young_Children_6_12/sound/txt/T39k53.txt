@@ -1,0 +1,18 @@
+T39k53.mp3/0/2.770000/Topic 39, School Day (Chủ đề 39, Ngày ở trường);
+T39k53.mp3/4/6.820000/One science class (Một lớp học khoa học);
+T39k53.mp3/9/11.300000/2. Music class (2. Lớp học nhạc);
+T39k53.mp3/13/15.830000/3. Art Class (3. Lớp học mỹ thuật);
+T39k53.mp3/18/20.210000/4. English class (4. Lớp học tiếng Anh);
+T39k53.mp3/22/24.830000/5. Math Class (5. Lớp học toán);
+T39k53.mp3/27/29.770000/6. Computer Class (6. Lớp học máy tính);
+T39k53.mp3/32/34.670000/7. PE (7. Thể dục);
+T39k53.mp3/37/38.900000/8. Whiteboard (8. Bảng trắng);
+T39k53.mp3/41/42.910000/9. Desk (9. Bàn học);
+T39k53.mp3/45/47.020000/10. Chair (10. Ghế);
+T39k53.mp3/49/51.230000/11. Poster (11. Áp phích);
+T39k53.mp3/53/55.120000/12. Map (12. Bản đồ);
+T39k53.mp3/57/59.380000/13. Globe (13. Quả địa cầu);
+T39k53.mp3/61/63.410000/14. Calendar (14. Lịch);
+T39k53.mp3/65/67.730000/15. Student (15. Học sinh);
+T39k53.mp3/70/71.840000/16. Boy (16. Bạn nam);
+T39k53.mp3/74/76.090000/17. Girl (17. Bạn nữ);

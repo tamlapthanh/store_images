@@ -1,0 +1,16 @@
+T28k09.mp3/0/3.180000/Topic 28, Birthday Party (Chủ đề 28, Tiệc sinh nhật);
+T28k09.mp3/5/7.390000/1. Sandwich (1. Bánh sandwich);
+T28k09.mp3/9/11.710000/2. Hamburger (2. Bánh hamburger);
+T28k09.mp3/14/16.040000/3. Hot Dog (3. Bánh hot dog);
+T28k09.mp3/18/20.450000/4. Cookie (4. Bánh quy);
+T28k09.mp3/23/25.070000/5. Piece of Cake (5. Miếng bánh);
+T28k09.mp3/27/29.540000/6. Soda Pop (6. Nước ngọt có ga);
+T28k09.mp3/32/34.060000/7. Milkshake (7. Sữa lắc);
+T28k09.mp3/36/37.990000/8. Donut (8. Bánh donut);
+T28k09.mp3/40/42.500000/9. Ice Cream Cone (9. Kem ốc quế);
+T28k09.mp3/45/47.020000/10. Balloon (10. Bóng bay);
+T28k09.mp3/49/51.190000/11. Present (11. Quà tặng);
+T28k09.mp3/53/55.630000/12. Birthday Card (12. Thiệp sinh nhật);
+T28k09.mp3/58/60.050000/13. Party Hat (13. Mũ dự tiệc);
+T28k09.mp3/62/64.640000/14. Birthday Cake (14. Bánh sinh nhật);
+T28k09.mp3/66/68.630000/15. Candle (15. Nến);

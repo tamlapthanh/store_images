@@ -1,0 +1,18 @@
+T47k85.mp3/0/3.240000/Topic 47, At the Doctors (Chủ đề 47, Ở bác sĩ);
+T47k85.mp3/5/6.880000/1. Head (1. Đầu);
+T47k85.mp3/9/10.720000/2. Neck (2. Cổ);
+T47k85.mp3/13/14.890000/3. Arm (3. Cánh tay);
+T47k85.mp3/17/18.850000/4. Elbow (4. Khuỷu tay);
+T47k85.mp3/20/22.570000/5. Hand (5. Bàn tay);
+T47k85.mp3/24/26.440000/6. Stomach (6. Bụng);
+T47k85.mp3/28/30.320000/7. Knee (7. Đầu gối);
+T47k85.mp3/32/34.280000/8. Face (8. Mặt);
+T47k85.mp3/36/38.170000/9. I (9. Mắt);
+T47k85.mp3/40/42.290000/10. Ear (10. Tai);
+T47k85.mp3/44/46.230000/11. Nose (11. Mũi);
+T47k85.mp3/48/50.430000/12, cheek (12, má);
+T47k85.mp3/52/54.440000/13. Mouth (13. Miệng);
+T47k85.mp3/56/58.980000/14. Have a stomachache (14. Đau bụng);
+T47k85.mp3/62/64.200000/15. Have a cough (15. Bị ho);
+T47k85.mp3/67/69.570000/16. Have a cold (16. Bị cảm lạnh);
+T47k85.mp3/72/74.630000/17. Have a headache (17. Đau đầu);

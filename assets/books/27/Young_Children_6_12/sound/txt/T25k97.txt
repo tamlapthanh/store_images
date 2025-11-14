@@ -1,0 +1,5 @@
+T25k97.mp3/0/1.460000/Dialogue one.;
+T25k97.mp3/2/5.870000/Does the king live in the red castle? Yes.;
+T25k97.mp3/7/8.940000/No.;
+T25k97.mp3/10/10.660000/;
+T25k97.mp3/11/20.800000/Dialogue 2 Which castle has a drawbridge? The blue one. The red one.;

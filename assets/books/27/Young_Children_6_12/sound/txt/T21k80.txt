@@ -1,0 +1,18 @@
+T21k80.mp3/0/3.830000/Topic 21, Months and Seasons (Chủ đề 21, Tháng và Mùa);
+T21k80.mp3/5/5.730000/1. (1.);
+T21k80.mp3/6/7.570000/January (Tháng Một);
+T21k80.mp3/10/11.670000/2. February (2. Tháng Hai);
+T21k80.mp3/14/16.100000/3. March (3. Tháng Ba);
+T21k80.mp3/18/20.360000/Four, April (Bốn, Tháng Tư);
+T21k80.mp3/22/24.410000/5. May (5. Tháng Năm);
+T21k80.mp3/26/28.230000/6. June (6. Tháng Sáu);
+T21k80.mp3/30/32.570000/7. July (7. Tháng Bảy);
+T21k80.mp3/34/36.640000/8. August (8. Tháng Tám);
+T21k80.mp3/39/41.060000/9. September (9. Tháng Chín);
+T21k80.mp3/43/45.320000/10. October (10. Tháng Mười);
+T21k80.mp3/47/49.510000/11. November (11. Tháng Mười Một);
+T21k80.mp3/52/53.830000/12. December (12. Tháng Mười Hai);
+T21k80.mp3/56/58.230000/13. Spring (13. Mùa xuân);
+T21k80.mp3/60/62.130000/14. Summer (14. Mùa hè);
+T21k80.mp3/64/66.420000/15. Fall (15. Mùa thu);
+T21k80.mp3/68/70.440000/16. Winter (16. Mùa đông);

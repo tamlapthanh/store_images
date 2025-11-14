@@ -1,0 +1,16 @@
+T42k65.mp3/0/3.460000/Topic 42, Animal Orchestra (Chủ đề 42, Dàn nhạc động vật);
+T42k65.mp3/5/7.190000/One. Guitar (Một. Đàn ghi-ta);
+T42k65.mp3/9/11.480000/2. keyboard (2. Đàn phím điện tử);
+T42k65.mp3/14/16.280000/3. Bongo drums (3. Trống bongo);
+T42k65.mp3/18/20.730000/4. Saxophone (4. Kèn saxophone);
+T42k65.mp3/22/24.850000/5. Piano (5. Đàn piano);
+T42k65.mp3/27/28.760000/6. Trumpet (6. Kèn trumpet);
+T42k65.mp3/31/33.210000/Seven, trombone (Bảy, kèn trombone);
+T42k65.mp3/35/37.380000/8. Violin (8. Đàn vĩ cầm);
+T42k65.mp3/39/41.470000/9. Flute (9. Sáo);
+T42k65.mp3/43/45.910000/10, triangle (10, kẻng tam giác);
+T42k65.mp3/48/50.580000/11. Tambourine (11. Trống lục lạc);
+T42k65.mp3/52/55.130000/12. Xylophone (12. Đàn phiến gỗ);
+T42k65.mp3/57/59.320000/13. Recorder (13. Sáo dọc);
+T42k65.mp3/61/63.670000/14. Symbols (14. Chũm chọe);
+T42k65.mp3/65/67.750000/15. Harp (15. Đàn hạc);
