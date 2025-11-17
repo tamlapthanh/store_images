@@ -1,0 +1,6 @@
+051 02.mp3/1.000000/5.200000/Listening 51. Listen and say, (Nghe 51. Nghe và nói,);
+051 02.mp3/5.000000/11.540000/This is a monkey. I like monkeys. (Đây là một con khỉ. Tôi thích khỉ.);
+051 02.mp3/13.000000/15.180000/This is an elephant. (Đây là một con voi.);
+051 02.mp3/16.000000/18.660000/I don't like elephants. (Tôi không thích voi.);
+051 02.mp3/20.000000/22.660000/The elephants are big. (Những con voi rất lớn.);
+051 02.mp3/23.000000/24.600000/I'm little. (Tôi còn nhỏ.);

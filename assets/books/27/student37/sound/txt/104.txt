@@ -1,0 +1,11 @@
+104.mp3/0.000000/5.470000/Listening 104. Listen and point. (Nghe 104. Nghe và chỉ điểm.);
+104.mp3/6.000000/21.200000/Play soccer, ride a bike, run, catch, fly, fly (Chơi bóng đá, đạp xe, chạy, bắt, bay, bay);
+104.mp3/21.000000/26.340000/Catch, run (Bắt, chạy);
+104.mp3/26.000000/29.370000/Ride a bike (Đi xe đạp);
+104.mp3/29.000000/32.340000/Play soccer (Chơi bóng đá);
+104.mp3/32.000000/36.080000/Listen and repeat (Nghe và lặp lại);
+104.mp3/36.000000/38.120000/Play soccer (Chơi bóng đá);
+104.mp3/38.000000/41.110000/Ride a bicycle (Đi xe đạp);
+104.mp3/41.000000/43.550000/Run (Chạy);
+104.mp3/43.000000/46.050000/Catch (Nắm lấy);
+104.mp3/46.000000/48.730000/Fly (Bay);

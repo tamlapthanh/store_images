@@ -1,0 +1,10 @@
+131.mp3/0.000000/5.420000/Listening 131. Listen and point. (Nghe 131. Nghe và chỉ điểm.);
+131.mp3/6.000000/18.140000/Rug, cabinet, shelf, pillow, blanket (Thảm, tủ, kệ, gối, chăn);
+131.mp3/18.000000/23.610000/Blanket, cabinet (Chăn, tủ);
+131.mp3/23.000000/29.100000/Shelf, pillow (Kệ, gối);
+131.mp3/29.000000/31.780000/Rug (Tấm thảm);
+131.mp3/31.000000/35.620000/Listen and repeat. (Nghe và lặp lại.);
+131.mp3/36.000000/39.790000/Rug, cabin (Thảm, cabin);
+131.mp3/39.000000/42.840000/Shelf (Cái kệ);
+131.mp3/42.000000/45.640000/Pillow (Cái gối);
+131.mp3/45.000000/48.200000/Blank (Trống);

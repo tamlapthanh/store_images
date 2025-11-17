@@ -1,0 +1,8 @@
+140.mp3/0.000000/6.770000/Listening, 140. Listen and write A or B. (Nghe, 140. Nghe và viết A hoặc B.);
+140.mp3/8.000000/11.440000/1. There are six chairs. (1. Có sáu cái ghế.);
+140.mp3/13.000000/18.880000/2. There is a toy box with lots of toys. (2. Có hộp đồ chơi với rất nhiều đồ chơi.);
+140.mp3/21.000000/23.420000/3. There aren't any toys in the room. (3. Trong phòng không có đồ chơi.);
+140.mp3/23.000000/25.600000/4. There's a red shoes on the rug. (4. Có một đôi giày màu đỏ trên tấm thảm.);
+140.mp3/27.000000/32.580000/5. There' s a shelf with lots o' books. (5. Có một cái kệ đựng rất nhiều sách.);
+140.mp3/34.000000/38.730000/6. There'res a rugg on the floor. (6. Có một tấm thảm trên sàn.);
+140.mp3/38.000000/44.720000/6. There is a bike in the room. (6. Có một chiếc xe đạp trong phòng.);

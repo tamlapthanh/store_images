@@ -1,0 +1,11 @@
+080.mp3/0.000000/6.360000/Listening, 80. Listen and number 1. (Nghe, 80. Nghe và số 1.);
+080.mp3/7.000000/11.180000/Mom, may I go and play in my bedroom? (Mẹ ơi, con vào phòng ngủ chơi được không?);
+080.mp3/12.000000/13.710000/Yes, okay. (Vâng, được rồi.);
+080.mp3/16.000000/16.490000/2. (2.);
+080.mp3/17.000000/21.010000/Kate, do you like chocolate ice cream? (Kate, bạn có thích kem sô-cô-la không?);
+080.mp3/22.000000/23.800000/Yes, I do. (Em đồng ý.);
+080.mp3/26.000000/26.580000/3. (3.);
+080.mp3/27.000000/30.930000/Great! Chocolate ice cream! (Tuyệt vời! Kem sô cô la!);
+080.mp3/32.000000/34.540000/But you're full, James. (Nhưng anh đã no rồi, James.);
+080.mp3/36.000000/37.260000/4. (4.);
+080.mp3/37.000000/43.540000/Yes, but chocolate ice cream is my favorite food. (Đúng, nhưng kem sô cô la là món ăn yêu thích của tôi.);

@@ -1,0 +1,13 @@
+070 05.mp3/0.000000/4.640000/Listening 70. Listen and read. (Nghe 70. Nghe và đọc.);
+070 05.mp3/4.000000/19.620000/I have a new friend, Alice. (Tôi có một người bạn mới, Alice.);
+070 05.mp3/20.000000/22.570000/She has short hair. (Cô ấy có mái tóc ngắn.);
+070 05.mp3/22.000000/27.390000/And she has curly hair. (Và cô ấy có mái tóc xoăn.);
+070 05.mp3/29.000000/33.650000/Yeah, she has blue eyes. (Ừ, cô ấy có đôi mắt xanh.);
+070 05.mp3/35.000000/37.980000/My new friend is Adam. (Người bạn mới của tôi là Adam.);
+070 05.mp3/39.000000/40.400000/He has curly head. (Anh ấy có cái đầu xoăn.);
+070 05.mp3/40.000000/45.460000/Look over there. It's Adam. (Nhìn đằng kia. Đó là Adam.);
+070 05.mp3/47.000000/48.640000/He's with Alice. (Anh ấy ở cùng với Alice.);
+070 05.mp3/50.000000/51.850000/Are you friends? (Bạn có phải là bạn không?);
+070 05.mp3/54.000000/55.710000/Brother and sister. (Anh chị em.);
+070 05.mp3/55.000000/58.930000/We're cousins. (Chúng tôi là anh em họ.);
+070 05.mp3/59.000000/62.920000/And now, we're all friends. (Và bây giờ, chúng tôi đều là bạn bè.);

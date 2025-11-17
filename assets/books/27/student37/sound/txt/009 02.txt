@@ -1,0 +1,8 @@
+009 02.mp3/0.000000/4.670000/Listening 9. Listen and point. (Nghe 9. Nghe và chỉ điểm.);
+009 02.mp3/6.000000/8.170000/Point to orange. (Chỉ vào màu cam.);
+009 02.mp3/9.000000/11.620000/Point to the coat. (Chỉ vào chiếc áo khoác.);
+009 02.mp3/12.000000/14.330000/What color is it? (Nó có màu gì?);
+009 02.mp3/15.000000/16.250000/It's blue. (Nó màu xanh.);
+009 02.mp3/17.000000/18.240000/Point to red. (Chỉ vào màu đỏ.);
+009 02.mp3/18.000000/19.620000/Point to brown. (Chỉ vào màu nâu.);
+009 02.mp3/20.000000/31.480000/Point to black. (Chỉ vào màu đen.);

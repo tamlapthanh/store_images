@@ -1,0 +1,7 @@
+114.mp3/0.000000/7.120000/Listening 114. Listen and write A or B. (Nghe 114. Nghe và viết A hoặc B.);
+114.mp3/8.000000/11.970000/1. She can ride a bike. (1. Cô ấy có thể đi xe đạp.);
+114.mp3/13.000000/16.860000/2. He can run. (2. Anh ấy có thể chạy.);
+114.mp3/19.000000/22.770000/3. She cant ride a bike. (3. Cô ấy không thể đi xe đạp.);
+114.mp3/24.000000/27.440000/4. She Cant Run. (4. Cô ấy không thể chạy.);
+114.mp3/29.000000/32.790000/5. She Can Read. (5. Cô ấy có thể đọc.);
+114.mp3/34.000000/37.860000/6. It Can Fly. (6. Nó có thể bay.);

@@ -1,0 +1,15 @@
+120.mp3/1.000000/2.726000/Listening 120. (Nghe 120.);
+120.mp3/3.000000/4.941000/Listen and point. (Hãy lắng nghe và chỉ ra.);
+120.mp3/6.000000/8.899000/Listen to an audio guide. (Nghe hướng dẫn âm thanh.);
+120.mp3/11.000000/12.448000/Take a photo. (Chụp ảnh.);
+120.mp3/14.000000/16.160000/Draw a picture. (Vẽ một bức tranh.);
+120.mp3/18.000000/19.673000/visit the gift shop. (ghé thăm cửa hàng quà tặng.);
+120.mp3/21.000000/23.287000/Draw a picture. (Vẽ một bức tranh.);
+120.mp3/25.000000/26.740000/Take a photo. (Chụp ảnh.);
+120.mp3/28.000000/30.375000/visit The Gift Shop. (ghé thăm Cửa hàng quà tặng.);
+120.mp3/32.000000/34.928000/Listen to an audio guide. (Nghe hướng dẫn âm thanh.);
+120.mp3/37.000000/38.768000/Listen and repeat. (Nghe và lặp lại.);
+120.mp3/40.000000/43.129000/Listen to an audio guide. (Nghe hướng dẫn âm thanh.);
+120.mp3/45.000000/46.848000/Take a photo. (Chụp ảnh.);
+120.mp3/49.000000/50.491000/Draw a picture. (Vẽ một bức tranh.);
+120.mp3/52.000000/54.156000/visit the gift shop. (ghé thăm cửa hàng quà tặng.);

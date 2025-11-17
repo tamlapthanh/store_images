@@ -1,0 +1,5 @@
+137.mp3/0.000000/5.760000/Listening, 137. Listen and point. (Nghe, 137. Nghe và chỉ điểm.);
+137.mp3/5.000000/28.840000/Ear, ear, ear. Near, ear here. Air, scare air. Share, air square. (Tai, tai, tai. Gần đây, tai đây. Không khí, không khí sợ hãi. Chia sẻ, không khí vuông.);
+137.mp3/28.000000/48.600000/Ear, near, air, square. Ear, hear, air. Scare, air share. (Tai, gần, khí, vuông. Tai, nghe, không khí. Sợ hãi, chia sẻ không khí.);
+137.mp3/48.000000/57.360000/Ear, ear. Listen and repeat. (Tai, tai. Nghe và lặp lại.);
+137.mp3/57.000000/79.200000/Ear, near, here air scare share square. (Tai, gần, ở đây không khí sợ chia vuông.);

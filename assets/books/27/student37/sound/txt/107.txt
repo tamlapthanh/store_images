@@ -1,0 +1,6 @@
+107.mp3/0.000000/5.420000/Listening 107. Listen and say, (Nghe 107. Nghe và nói,);
+107.mp3/5.000000/8.100000/I can run. (Tôi có thể chạy.);
+107.mp3/8.000000/11.170000/I can't catch. (Tôi không thể bắt được.);
+107.mp3/12.000000/14.700000/She can play soccer. (Cô ấy có thể chơi bóng đá.);
+107.mp3/16.000000/18.420000/He can't ride a bike. (Anh ấy không thể đi xe đạp.);
+107.mp3/20.000000/21.490000/It can fly. (Nó có thể bay.);

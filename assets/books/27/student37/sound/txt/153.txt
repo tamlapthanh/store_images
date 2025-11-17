@@ -1,0 +1,12 @@
+153.mp3/0.000000/7.700000/Listening, 153. Listen and number 1. (Nghe, 153. Nghe và số 1.);
+153.mp3/8.000000/12.380000/Dad, may I go on the slide please? (Bố ơi, con có thể đi cầu trượt được không?);
+153.mp3/13.000000/15.440000/Yes. Okay, 5 minutes. (Đúng. Được rồi, 5 phút.);
+153.mp3/16.000000/17.660000/Thanks, dad. (Cảm ơn bố.);
+153.mp3/21.000000/21.480000/2. (2.);
+153.mp3/21.000000/25.750000/Be careful of the car, James. Are you okay? (Hãy cẩn thận với chiếc xe, James. Bạn có ổn không?);
+153.mp3/26.000000/29.850000/I'm okay. Where's the car? (Tôi ổn. Xe đâu?);
+153.mp3/30.000000/31.650000/It's behind you. (Nó ở phía sau bạn.);
+153.mp3/35.000000/36.120000/3. (3.);
+153.mp3/36.000000/42.230000/Dad, look over here! I'm on the swing! (Bố, nhìn qua đây! Tôi đang ở trên xích đu!);
+153.mp3/45.000000/46.100000/4. (4.);
+153.mp3/46.000000/50.300000/That's good. Come down now, it's time to go! (Tốt đấy. Hãy xuống ngay bây giờ, đã đến lúc phải đi rồi!);

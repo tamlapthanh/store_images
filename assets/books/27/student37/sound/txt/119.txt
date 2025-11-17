@@ -1,0 +1,10 @@
+119.mp3/1.000000/3.249000/Listening 119. (Nghe 119.);
+119.mp3/4.000000/5.736000/Listen and read. (Nghe và đọc.);
+119.mp3/7.000000/9.527000/The Five Senses. (Năm giác quan.);
+119.mp3/10.000000/10.924000/What? (Cái gì?);
+119.mp3/12.000000/15.204000/You can see with your eyes. (Bạn có thể nhìn thấy bằng mắt.);
+119.mp3/18.000000/21.330000/You can hear with your ears. (Bạn có thể nghe bằng tai.);
+119.mp3/24.000000/27.973000/You can smell with your nose. (Bạn có thể ngửi bằng mũi.);
+119.mp3/31.000000/34.184000/You can taste with your tongue. (Bạn có thể nếm bằng lưỡi của mình.);
+119.mp3/36.000000/36.636000/Bye. (Tạm biệt.);
+119.mp3/38.000000/41.037000/You can touch with your hands. (Bạn có thể chạm bằng tay.);

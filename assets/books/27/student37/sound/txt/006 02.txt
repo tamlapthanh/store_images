@@ -1,0 +1,4 @@
+006 02.mp3/0.000000/4.700000/Listening 6. Listen and point. (Nghe 6. Nghe và chỉ điểm.);
+006 02.mp3/4.000000/70.770000/A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z (A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z);
+006 02.mp3/70.000000/74.660000/Listen and repeat. (Nghe và lặp lại.);
+006 02.mp3/74.000000/140.690000/A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z (A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z);

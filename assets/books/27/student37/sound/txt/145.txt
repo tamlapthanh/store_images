@@ -1,0 +1,12 @@
+145.mp3/1.000000/3.099000/Listening 145. (Nghe 145.);
+145.mp3/4.000000/5.540000/Listen and point. (Hãy lắng nghe và chỉ ra.);
+145.mp3/7.000000/7.641000/Poster. (Áp phích.);
+145.mp3/9.000000/10.326000/Picture (Hình ảnh);
+145.mp3/12.000000/13.119000/Drawers (ngăn kéo);
+145.mp3/15.000000/15.883000/Drawers (ngăn kéo);
+145.mp3/18.000000/18.610000/Poster (Áp phích);
+145.mp3/20.000000/21.263000/Picture. (Hình ảnh.);
+145.mp3/23.000000/24.961000/Listen and repeat. (Nghe và lặp lại.);
+145.mp3/26.000000/26.673000/Poster. (Áp phích.);
+145.mp3/28.000000/29.358000/Picture (Hình ảnh);
+145.mp3/31.000000/32.150000/Drawers (ngăn kéo);

@@ -1,0 +1,5 @@
+143 05.mp3/0.000000/5.460000/Listening 143. Listen and read. (Nghe 143. Nghe và đọc.);
+143 05.mp3/5.000000/18.080000/This is Lee. He's a new boy in our class. (Đây là Lý. Cậu ấy là học sinh mới của lớp chúng tôi.);
+143 05.mp3/19.000000/25.910000/That is our board, and those are our computers. (Đó là bảng mạch của chúng tôi, và đó là những chiếc máy tính của chúng tôi.);
+143 05.mp3/27.000000/31.240000/This is your table and your chair. (Đây là bàn và ghế của bạn.);
+143 05.mp3/32.000000/40.080000/This is my pencil case, and these are pencil cases. (Đây là hộp bút chì của tôi, và đây là hộp bút chì.);

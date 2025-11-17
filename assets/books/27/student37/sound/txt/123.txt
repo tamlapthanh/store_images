@@ -1,0 +1,6 @@
+123.mp3/0.000000/2.897000/Listening, 123. (Đang nghe, 123.);
+123.mp3/3.000000/5.250000/Listen and say. (Hãy nghe và nói.);
+123.mp3/6.000000/8.278000/May I visit the gift shop? (Tôi có thể ghé thăm cửa hàng quà tặng được không?);
+123.mp3/9.000000/11.143000/Yes, you may. (Vâng, bạn có thể.);
+123.mp3/12.000000/14.860000/May I take a photo? (Tôi có thể chụp ảnh được không?);
+123.mp3/15.000000/18.144000/No, you may not. (Không, bạn có thể không.);

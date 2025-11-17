@@ -1,0 +1,8 @@
+093.mp3/1.000000/5.050000/Listening 93. Listen and point. (Nghe 93. Nghe và chỉ điểm.);
+093.mp3/7.000000/24.350000/Play, dance, sing, eat, talk, watch, sing. (Chơi, nhảy, hát, ăn, nói chuyện, xem, hát.);
+093.mp3/24.000000/29.460000/Eat, watch. (Ăn, xem.);
+093.mp3/31.000000/37.220000/Play, dancing, talk. (Chơi, nhảy, nói chuyện.);
+093.mp3/37.000000/40.660000/Listen and repeat. (Nghe và lặp lại.);
+093.mp3/41.000000/48.090000/Play, danc, sing (Chơi, nhảy, hát);
+093.mp3/48.000000/53.250000/Eat, talk (Ăn nói chuyện);
+093.mp3/53.000000/55.980000/Watch (Đồng hồ);

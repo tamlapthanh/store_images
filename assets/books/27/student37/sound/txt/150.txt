@@ -1,0 +1,9 @@
+150.mp3/0.000000/5.520000/Listening 150. Listen and number. (Nghe 150. Nghe và đếm.);
+150.mp3/6.000000/14.340000/Hello, my name is Thu. I go to Duan Thi Diem Primary School. (Xin chào, tôi tên là Thu. Tôi học ở trường tiểu học Duẩn Thị Điểm.);
+150.mp3/16.000000/23.710000/1. Can you see me? I have long hair. It's black. (1. Bạn có thể nhìn thấy tôi không? Tôi có mái tóc dài. Nó màu đen.);
+150.mp3/25.000000/33.560000/2. Our teacher is Miss Luan. She has long hair too. (2. Cô giáo của chúng tôi là cô Luân. Cô ấy cũng có mái tóc dài.);
+150.mp3/33.000000/43.750000/3. My friend is Thanh. He has short black hair. (3. Bạn tôi là Thành. Anh ấy có mái tóc đen ngắn.);
+150.mp3/45.000000/51.410000/4. We have a big board in our classroom. (4. Chúng tôi có một tấm bảng lớn trong lớp học.);
+150.mp3/53.000000/58.790000/5. There are two windows in the classroom. (5. Có hai cửa sổ trong lớp học.);
+150.mp3/61.000000/64.600000/6. There is one door. (6. Có một cánh cửa.);
+150.mp3/66.000000/71.360000/7. There's a poster on the wall. (7. Có một tấm áp phích trên tường.);

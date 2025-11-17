@@ -1,0 +1,13 @@
+151.mp3/0.000000/6.050000/Listening 151. Listen and write. (Nghe 151. Nghe và viết.);
+151.mp3/7.000000/11.110000/1. Where's the dog? (1. Con chó đâu?);
+151.mp3/11.000000/13.940000/It's on the rug. (Nó ở trên tấm thảm.);
+151.mp3/15.000000/18.500000/2. Where're the computer? (2. Máy tính ở đâu?);
+151.mp3/19.000000/21.670000/It's under the cabinet. (Nó ở dưới tủ.);
+151.mp3/24.000000/27.680000/3. Where are my blankets? (3. Chăn của tôi đâu?);
+151.mp3/29.000000/30.910000/They are on the shelf. (Họ đang ở trên kệ.);
+151.mp3/32.000000/36.570000/4. Where' re the three books? (4. Ba cuốn sách ở đâu?);
+151.mp3/37.000000/40.000000/They're under the drawers. (Chúng ở dưới ngăn kéo.);
+151.mp3/40.000000/46.100000/5. Where's the audio guide? (5. Hướng dẫn âm thanh ở đâu?);
+151.mp3/46.000000/48.550000/It's on the bed. (Nó ở trên giường.);
+151.mp3/50.000000/53.340000/6. Where' re the pillow? (6. Cái gối ở đâu?);
+151.mp3/54.000000/56.520000/It's under the blankets. (Nó ở dưới chăn.);

@@ -1,0 +1,13 @@
+048.mp3/0.000000/4.600000/Listening 48. Listen and point. (Nghe 48. Nghe và chỉ điểm.);
+048.mp3/5.000000/20.020000/Elephant, giraffe, monkey, big, tall, little (Voi, hươu cao cổ, khỉ, to, cao, nhỏ);
+048.mp3/20.000000/25.670000/Monkey, tall (Khỉ, cao);
+048.mp3/25.000000/31.230000/Giraffe, big (Hươu cao cổ, lớn);
+048.mp3/31.000000/33.940000/Elephant (Con voi);
+048.mp3/33.000000/36.580000/Little (Nhỏ bé);
+048.mp3/36.000000/40.460000/Listen and repeat. (Nghe và lặp lại.);
+048.mp3/41.000000/42.320000/Elephant (Con voi);
+048.mp3/42.000000/45.240000/Giraffe (Hươu cao cổ);
+048.mp3/45.000000/47.920000/Monkey (Con khỉ);
+048.mp3/47.000000/50.690000/Big (To lớn);
+048.mp3/50.000000/53.340000/Tall (Cao);
+048.mp3/53.000000/55.980000/Little (Nhỏ bé);

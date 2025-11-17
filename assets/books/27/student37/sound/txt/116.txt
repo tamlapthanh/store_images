@@ -1,0 +1,4 @@
+116.mp3/0.000000/9.660000/Listening, 116. Listen, read, and say. One. (Nghe, 116. Nghe, đọc và nói. Một.);
+116.mp3/11.000000/14.890000/Hi, Ellie. I'm wearing new shoes. (Chào Ellie. Tôi đang đi giày mới.);
+116.mp3/15.000000/23.900000/I'm walking to school. (Tôi đang đi bộ tới trường.);
+116.mp3/25.000000/27.800000/I'm going to school too. (Tôi cũng sắp đi học.);

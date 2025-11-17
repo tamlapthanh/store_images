@@ -1,0 +1,8 @@
+126.mp3/0.000000/3.000000/Listening 126 (Nghe 126);
+126.mp3/3.000000/5.660000/Listen and sing (Nghe và hát);
+126.mp3/5.000000/8.980000/This is a great museum (Đây là một bảo tàng tuyệt vời);
+126.mp3/40.000000/45.610000/New paintings over there (Tranh mới ở đó);
+126.mp3/45.000000/49.450000/This is a great museum (Đây là một bảo tàng tuyệt vời);
+126.mp3/49.000000/53.520000/An audio guide for you (Hướng dẫn âm thanh dành cho bạn);
+126.mp3/53.000000/57.760000/What a great museam (Thật là một bảo tàng tuyệt vời);
+126.mp3/57.000000/61.630000/Lots to see and do (Rất nhiều thứ để xem và làm);

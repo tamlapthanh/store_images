@@ -1,0 +1,12 @@
+097.mp3/0.000000/2.285000/Listening 97. (Nghe 97.);
+097.mp3/3.000000/4.779000/Listen and point. (Hãy lắng nghe và chỉ ra.);
+097.mp3/6.000000/7.620000/Washing the car. (Rửa xe.);
+097.mp3/9.000000/10.764000/Brushing my hair. (Đang chải tóc cho tôi.);
+097.mp3/12.000000/14.096000/Taking Photos. (Chụp ảnh.);
+097.mp3/16.000000/17.078000/Brushing my hair. (Đang chải tóc cho tôi.);
+097.mp3/19.000000/20.443000/Taking photos. (Đang chụp ảnh.);
+097.mp3/22.000000/23.354000/Washing the car. (Rửa xe.);
+097.mp3/25.000000/26.815000/Listen and repeat. (Nghe và lặp lại.);
+097.mp3/28.000000/29.475000/Washing the car. (Rửa xe.);
+097.mp3/31.000000/32.393000/Brushing my hair. (Đang chải tóc cho tôi.);
+097.mp3/34.000000/35.983000/Taking photos. (Đang chụp ảnh.);

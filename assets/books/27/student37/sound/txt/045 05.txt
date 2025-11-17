@@ -1,0 +1,10 @@
+045 05.mp3/1.000000/2.361000/Listening 45. (Nghe 45.);
+045 05.mp3/3.000000/5.288000/Listen and write. (Nghe và viết.);
+045 05.mp3/7.000000/9.215000/How are you, Kate? I'm fine. (Bạn khỏe không, Kate? Tôi ổn.);
+045 05.mp3/10.000000/10.894000/how was school? (trường học thế nào?);
+045 05.mp3/11.000000/12.799000/It was great. (Nó thật tuyệt.);
+045 05.mp3/14.000000/16.662000/Look, this is my puppet. (Nhìn này, đây là con rối của tôi.);
+045 05.mp3/18.000000/20.536000/Wow, that's great. What's her name? (Ồ, thật tuyệt vời. Tên cô ấy là gì?);
+045 05.mp3/21.000000/22.443000/Her name is Molly. (Tên cô ấy là Molly.);
+045 05.mp3/23.000000/25.653000/Hello, Molly. Nice to meet you. (Xin chào, Molly. Rất vui được gặp bạn.);
+045 05.mp3/26.000000/28.008000/Nice to meet you, too. (Tôi cũng rất vui được gặp bạn.);

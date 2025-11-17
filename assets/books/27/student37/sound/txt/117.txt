@@ -1,0 +1,10 @@
+117.mp3/0.000000/7.490000/Listening, 117. Listen and number one. (Lắng nghe, 117. Hãy lắng nghe và số một.);
+117.mp3/9.000000/9.950000/Hi, James. (Chào James.);
+117.mp3/11.000000/11.870000/Hi, Ellie. (Chào Ellie.);
+117.mp3/12.000000/13.560000/Hi, Kate. (Chào Kate.);
+117.mp3/15.000000/15.860000/Two. (Hai.);
+117.mp3/17.000000/21.860000/Look, James, Kate is wearing new pink shoes. (Nhìn kìa, James, Kate đang đi đôi giày màu hồng mới.);
+117.mp3/22.000000/26.420000/And I'm wearing a new blue T-shirt. (Và tôi đang mặc một chiếc áo phông màu xanh mới.);
+117.mp3/28.000000/29.100000/Three. (Ba.);
+117.mp3/29.000000/31.360000/What are you doing, James? (Anh đang làm gì thế, James?);
+117.mp3/32.000000/37.460000/I'm walking to school. Come on, let's go. (Tôi đang đi bộ tới trường. Đi nào, đi thôi.);

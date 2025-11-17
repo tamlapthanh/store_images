@@ -1,0 +1,12 @@
+040 02.mp3/0.000000/4.870000/Listening 40. Listen and read. (Nghe 40. Nghe và đọc.);
+040 02.mp3/6.000000/10.530000/I'm Ving, and my cousin is Ling. (Tôi là Ving, và anh họ tôi là Ling.);
+040 02.mp3/11.000000/14.680000/Look at my family at the pool. (Hãy nhìn gia đình tôi ở hồ bơi.);
+040 02.mp3/15.000000/17.700000/Where's her teddy bear? (Con gấu bông của cô ấy đâu?);
+040 02.mp3/19.000000/20.350000/Let's find it! (Hãy tìm nó!);
+040 02.mp3/21.000000/23.310000/Is it in the pool? (Nó có ở trong hồ bơi không?);
+040 02.mp3/24.000000/25.340000/No! (KHÔNG!);
+040 02.mp3/26.000000/28.610000/Is it on the chair? (Nó ở trên ghế à?);
+040 02.mp3/29.000000/30.560000/No! (KHÔNG!);
+040 02.mp3/32.000000/34.160000/Is it under the slide? (Nó có ở dưới cầu trượt không?);
+040 02.mp3/35.000000/36.940000/Yes, it is! (Vâng, đúng vậy!);
+040 02.mp3/37.000000/39.900000/Ling is happy now. (Hiện giờ Linh đang rất vui.);

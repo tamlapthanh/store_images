@@ -1,0 +1,11 @@
+127.mp3/0.000000/5.950000/Listening 127. Listen and point. (Nghe 127. Nghe và chỉ điểm.);
+127.mp3/5.000000/22.570000/O, boat, o, goat, oy, toy, oy (O, thuyền, o, dê, oy, đồ chơi, oy);
+127.mp3/22.000000/32.280000/Boy, oi, boy, o (Này cậu bé, ôi, cậu bé, ồ);
+127.mp3/32.000000/37.620000/Boat, o (Thuyền ơi);
+127.mp3/37.000000/42.300000/Goat, oy (Dê ơi);
+127.mp3/42.000000/43.710000/Toy (Đồ chơi);
+127.mp3/43.000000/48.230000/Listen and repeat. (Nghe và lặp lại.);
+127.mp3/49.000000/54.580000/O,boat, o (ồ, thuyền, ồ);
+127.mp3/54.000000/59.020000/Goat, oy (Dê ơi);
+127.mp3/59.000000/63.130000/Toy, oy (Đồ chơi, ôi);
+127.mp3/63.000000/65.000000/Boy (Con trai);

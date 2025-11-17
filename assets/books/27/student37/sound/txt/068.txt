@@ -1,0 +1,10 @@
+068.mp3/0.000000/4.910000/Listening 68. Listen and point. (Nghe 68. Nghe và chỉ điểm.);
+068.mp3/6.000000/20.580000/Long, short, black, curly, straight, curly (Dài, ngắn, đen, xoăn, thẳng, xoăn);
+068.mp3/20.000000/26.050000/Long, black (Dài, đen);
+068.mp3/26.000000/31.010000/Straight, short (Thẳng, ngắn);
+068.mp3/31.000000/34.880000/Listen and repeat (Nghe và lặp lại);
+068.mp3/34.000000/37.160000/Long, (Dài,);
+068.mp3/39.000000/39.840000/Short (Ngắn);
+068.mp3/39.000000/42.560000/Black (Đen);
+068.mp3/42.000000/45.200000/Curly (Quăn);
+068.mp3/45.000000/47.880000/Straight (Thẳng);
