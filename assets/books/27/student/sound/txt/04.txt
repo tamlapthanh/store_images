@@ -1,0 +1,11 @@
+04.mp3/0/1.451701/Listening for. (Đang lắng nghe.);
+04.mp3/2/3.796168/Listen and point. (Hãy lắng nghe và chỉ ra.);
+04.mp3/6/6.682744/Hi! (CHÀO!);
+04.mp3/7/8.249728/I'm Rosie. (Tôi là Rosie.);
+04.mp3/8/10.466077/This is Orange. (Đây là màu cam.);
+04.mp3/13/14.283900/Hi. (CHÀO.);
+04.mp3/14/15.741088/I'm Tim. (Tôi là Tim.);
+04.mp3/16/17.630023/This is Pink. (Đây là màu hồng.);
+04.mp3/21/22.993220/Hi, I'm Billy. (Xin chào, tôi là Billy.);
+04.mp3/23/25.241497/This is Brown. (Đây là màu nâu.);
+04.mp3/28/33.349501/Hi, I'm Miss Jones. This is Purple. (Xin chào, tôi là cô Jones. Đây là màu tím.);

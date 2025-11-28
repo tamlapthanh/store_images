@@ -1,0 +1,17 @@
+010.mp3/0/2.304512/Listening, 10. (Lắng nghe, 10.);
+010.mp3/3/5.821111/Listen, draw, and color. (Nghe, vẽ và tô màu.);
+010.mp3/6/7.226122/one. (một.);
+010.mp3/8/10.755351/This is Sarah. (Đây là Sarah.);
+010.mp3/11/14.423469/She has blue eyes. (Cô ấy có đôi mắt xanh.);
+010.mp3/15/18.067506/She has long hair. (Cô ấy có mái tóc dài.);
+010.mp3/19/21.470952/It's straight and black. (Nó thẳng và đen.);
+010.mp3/23/23.732132/2. (2.);
+010.mp3/24/26.786077/This is Rick. (Đây là Rick.);
+010.mp3/27/30.509955/He has green eyes. (Anh ấy có đôi mắt màu xanh lá cây.);
+010.mp3/31/34.376848/He has short hair. (Anh ấy có mái tóc ngắn.);
+010.mp3/35/37.892925/It's curly and brown. (Nó xoăn và có màu nâu.);
+010.mp3/40/40.657823/three. (ba.);
+010.mp3/41/43.348322/This is Link. (Đây là Liên kết.);
+010.mp3/44/47.400862/She has brown eyes. (Cô ấy có đôi mắt màu nâu.);
+010.mp3/48/51.310816/She has long hair. (Cô ấy có mái tóc dài.);
+010.mp3/52/55.380000/It's straight and black. (Nó thẳng và đen.);
