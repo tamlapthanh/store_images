@@ -1,0 +1,8 @@
+043.mp3/1/2.900000/Listening 43 (Nghe 43);
+043.mp3/3/5.960000/Listen and check the box. (Nghe và đánh dấu vào ô.);
+043.mp3/8/9.920000/Is it a doll? (Có phải là một con búp bê?);
+043.mp3/12/14.860000/Is this your pen? (Đây có phải là cây bút của bạn không?);
+043.mp3/17/19.520000/Is it a door? (Có phải là một cánh cửa?);
+043.mp3/22/24.080000/Is it a cat? (Có phải là một con mèo?);
+043.mp3/27/29.180000/Is this a pencil? (Đây có phải là một cây bút chì?);
+043.mp3/32/34.140000/Is it a train? (Có phải là một chuyến tàu?);
