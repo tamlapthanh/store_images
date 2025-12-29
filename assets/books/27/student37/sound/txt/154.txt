@@ -2,7 +2,7 @@
 154.mp3/1/3.208957/154. (154.);
 154.mp3/4/4.831723/Listen. (Nghe.);
 154.mp3/5/5.910408/End point. (Điểm cuối.);
-154.mp3/7/8.026327/A Hole. (Một cái lỗ.);
+154.mp3/7/8.026327/A Whole. (Toàn bộ.);
 154.mp3/9/10.943265/A half. (Một nửa.);
 154.mp3/13/14.054127/a third (một phần ba);
 154.mp3/16/16.868571/a quarter (một phần tư);
@@ -11,9 +11,9 @@
 154.mp3/25/26.117619/a half. (một nửa.);
 154.mp3/28/29.652177/three quarters (ba phần tư);
 154.mp3/31/32.561723/a third (một phần ba);
-154.mp3/34/35.554444/A Hole. (Một cái lỗ.);
+154.mp3/34/35.554444/A Whole. (Toàn bộ.);
 154.mp3/37/38.874898/Listen and repeat. (Nghe và lặp lại.);
-154.mp3/40/41.477120/A Hole. (Một cái lỗ.);
+154.mp3/40/41.477120/a Whole. (Toàn bộ.);
 154.mp3/43/44.578821/a half (một nửa);
 154.mp3/46/47.538186/a third (một phần ba);
 154.mp3/49/50.618186/a quarter (một phần tư);
