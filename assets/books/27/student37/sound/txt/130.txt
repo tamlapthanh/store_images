@@ -1,4 +1,7 @@
-130.mp3/0.000000/5.460000/Listening 130. Listen and say the number. (Nghe 130. Nghe và nói số.);
-130.mp3/7.000000/9.580000/May I visit the gift shop? (Tôi có thể ghé thăm cửa hàng quà tặng được không?);
-130.mp3/10.000000/13.670000/May I listen to an audio guide? (Tôi có thể nghe hướng dẫn âm thanh được không?);
-130.mp3/15.000000/17.760000/May I draw a picture? (Tôi có thể vẽ một bức tranh được không?);
+130.mp3/0/2.825714/Listening, 130 (Nghe, 130);
+130.mp3/3/3.986712/Listen. (Nghe.);
+130.mp3/4/5.601655/and say the number. (và nói số đó.);
+130.mp3/7/8.227937/May I visit? (Tôi có thể ghé thăm được không?);
+130.mp3/8/9.636100/The Gift Shop! (Cửa hàng quà tặng!);
+130.mp3/10/13.785692/May I listen to an audio guide? (Tôi có thể nghe hướng dẫn âm thanh được không?);
+130.mp3/15/18.096395/May I draw a picture? (Tôi có thể vẽ một bức tranh được không?);

@@ -1,3 +1,14 @@
-026.mp3/0/2.880000/Listening 26. (Nghe 26.);
-026.mp3/3/5.020000/Listen and point. (Hãy lắng nghe và chỉ ra.);
-026.mp3/24/25.120000/And repeat. (Và lặp lại.);
+026.mp3/0/2.582585/Listening 26 (Nghe 26);
+026.mp3/3/3.772109/Listen. (Nghe.);
+026.mp3/3/4.703243/End point. (Điểm cuối.);
+026.mp3/6/7.344603/bag (cái túi);
+026.mp3/9/10.057256/door (cửa);
+026.mp3/12/12.764875/window (cửa sổ);
+026.mp3/14/15.519456/window (cửa sổ);
+026.mp3/17/18.175465/door (cửa);
+026.mp3/20/20.904512/bag (cái túi);
+026.mp3/23/23.588685/Listen. (Nghe.);
+026.mp3/24/24.791769/And repeat. (Và lặp lại.);
+026.mp3/26/27.266916/bag (cái túi);
+026.mp3/29/29.979569/door (cửa);
+026.mp3/32/32.662404/window (cửa sổ);

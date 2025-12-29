@@ -1,9 +1,4 @@
-085.mp3/0.000000/6.530000/Listening 85. Listen and read. (Nghe 85. Nghe và đọc.);
-085.mp3/19.000000/21.000000/Here's the train! (Đây là tàu!);
-085.mp3/22.000000/24.680000/Where are you? (Bạn ở đâu?);
-085.mp3/26.000000/28.280000/We're at the gate. (Chúng tôi đang ở cổng.);
-085.mp3/29.000000/34.550000/I'm wearing a blue skirt and a red scarf. (Tôi đang mặc váy xanh và quàng khăn đỏ.);
-085.mp3/35.000000/36.980000/And Joe? (Còn Joe?);
-085.mp3/37.000000/42.560000/He's wearing jeans and a yellow shirt. (Anh ấy mặc quần jean và áo sơ mi màu vàng.);
-085.mp3/44.000000/45.540000/Here they are! (Họ đây rồi!);
-085.mp3/45.000000/49.910000/Hello, and welcome! (Xin chào và chào mừng!);
+085.mp3/1/2.655556/Listening 85 (Nghe 85);
+085.mp3/4/5.506735/Listen. (Nghe.);
+085.mp3/5/6.582086/and read. (và đọc.);
+085.mp3/7/51.584059/Look! Here's the train! Where are you? We're at the gate. I'm wearing a blue skirt and a red scarf. And Joe? He's wearing jeans and a yellow shirt. Here they are. Hello and welcome. (Nhìn! Đây là tàu! Bạn ở đâu? Chúng tôi đang ở cổng. Tôi đang mặc váy xanh và quàng khăn đỏ. Còn Joe? Anh ấy mặc quần jean và áo sơ mi màu vàng. Họ đây rồi. Xin chào và chào mừng.);

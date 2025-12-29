@@ -1,4 +1,10 @@
-134.mp3/0.000000/5.580000/Listening 134. Listen and say, (Nghe 134. Nghe và nói,);
-134.mp3/6.000000/9.820000/There's a doll on the rug. (Có một con búp bê trên tấm thảm.);
-134.mp3/11.000000/14.190000/There are some toys in the cabinet. (Có một số đồ chơi trong tủ.);
-134.mp3/15.000000/19.640000/There are a lot of books under the bed. (Có rất nhiều sách dưới gầm giường.);
+134.mp3/1/1.633651/Listening. (Lắng nghe.);
+134.mp3/1/3.255374/134. (134.);
+134.mp3/3/4.493673/Listen. (Nghe.);
+134.mp3/4/5.693288/And say... (Và nói...);
+134.mp3/7/8.466259/There's a doll (Có một con búp bê);
+134.mp3/8/9.904354/On the Rug (Trên tấm thảm);
+134.mp3/11/12.816417/There are some toys (Có một số đồ chơi);
+134.mp3/13/14.458118/In the Cabinet. (Trong Nội các.);
+134.mp3/15/18.122313/There are a lot of books (Có rất nhiều sách);
+134.mp3/18/19.691791/Under the Bed. (Dưới Giường.);

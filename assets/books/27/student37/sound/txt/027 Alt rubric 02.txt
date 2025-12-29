@@ -1,4 +1,9 @@
-027 Alt rubric 02.mp3/0/2.220000/Listening 27. (Nghe 27.);
-027 Alt rubric 02.mp3/2/6.580000/Listen and sing Clean Up, Clean Up. (Nghe và hát Dọn dẹp, Dọn dẹp.);
-027 Alt rubric 02.mp3/10/12.200000/;
-027 Alt rubric 02.mp3/12/45.180000/Clean up, clean up, it's time to go home. Is this his pen? Yes it is, and this is his bag too. Is this her book? No it isn't, but this is her eraser. Close the window, open the door, it's time to go home. (Dọn dẹp, dọn dẹp, đã đến giờ về nhà. Đây có phải là cây bút của anh ấy không? Đúng vậy, và đây cũng là túi của anh ấy. Đây có phải là cuốn sách của cô ấy không? Không, không phải, nhưng đây là cục tẩy của cô ấy. Đóng cửa sổ, mở cửa, đã đến giờ về nhà.);
+027 Alt rubric 02.mp3/0/2.026757/Listening 27 (Nghe 27);
+027 Alt rubric 02.mp3/2/3.246689/Listen. (Nghe.);
+027 Alt rubric 02.mp3/3/4.462993/and sing (và hát);
+027 Alt rubric 02.mp3/4/5.417415/Clean up! (Dọn dẹp!);
+027 Alt rubric 02.mp3/5/6.390522/Clean up! (Dọn dẹp!);
+027 Alt rubric 02.mp3/8/8.863900/you (Bạn);
+027 Alt rubric 02.mp3/9/9.844422/you (Bạn);
+027 Alt rubric 02.mp3/10/11.969161/... (...);
+027 Alt rubric 02.mp3/12/44.970454/Clean up! Clean up! It's time to go home! Is this his pen? Yes, it is! And this is his bag too! Is this her book? No, it isn't! But this is her eraser! Close the window! Open the door! It's time to go home! you (Dọn dẹp! Dọn dẹp! Đã đến lúc phải về nhà! Đây có phải là cây bút của anh ấy không? Vâng, đúng vậy! Và đây cũng là túi của anh ấy! Đây có phải là cuốn sách của cô ấy không? Không, không phải vậy! Nhưng đây là cục tẩy của cô ấy! Đóng cửa sổ lại! Mở cửa! Đã đến lúc phải về nhà! Bạn);

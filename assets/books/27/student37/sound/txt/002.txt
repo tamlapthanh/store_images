@@ -1,7 +1,8 @@
-002.mp3/1.000000/2.110000/Listening to. (Đang nghe.);
-002.mp3/3.000000/4.654000/Listen and read. (Nghe và đọc.);
-002.mp3/6.000000/10.244000/Thanks for watching! (Cảm ơn đã xem!);
-002.mp3/11.000000/12.662000/;
-002.mp3/14.000000/16.104000/My name's Rose. (Tên tôi là Hoa hồng.);
-002.mp3/17.000000/18.610000/And my name's Tim. (Và tên tôi là Tim.);
-002.mp3/20.000000/24.343000/Hello, class. My name's Miss Jones. (Chào lớp. Tên tôi là cô Jones.);
+002.mp3/1/2.352585/Listening to. (Đang nghe.);
+002.mp3/3/3.895669/Listen. (Nghe.);
+002.mp3/4/4.928889/and read. (và đọc.);
+002.mp3/6/13.028277/Thank you! (Cảm ơn!);
+002.mp3/14/16.648980/My name's Rosie. (Tên tôi là Rosie.);
+002.mp3/17/19.257460/And my name's Tim. (Và tên tôi là Tim.);
+002.mp3/20/22.104308/Hello, class. (Chào lớp.);
+002.mp3/22/24.435397/My name's Miss Jones. (Tên tôi là cô Jones.);

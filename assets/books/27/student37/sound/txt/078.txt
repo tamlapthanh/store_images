@@ -1,5 +1,12 @@
-078.mp3/0.000000/7.150000/Listening 78. Listen and circle the correct word. (Nghe 78. Nghe và khoanh tròn từ đúng.);
-078.mp3/9.000000/13.670000/1. She has curly hair. (1. Cô ấy có mái tóc xoăn.);
-078.mp3/16.000000/19.970000/2. I have short hair. (2. Tôi có mái tóc ngắn.);
-078.mp3/21.000000/25.950000/3. She is tall. (3. Cô ấy cao.);
-078.mp3/27.000000/32.400000/4. He has blue eyes. (4. Anh ấy có đôi mắt xanh.);
+078.mp3/1/2.487143/Listening 78 (Nghe 78);
+078.mp3/3/4.616168/Listen. (Nghe.);
+078.mp3/4/7.184921/Encircle the correct word. (Khoanh tròn từ đúng.);
+078.mp3/9/9.777370/1. (1.);
+078.mp3/10/13.807029/She has curly hair. (Cô ấy có mái tóc xoăn.);
+078.mp3/16/16.607007/2. (2.);
+078.mp3/17/20.116032/I have short hair. (Tôi có mái tóc ngắn.);
+078.mp3/21/22.433764/Three. (Ba.);
+078.mp3/23/24.470975/she (cô ấy);
+078.mp3/24/26.093878/is tall. (cao.);
+078.mp3/27/28.339841/Four. (Bốn.);
+078.mp3/29/32.577574/He has blue eyes! (Anh ấy có đôi mắt xanh!);

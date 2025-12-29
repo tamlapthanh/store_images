@@ -1,8 +1,5 @@
-126.mp3/0.000000/3.000000/Listening 126 (Nghe 126);
-126.mp3/3.000000/5.660000/Listen and sing (Nghe và hát);
-126.mp3/5.000000/8.980000/This is a great museum (Đây là một bảo tàng tuyệt vời);
-126.mp3/40.000000/45.610000/New paintings over there (Tranh mới ở đó);
-126.mp3/45.000000/49.450000/This is a great museum (Đây là một bảo tàng tuyệt vời);
-126.mp3/49.000000/53.520000/An audio guide for you (Hướng dẫn âm thanh dành cho bạn);
-126.mp3/53.000000/57.760000/What a great museam (Thật là một bảo tàng tuyệt vời);
-126.mp3/57.000000/61.630000/Lots to see and do (Rất nhiều thứ để xem và làm);
+126.mp3/0/3.250884/Listening 126 (Nghe 126);
+126.mp3/3/4.524444/Listen. (Nghe.);
+126.mp3/4/5.859229/...and sing. (...và hát.);
+126.mp3/6/9.187347/This is a great museum! (Đây là một bảo tàng tuyệt vời!);
+126.mp3/11/62.223878/This is a great museum! Lots to do and see! What a great museum! Fun for you and me! This is a great museum! Old paintings everywhere! New paintings over there This is a great museum An audio guide for you What a great museum Lots to see and do (Đây là một bảo tàng tuyệt vời! Rất nhiều thứ để làm và xem! Thật là một bảo tàng tuyệt vời! Niềm vui cho bạn và tôi! Đây là một bảo tàng tuyệt vời! Những bức tranh cũ ở khắp mọi nơi! Những bức tranh mới ở đằng kia Đây là một bảo tàng tuyệt vời Hướng dẫn bằng âm thanh cho bạn Thật là một bảo tàng tuyệt vời Rất nhiều điều để xem và làm);

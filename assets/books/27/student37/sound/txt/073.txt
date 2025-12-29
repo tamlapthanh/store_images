@@ -1,6 +1,9 @@
-073.mp3/1.000000/2.398000/Listening 73. (Nghe 73.);
-073.mp3/3.000000/5.521000/Listen and sing. (Nghe và hát.);
-073.mp3/6.000000/7.590000/my new friend. (người bạn mới của tôi.);
-073.mp3/9.000000/12.433000/;
-073.mp3/13.000000/32.982000/she has blue eyes she has curly hair she has blue eyes she's tall she's thin it's alice (cô ấy có đôi mắt xanh cô ấy có mái tóc xoăn cô ấy có đôi mắt xanh cô ấy cao cô ấy gầy đó là Alice);
-073.mp3/33.000000/70.036000/He has brown eyes, he has short hair, he has brown eyes, he's tall, he's thin, it's Adam. She has brown eyes, she has short hair, she has brown eyes, she's tall, she's thin, It's Rosie. (Anh ấy có đôi mắt nâu, anh ấy có mái tóc ngắn, anh ấy có đôi mắt nâu, anh ấy cao, anh ấy gầy, đó là Adam. Cô ấy có đôi mắt nâu, cô ấy có mái tóc ngắn, cô ấy có đôi mắt nâu, cô ấy cao, cô ấy gầy. Đó là Rosie.);
+073.mp3/1/2.627959/Listening 73 (Nghe 73);
+073.mp3/3/4.582880/Listen. (Nghe.);
+073.mp3/4/5.872585/...and sing. (...và hát.);
+073.mp3/6/7.931723/My New Friend (Người bạn mới của tôi);
+073.mp3/9/12.572925/Thank you! (Cảm ơn!);
+073.mp3/13/15.991633/Thank you! (Cảm ơn!);
+073.mp3/16/33.199478/She has blue eyes She has curly hair She has blue eyes She's tall She's thin It's Alice! (Cô ấy có đôi mắt xanh Cô ấy có mái tóc xoăn Cô ấy có đôi mắt xanh Cô ấy cao Cô ấy gầy Đó là Alice!);
+073.mp3/33/50.342336/He has brown eyes He has short hair He has brown eyes He's tall, he's thin It's Adam! (Anh ấy có đôi mắt nâu Anh ấy có mái tóc ngắn Anh ấy có đôi mắt nâu Anh ấy cao, anh ấy gầy Đó là Adam!);
+073.mp3/50/70.237959/She has brown eyes She has short hair She has brown eyes She's tall She's thin It's Rosie! (Cô ấy có đôi mắt nâu Cô ấy có mái tóc ngắn Cô ấy có đôi mắt nâu Cô ấy cao Cô ấy gầy Đó là Rosie!);

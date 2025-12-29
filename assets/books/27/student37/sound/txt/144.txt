@@ -1,2 +1,7 @@
-144.mp3/0.000000/5.600000/Listening 144. Listen and say, (Nghe 144. Nghe và nói,);
-144.mp3/7.000000/13.580000/These are tables. Those are pencil cases. (Đây là những cái bàn. Đó là những chiếc hộp đựng bút chì.);
+144.mp3/1/1.640363/Listening. (Lắng nghe.);
+144.mp3/1/3.349048/144. (144.);
+144.mp3/4/4.634082/Listen. (Nghe.);
+144.mp3/4/5.743832/and say... (và nói...);
+144.mp3/7/9.547710/These are tables. (Đây là những cái bàn.);
+144.mp3/11/12.021905/those (những thứ kia);
+144.mp3/12/13.892041/are pencil cases. (là những chiếc hộp đựng bút chì.);

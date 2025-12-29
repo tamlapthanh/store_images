@@ -1,5 +1,4 @@
-033.mp3/0.000000/4.930000/Listening 33. Listen and chant. (Nghe 33. Nghe và đọc theo nhịp.);
-033.mp3/11.000000/14.490000/Mom, mom, mom (Mẹ, mẹ, mẹ);
-033.mp3/14.000000/23.990000/Dad, dad, dad (Bố, bố, bố);
-033.mp3/23.000000/33.390000/Sister, sister, sister (Chị ơi, chị ơi, chị ơi);
-033.mp3/33.000000/42.730000/Brother, brother, brother (Anh trai, anh trai, anh trai);
+033.mp3/1/2.450045/Listening 33 (Nghe 33);
+033.mp3/3/3.939909/Listen. (Nghe.);
+033.mp3/4/5.001701/and chat. (và trò chuyện.);
+033.mp3/6/51.139819/Mom Dad Sister brother, brother, brother (Mẹ Bố Em trai, em trai, em trai);

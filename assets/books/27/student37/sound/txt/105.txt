@@ -1,6 +1,4 @@
-105.mp3/0.000000/5.560000/Listening 105. Listen and chant. (Nghe 105. Nghe và đọc theo nhịp.);
-105.mp3/11.000000/14.700000/Play soccer, play soccer, (Chơi bóng đá, chơi bóng đá,);
-105.mp3/15.000000/24.030000/play soccer. Ride a bike, ride a bike (chơi bóng đá. Đi xe đạp, đi xe đạp);
-105.mp3/24.000000/32.940000/ride a bicycle. Run, run, (đi xe đạp. Chạy, chạy,);
-105.mp3/34.000000/44.740000/run. Catch, catch, catch. (chạy. Bắt, bắt, bắt.);
-105.mp3/48.000000/54.140000/Fly, fly, fly. (Bay, bay, bay.);
+105.mp3/1/2.993855/Listening 105 (Nghe 105);
+105.mp3/3/4.490385/Listen. (Nghe.);
+105.mp3/4/5.612472/and chat. (và trò chuyện.);
+105.mp3/6/59.499070/play soccer ride a bike run catch catch catch fly fly fly (chơi bóng đá đi xe đạp chạy bắt bắt bay bay bay bay);

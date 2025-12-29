@@ -1,6 +1,4 @@
-138.mp3/0.000000/5.040000/Listening 138. Listen and chant. (Nghe 138. Nghe và đọc theo nhịp.);
-138.mp3/10.000000/14.620000/Don't be scared of Mr. Square. (Đừng sợ Mr. Square.);
-138.mp3/15.000000/18.360000/He has four ears and lots (Anh ấy có bốn tai và rất nhiều);
-138.mp3/18.000000/22.120000/of hair. He is really (của tóc. Anh ấy thực sự);
-138.mp3/22.000000/26.560000/very rare. We can hear (rất hiếm. Chúng ta có thể nghe thấy);
-138.mp3/26.000000/29.000000/you, Mr. Squared! (bạn, ông Squared!);
+138.mp3/0/2.954853/Listening, 138 (Nghe, 138);
+138.mp3/3/4.047982/Listen. (Nghe.);
+138.mp3/4/5.116531/and chat. (và trò chuyện.);
+138.mp3/6/30.412993/don't be scared of mr. square he has four ears and lots of hair he is really very rare we can hear you mr. square (đừng sợ ông. anh ấy hình vuông, có bốn tai và rất nhiều tóc, anh ấy thực sự rất hiếm khi chúng tôi có thể nghe thấy tiếng của bạn, thưa ông. quảng trường);

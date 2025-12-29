@@ -1,2 +1,14 @@
-081.mp3/0.000000/20.590000/Listening 81. Listen and point. Insect, feather, wing. Feather, wing, insect. (Nghe 81. Nghe và chỉ điểm. Côn trùng, lông, cánh. Lông, cánh, côn trùng.);
-081.mp3/22.000000/29.240000/Listen and repeat. Inpect, feather. (Nghe và lặp lại. Kiểm tra, lông vũ.);
+081.mp3/1/2.737256/Listening 81 (Nghe 81);
+081.mp3/3/4.308844/Listen. (Nghe.);
+081.mp3/4/5.347029/End point. (Điểm cuối.);
+081.mp3/6/7.326236/Insect (Côn trùng);
+081.mp3/9/10.003628/Feather (Lông vũ);
+081.mp3/12/13.081066/wing (cánh);
+081.mp3/14/15.575646/Feather (Lông vũ);
+081.mp3/17/18.272789/wing (cánh);
+081.mp3/20/20.984649/Insect. (Côn trùng.);
+081.mp3/22/23.390204/Listen. (Nghe.);
+081.mp3/23/24.429342/And repeat. (Và lặp lại.);
+081.mp3/25/26.611905/Insect (Côn trùng);
+081.mp3/28/29.445283/Feather (Lông vũ);
+081.mp3/31/32.080272/wing (cánh);

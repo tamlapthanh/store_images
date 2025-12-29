@@ -1,1 +1,5 @@
-003.mp3/0.000000/6.720000/Listening 3. Listen and sing. Hello, hello. (Nghe 3. Nghe và hát. Xin chào, xin chào.);
+003.mp3/0/2.205805/Listening 3 (Nghe 3);
+003.mp3/2/3.487710/Listen. (Nghe.);
+003.mp3/3/4.661678/...and sing. (...và hát.);
+003.mp3/5/7.141565/Hello, hello. (Xin chào, xin chào.);
+003.mp3/8/60.834308/Hello Hello How are you? I'm fine, thank you I'm fine, thank you Hello Hello What's your name? My name's That's my name. Goodbye, goodbye, goodbye to you. Goodbye, goodbye, goodbye to you. (Xin chào Xin chào Bạn khỏe không? Tôi ổn, cảm ơn bạn Tôi ổn, cảm ơn bạn Xin chào Xin chào Tên bạn là gì? Tên tôi là Đó là tên tôi. Tạm biệt, tạm biệt, tạm biệt bạn. Tạm biệt, tạm biệt, tạm biệt bạn.);

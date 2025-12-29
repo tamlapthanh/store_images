@@ -1,6 +1,7 @@
-096.mp3/1.000000/2.300000/Listening 96. (Nghe 96.);
-096.mp3/3.000000/4.854000/Listen and say. (Hãy nghe và nói.);
-096.mp3/7.000000/8.849000/What are you doing? (Bạn đang làm gì thế?);
-096.mp3/10.000000/12.494000/I'm dancing with Dad. (Tôi đang khiêu vũ với bố.);
-096.mp3/14.000000/15.861000/What's he doing? (Anh ấy đang làm gì vậy?);
-096.mp3/17.000000/19.338000/He's eating the cake. (Anh ấy đang ăn bánh.);
+096.mp3/1/2.640567/Listening 96 (Nghe 96);
+096.mp3/3/3.977370/Listen. (Nghe.);
+096.mp3/4/5.160113/and say... (và nói...);
+096.mp3/7/9.083810/what are you doing? (Bạn đang làm gì thế?);
+096.mp3/10/12.601633/I'm dancing with dad. (Tôi đang khiêu vũ với bố.);
+096.mp3/14/15.916054/What's he doing? (Anh ấy đang làm gì vậy?);
+096.mp3/17/19.565941/He's eating the cake. (Anh ấy đang ăn bánh.);

@@ -1,6 +1,4 @@
-069.mp3/0.000000/5.170000/Listening 69. Listen and chant. (Nghe 69. Nghe và đọc theo nhịp.);
-069.mp3/11.000000/14.820000/Long, long, long. (Dài, dài, dài.);
-069.mp3/21.000000/24.140000/Short, short, short. (Ngắn, ngắn, ngắn.);
-069.mp3/30.000000/33.620000/Black, black, black. (Đen, đen, đen.);
-069.mp3/40.000000/42.990000/Early, curly, curly. (Sớm, xoăn, xoăn.);
-069.mp3/49.000000/52.340000/Straight, straight, straight. (Thẳng, thẳng, thẳng.);
+069.mp3/1/2.667732/Listening 69 (Nghe 69);
+069.mp3/3/3.907370/Listen. (Nghe.);
+069.mp3/4/5.231995/and chant. (và tụng kinh.);
+069.mp3/6/60.940136/long, long, long short, short, short Curly, curly, curly Straight, straight, straight (dài, dài, dài ngắn, ngắn, ngắn Quăn, xoăn, xoăn Thẳng, thẳng, thẳng);

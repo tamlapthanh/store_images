@@ -1,6 +1,5 @@
-112.mp3/0.000000/5.000000/Listening 112. Listen and chant. (Nghe 112. Nghe và đọc theo nhịp.);
-112.mp3/10.000000/14.730000/I can't fly in the sky. (Tôi không thể bay trên bầu trời.);
-112.mp3/15.000000/19.530000/I'm a train in the rain. (Tôi là một chuyến tàu trong mưa.);
-112.mp3/19.000000/22.180000/I can's fly in (Tôi có thể bay vào);
-112.mp3/22.000000/25.380000/the sky, I'm (bầu trời, tôi);
-112.mp3/25.000000/28.920000/a train, not a plane. (tàu hỏa chứ không phải máy bay.);
+112.mp3/1/1.672676/Listening. (Lắng nghe.);
+112.mp3/1/3.109592/112. (112.);
+112.mp3/3/3.943991/Listen. (Nghe.);
+112.mp3/4/5.068254/and chat. (và trò chuyện.);
+112.mp3/6/30.615306/I can't fly in the sky I'm a train in the rain I can't fly in the sky I'm a train not a plane (Tôi không thể bay trên bầu trời Tôi là một con tàu trong mưa Tôi không thể bay trên bầu trời Tôi là một con tàu không phải một chiếc máy bay);

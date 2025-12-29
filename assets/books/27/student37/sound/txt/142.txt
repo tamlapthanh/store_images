@@ -1,5 +1,5 @@
-142.mp3/0.000000/5.600000/Listening 142. Listen and chant. (Nghe 142. Nghe và đọc theo nhịp.);
-142.mp3/11.000000/16.370000/Table, table, table. (Bàn, bàn, bàn.);
-142.mp3/20.000000/25.580000/Computer, computer, computer. (Máy tính, máy tính, máy tính.);
-142.mp3/30.000000/35.230000/Chair, chair, chair. (Ghế, ghế, ghế.);
-142.mp3/39.000000/44.460000/Board, board, board. (Bảng, bảng, bảng.);
+142.mp3/0/1.546712/Listening. (Lắng nghe.);
+142.mp3/1/3.178707/142 (142);
+142.mp3/3/4.523764/Listen. (Nghe.);
+142.mp3/4/5.676599/and chant. (và tụng kinh.);
+142.mp3/6/49.687279/table table table computer computer computer chair chair chair Bored Bored Bored (bàn bàn bàn máy tính máy tính máy tính cái ghế cái ghế cái ghế Chán Chán Chán);

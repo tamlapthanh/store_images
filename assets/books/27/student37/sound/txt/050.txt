@@ -1,11 +1,7 @@
-050.mp3/1.000000/2.266000/Listening 50. (Nghe 50.);
-050.mp3/3.000000/4.799000/Listen and read. (Nghe và đọc.);
-050.mp3/6.000000/10.400000/;
-050.mp3/12.000000/12.815000/;
-050.mp3/14.000000/16.800000/The zoo! Great! (Sở thú! Tuyệt vời!);
-050.mp3/17.000000/19.502000/I like animals. (Tôi thích động vật.);
-050.mp3/20.000000/31.398000/An elephant, Billy. Oh, no. I don't like elephants. They're big. (Một con voi, Billy. Ồ, không. Tôi không thích voi. Chúng lớn.);
-050.mp3/32.000000/39.344000/Oh, I don't like giraffes. They're tall. (Ồ, tôi không thích hươu cao cổ. Họ cao.);
-050.mp3/40.000000/42.636000/Look over there! (Nhìn đằng kia!);
-050.mp3/43.000000/54.655000/Look! A monkey! I like monkeys. They're little. And I'm little, too. (Nhìn! Một con khỉ! Tôi thích khỉ. Chúng còn nhỏ. Và tôi cũng nhỏ bé.);
-050.mp3/56.000000/61.111000/Yes, they're funny. And you're funny, too. (Vâng, họ rất buồn cười. Và bạn cũng hài hước.);
+050.mp3/1/1.661565/Listening. (Lắng nghe.);
+050.mp3/1/2.483243/50 (50);
+050.mp3/3/4.039501/Listen. (Nghe.);
+050.mp3/4/5.080975/and read. (và đọc.);
+050.mp3/6/17.202449/The zoo! Great! (Sở thú! Tuyệt vời!);
+050.mp3/17/19.739002/I like animals. (Tôi thích động vật.);
+050.mp3/20/62.325374/An elephant, Billy! Oh no! I don't like elephants. They're big! I don't like giraffes. They're tall! Look over there! Look! A monkey! I like monkeys! They're little. And I'm little, too. Yes, they're funny. And you're funny, too. (Một con voi, Billy! Ồ không! Tôi không thích voi. Chúng lớn quá! Tôi không thích hươu cao cổ. Họ cao! Nhìn đằng kia! Nhìn! Một con khỉ! Tôi thích khỉ! Chúng còn nhỏ. Và tôi cũng nhỏ bé. Vâng, họ rất buồn cười. Và bạn cũng hài hước.);

@@ -1,10 +1,5 @@
-007.mp3/0.000000/7.150000/Listening 7. Listen and sing. Alphabet Song. (Nghe 7. Nghe và hát. Bài hát bảng chữ cái.);
-007.mp3/17.000000/25.630000/A, B, C, D, E, F, G, H, I, J, K, L (A, B, C, D, E, F, G, H, I, J, K, L);
-007.mp3/25.000000/28.390000/This is the alphabet (Đây là bảng chữ cái);
-007.mp3/28.000000/33.180000/Lots more letters to know (Còn nhiều chữ cái cần biết);
-007.mp3/33.000000/40.650000/M, N, O, P, Q, R (M, N, O, P, Q, R);
-007.mp3/40.000000/44.870000/S, T, U, V, W, X (S, T, U, V, W, X);
-007.mp3/44.000000/47.690000/This is the alphabet (Đây là bảng chữ cái);
-007.mp3/47.000000/52.460000/Two more letters to go (Còn hai chữ nữa);
-007.mp3/52.000000/59.900000/Y, Z, that's the end (Y, Z, thế là xong);
-007.mp3/59.000000/63.140000/Now we can start again (Bây giờ chúng ta có thể bắt đầu lại);
+007.mp3/1/2.290136/Listening Seven. (Nghe Bảy.);
+007.mp3/3/3.687075/Listen. (Nghe.);
+007.mp3/3/5.010431/...and sing. (...và hát.);
+007.mp3/5/7.297007/Alphabet Song (Bài hát bảng chữ cái);
+007.mp3/9/66.192041/A, B, C, D, E, F G, H, I, J, K, L This is the alphabet Lots more letters to know P, Q, R, S, T, U, B, W, X This is the alphabet Two more letters to go Y, Z, that's the end Now we can start again (A, B, C, D, E, F G, H, I, J, K, L Đây là bảng chữ cái Rất nhiều chữ cái cần biết P, Q, R, S, T, U, B, W, X Đây là bảng chữ cái Còn hai chữ cái nữa là Y, Z, thế là kết thúc Bây giờ chúng ta có thể bắt đầu lại);

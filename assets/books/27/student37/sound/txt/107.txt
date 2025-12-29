@@ -1,6 +1,8 @@
-107.mp3/0.000000/5.420000/Listening 107. Listen and say, (Nghe 107. Nghe và nói,);
-107.mp3/5.000000/8.100000/I can run. (Tôi có thể chạy.);
-107.mp3/8.000000/11.170000/I can't catch. (Tôi không thể bắt được.);
-107.mp3/12.000000/14.700000/She can play soccer. (Cô ấy có thể chơi bóng đá.);
-107.mp3/16.000000/18.420000/He can't ride a bike. (Anh ấy không thể đi xe đạp.);
-107.mp3/20.000000/21.490000/It can fly. (Nó có thể bay.);
+107.mp3/0/2.884807/Listening, 107 (Nghe, 107);
+107.mp3/3/4.394399/Listen. (Nghe.);
+107.mp3/4/5.532812/...and say... (...và nói...);
+107.mp3/6/8.201814/I can run! (Tôi có thể chạy!);
+107.mp3/9/11.268005/I can't catch. (Tôi không thể bắt được.);
+107.mp3/12/14.961723/She can play soccer. (Cô ấy có thể chơi bóng đá.);
+107.mp3/16/18.487347/He can't ride a bike. (Anh ấy không thể đi xe đạp.);
+107.mp3/20/21.611814/It can fly! (Nó có thể bay!);

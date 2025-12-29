@@ -1,6 +1,5 @@
-148.mp3/0.000000/5.470000/Listening 148. Listen and chant. (Nghe 148. Nghe và đọc theo nhịp.);
-148.mp3/12.000000/16.420000/I'm sure there's a mouse in my house. (Tôi chắc chắn có một con chuột trong nhà tôi.);
-148.mp3/16.000000/19.760000/A poor mouse in (Một con chuột tội nghiệp ở);
-148.mp3/19.000000/23.340000/my house! He's on a tour (nhà của tôi! Anh ấy đang đi du lịch);
-148.mp3/23.000000/29.190000/I'm Sure! A tour around (Tôi chắc chắn! Một chuyến tham quan xung quanh);
-148.mp3/29.000000/30.390000/my house (nhà tôi);
+148.mp3/1/1.638005/Listening. (Lắng nghe.);
+148.mp3/1/3.188844/148. (148.);
+148.mp3/3/4.413311/Listen. (Nghe.);
+148.mp3/4/5.566145/and chant. (và tụng kinh.);
+148.mp3/7/31.993560/I'm sure there's a mouse in my house. A poor mouse in my house. He's on a tour, I'm sure. A tour around my house. (Tôi chắc chắn có một con chuột trong nhà tôi. Một con chuột tội nghiệp trong nhà tôi. Tôi chắc chắn là anh ấy đang đi du lịch. Một vòng quanh nhà tôi.);

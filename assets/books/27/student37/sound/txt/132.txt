@@ -1,6 +1,5 @@
-132.mp3/0.000000/6.110000/Listening 132. Listen and chant. (Nghe 132. Nghe và đọc theo nhịp.);
-132.mp3/12.000000/15.530000/Rug, rug, rug. (Thảm, thảm, thảm.);
-132.mp3/22.000000/24.940000/Cabinet, cabinet, cabinet. (Tủ, tủ, tủ.);
-132.mp3/31.000000/34.390000/Shelf, shelf, shelf. (Kệ, kệ, kệ.);
-132.mp3/41.000000/43.710000/Pillow, pillow, pillow. (Gối, gối, gối.);
-132.mp3/50.000000/53.140000/Blanket, blanket, blanket. (Chăn, chăn, chăn.);
+132.mp3/1/1.782132/Listening. (Lắng nghe.);
+132.mp3/2/3.443243/132 (132);
+132.mp3/4/4.972381/Listen. (Nghe.);
+132.mp3/5/6.180635/and chant. (và tụng kinh.);
+132.mp3/7/61.667324/Rug Cabinet Shelf Pillow Pillow Pillow Blanket Blanket Blanket (Thảm Kệ Tủ Gối Gối Chăn Chăn Chăn);

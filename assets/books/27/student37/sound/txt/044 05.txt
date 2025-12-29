@@ -1,5 +1,8 @@
-044 05.mp3/0.000000/6.340000/Listening 44. Listen, read, and say. (Nghe 44. Nghe, đọc và nói.);
-044 05.mp3/7.000000/13.640000/1. Dad! Dad! And this is Mrs. Smith. (1. Bố ơi! Bố! Và đây là bà Smith.);
-044 05.mp3/14.000000/15.140000/And this ist my dad. (Và đây là bố tôi.);
-044 05.mp3/16.000000/19.080000/2. Nice to meet you. (2. Rất vui được gặp bạn.);
-044 05.mp3/19.000000/20.900000/Nice to met you too. (Rất vui được gặp bạn.);
+044 05.mp3/0/2.440249/Listening 44 (Nghe 44);
+044 05.mp3/3/3.763311/Listen. (Nghe.);
+044 05.mp3/4/5.287075/Read... (Đọc...);
+044 05.mp3/5/6.464671/and say... (và nói...);
+044 05.mp3/7/8.020884/1. (1.);
+044 05.mp3/8/15.696281/Dad! Dad! Dad! And this is Mrs. Smith. And this is my dad. (Bố! Bố! Bố! Và đây là bà Smith. Và đây là bố tôi.);
+044 05.mp3/16/17.328753/Two. (Hai.);
+044 05.mp3/18/22.195442/Nice to meet you. Nice to meet you too. (Rất vui được gặp bạn. Rất vui được gặp bạn.);

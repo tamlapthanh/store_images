@@ -1,4 +1,8 @@
-035 02.mp3/0.000000/5.620000/Listening 35. Listen and say. (Nghe 35. Nghe và nói.);
-035 02.mp3/7.000000/10.430000/The ice cream is on its face. (Kem ở trên mặt nó.);
-035 02.mp3/13.000000/16.260000/Their bags are under the slide. (Túi của họ ở dưới cầu trượt.);
-035 02.mp3/18.000000/21.780000/Our toys are in the kitchen. (Đồ chơi của chúng tôi ở trong bếp.);
+035 02.mp3/0/2.910998/Listening 35 (Nghe 35);
+035 02.mp3/3/4.337120/Listen. (Nghe.);
+035 02.mp3/4/5.780839/And say... (Và nói...);
+035 02.mp3/7/10.555896/The ice cream is on its face. (Kem ở trên mặt nó.);
+035 02.mp3/13/14.337075/Their Bags (Túi của họ);
+035 02.mp3/14/16.400204/are under the slide. (đang ở dưới cầu trượt.);
+035 02.mp3/18/19.798503/are toys (là đồ chơi);
+035 02.mp3/20/21.986009/are in the kitchen. (đang ở trong bếp.);

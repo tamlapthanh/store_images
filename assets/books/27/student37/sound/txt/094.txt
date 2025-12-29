@@ -1,7 +1,4 @@
-094.mp3/0.000000/4.730000/Listening 94. Listen and chant. (Nghe 94. Nghe và đọc theo nhịp.);
-094.mp3/10.000000/16.060000/Play, play, play. (Chơi, chơi, chơi.);
-094.mp3/16.000000/25.620000/Dance, dance, dance. (Khiêu vũ, khiêu vũ, khiêu vũ.);
-094.mp3/29.000000/34.930000/Sing, sing, sing. (Hát, hát, hát.);
-094.mp3/39.000000/44.210000/Eat, eat, eat. (Ăn, ăn, ăn.);
-094.mp3/48.000000/53.640000/Talk, talk, talk. (Nói, nói, nói.);
-094.mp3/57.000000/63.080000/Watch, watch, watch. (Xem, xem, xem.);
+094.mp3/0/2.618549/Listening 94 (Nghe 94);
+094.mp3/3/3.638662/Listen. (Nghe.);
+094.mp3/4/4.829252/and chant. (và tụng kinh.);
+094.mp3/6/68.415420/play play play dance dance dance sing sing sing eat eat eat talk talk talk watch watch watch Thank you. (chơi chơi chơi nhảy nhảy nhảy hát hát hát ăn ăn ăn nói chuyện nói chuyện xem xem xem Cảm ơn bạn.);

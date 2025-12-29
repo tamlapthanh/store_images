@@ -1,3 +1,3 @@
-049.mp3/1.000000/2.281000/Listening 49. (Nghe 49.);
-049.mp3/3.000000/4.690000/Listen and chant. (Nghe và đọc theo nhịp.);
-049.mp3/6.000000/68.778000/Elephant, elephant, elephant Giraffe, giraffe, giraffe Monkey, monkey, monkey Big, big, big Tall, tall, tall Little, little, little Thank you. (Voi, voi, voi Hươu cao cổ, hươu cao cổ, hươu cao cổ Khỉ, khỉ, khỉ Lớn, to, lớn Cao, cao, cao Nhỏ, nhỏ, nhỏ Cảm ơn bạn.);
+049.mp3/1/2.576395/Listening 49 (Nghe 49);
+049.mp3/3/4.965510/Listen and chant. (Nghe và tụng kinh.);
+049.mp3/6/69.933855/Elephant, elephant, elephant Giraffe, giraffe, giraffe Monkey, monkey, monkey Big, big, big Tall, tall, tall Little, little, little Thank you. (Voi, voi, voi Hươu cao cổ, hươu cao cổ, hươu cao cổ Khỉ, khỉ, khỉ Lớn, to, lớn Cao, cao, cao Nhỏ, nhỏ, nhỏ Cảm ơn bạn.);

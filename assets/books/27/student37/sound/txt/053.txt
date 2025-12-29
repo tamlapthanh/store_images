@@ -1,4 +1,5 @@
-053.mp3/1/3.320000/Listening 53. (Nghe 53.);
-053.mp3/3/6.180000/Listen and sing. (Nghe và hát.);
-053.mp3/6/8.880000/Pets at Home. (Thú cưng ở nhà.);
-053.mp3/10/81.880000/;
+053.mp3/1/3.073107/Listening 53 (Nghe 53);
+053.mp3/3/4.530658/Listen. (Nghe.);
+053.mp3/4/5.947483/...and sing. (...và hát.);
+053.mp3/6/8.572290/Pets at Home (Thú cưng ở nhà);
+053.mp3/10/81.557755/Here's an orange cat Meow, meow, meow All day long Meow, meow, meow Here's a brown dog Woof, woof, woof All day long Whoa! Here's a yellow bird Tweet, tweet, tweet All day long Tweet, tweet, tweet Here's a pink fish Splash, splash, splash All day long Splash, splash, splash We like pets Hip hip hooray All day long Play, play, play (Đây là một con mèo màu cam Meo, meo, meo Cả ngày Meo, meo, meo Đây là một con chó màu nâu Gâu, gâu, gâu Cả ngày Whoa! Đây là một con chim màu vàng Tweet, tweet, tweet Cả ngày Tweet, tweet, tweet Đây là một con cá màu hồng Bắn tung tóe, bắn tung tóe, bắn tung tóe Cả ngày Bắn tung tóe, bắn tung tóe, bắn tung tóe Chúng tôi thích thú cưng Hip hip hoan hô Cả ngày Chơi, chơi, chơi);
