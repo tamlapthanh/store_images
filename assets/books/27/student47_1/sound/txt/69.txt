@@ -1,0 +1,15 @@
+69.mp3/0.000000/2.632188/Page 51 (Trang 51)|words=0.000000,0.660000;
+69.mp3/2.632188/4.666188/Lesson 1 (Bài học 1)|words=2.632188,3.132188;
+69.mp3/4.666188/7.306188/Activity 4 (Hoạt động 4)|words=4.666188,5.306188;
+69.mp3/7.306188/12.731000/Listen and tick or cross (Nghe và đánh dấu hoặc loại bỏ.)|words=7.306188,7.766188,8.786188,9.286188,9.966188;
+69.mp3/12.731000/15.087000/one (một.)|words=12.731000;
+69.mp3/15.087000/19.706187/What subjects do you have today (Hôm nay bạn có những môn học nào?)|words=15.087000,15.407000,16.227000,16.727000,16.927000,17.207000;
+69.mp3/19.706187/24.057313/I have Vietnamese (Tôi có tiếng Việt.)|words=19.706187,19.986187,20.446187;
+69.mp3/24.057313/25.740375/2 (2)|words=24.057313;
+69.mp3/25.740375/30.048938/What subjects do you have today (Hôm nay bạn có những môn học nào?)|words=25.740375,25.980375,26.780375,27.460375,27.680375,27.940375;
+69.mp3/30.048938/34.259937/I have science (Tôi có khoa học!)|words=30.048938,30.408938,30.788938;
+69.mp3/34.259937/35.980938/3 (3.)|words=34.259937;
+69.mp3/35.980938/41.130000/What subjects do you have today (Hôm nay bạn có những môn học nào?)|words=35.980938,36.320938,37.280938,38.040938,38.360938,38.760938;
+69.mp3/41.130000/46.591000/I have maths full (Tôi có toán cả ngày.)|words=41.130000,41.410000,41.770000,44.712438;
+69.mp3/46.591000/50.730125/What subjects do you have today (Hôm nay bạn có những môn học nào?)|words=46.591000,46.851000,47.591000,48.231000,48.391000,48.671000;
+69.mp3/50.730125/55.745313/I have English (Tôi có tiếng Anh.)|words=50.730125,51.070125,51.470125;

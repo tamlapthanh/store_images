@@ -1,0 +1,14 @@
+38.mp3/0.000000/2.965813/Page 29 (Trang 29)|words=0.000000,0.860000;
+38.mp3/2.965813/4.945563/Lesson one (Bài học một)|words=2.965813,3.505813;
+38.mp3/4.945563/7.729250/Activity 4 (Hoạt động 4)|words=4.945563,5.605563;
+38.mp3/7.729250/12.136812/Listen and number (Nghe và đánh số)|words=7.729250,8.249250,9.089250;
+38.mp3/12.136812/13.798438/one (một.)|words=12.136812;
+38.mp3/13.798438/21.386250/When's your birthday? It's in April (Ngày sinh của bạn là khi nào? Vào tháng Tư!)|words=13.798438,14.358438,14.618438,17.039562,17.619562,17.859562;
+38.mp3/21.386250/23.119563/2 (2.)|words=21.386250;
+38.mp3/23.119563/30.532250/When's your birthday? It's in February (Ngày sinh của bạn là khi nào? Vào tháng Hai!)|words=23.119563,23.719563,23.979563,26.460375,26.940375,27.220375;
+38.mp3/30.532250/32.293250/3 (3.)|words=30.532250;
+38.mp3/32.293250/38.362500/When's your birthday? It's in March (Ngày sinh của bạn là khi nào? Vào tháng Ba!)|words=32.293250,32.893250,33.133250,35.646313,36.066313,36.386313;
+38.mp3/38.362500/41.515750/Thank you (Cảm ơn!)|words=38.362500,38.682500;
+38.mp3/41.515750/43.415250/full (đầy đủ.)|words=41.515750;
+38.mp3/43.415250/50.290250/When's your birthday? It's in January (Ngày sinh của bạn là khi nào? Vào tháng Một!)|words=43.415250,44.115250,44.395250,46.953000,47.413000,47.633000;
+38.mp3/50.290250/56.946938/My birthday's in January too (Ngày sinh của tôi cũng vào tháng Một!)|words=50.290250,50.730250,51.870250,52.110250,52.830250;

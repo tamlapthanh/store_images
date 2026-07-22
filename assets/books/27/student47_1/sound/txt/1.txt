@@ -1,0 +1,9 @@
+1.mp3/0.624000/2.391250/Starter (Khởi đầu)|words=0.624000;
+1.mp3/2.391250/4.612875/Page 7 (Trang 7.)|words=2.391250,2.731250;
+1.mp3/4.612875/6.156813/A (A.)|words=4.612875;
+1.mp3/6.156813/8.501625/Hello again (Xin chào lại nhé!)|words=6.156813,6.476813;
+1.mp3/8.501625/11.023563/Activity 1 (Hoạt động 1)|words=8.501625,9.161625;
+1.mp3/11.023563/13.514875/Let's sing (Hãy cùng hát nào!)|words=11.023563,11.683563;
+1.mp3/13.514875/15.114500/Hello (Xin chào!)|words=13.514875;
+1.mp3/15.114500/19.210938/How are you (Bạn khỏe không?)|words=15.114500,15.414500,15.774500;
+1.mp3/19.210938/63.268563/Hello, Hello, How are you? How are you? I'm fine, thank you. I'm fine, thank you. Hi, hi, this is Mary, this is Mike, nice to see you, nice to see you (Xin chào, xin chào, bạn khỏe không? Bạn khỏe không? Tôi ổn, cảm ơn. Tôi ổn, cảm ơn. Xin chào, xin chào, đây là Mary, đây là Mike, rất vui được gặp bạn, rất vui được gặp bạn.)|words=24.830938,25.950938,27.010938,27.450938,27.910938,28.850938,29.090938,29.990938,31.610938,32.570938,33.070938,33.810938,34.870938,35.570938,36.330938,36.630938,40.790938,42.470938,43.190938,43.530938,43.890938,44.690938,45.150938,46.130938,47.430938,48.390938,49.150938,49.870938,50.850938,51.430938,51.990938,52.630938;

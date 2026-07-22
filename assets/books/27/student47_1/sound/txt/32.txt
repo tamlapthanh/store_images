@@ -1,0 +1,6 @@
+32.mp3/0.659375/3.265250/Page 25 (Trang 25.)|words=0.659375,1.059375;
+32.mp3/3.265250/5.276813/Lesson 2 (Bài học 2)|words=3.265250,3.745250;
+32.mp3/5.276813/8.013438/Activity 6 (Hoạt động 6.)|words=5.276813,5.916813;
+32.mp3/8.013438/10.600062/Let's sing (Hãy cùng hát)|words=8.013438,8.713438;
+32.mp3/10.600062/15.566750/What day is it today (Hôm nay là thứ mấy?)|words=10.600062,11.080062,11.600062,12.000062,12.180062;
+32.mp3/15.566750/77.923250/What days it's a day? It's Monday, it's Monday. What do you do on Mondays? I study at school. I study at school. What day is it today? It's Sunday. It's Sunday. What do you do on Sundays? I listen to music. I listen to music (Hôm nay là thứ mấy? Là thứ Hai, là thứ Hai. Bạn làm gì vào các ngày thứ Hai? Tôi học ở trường. Tôi học ở trường. Hôm nay là thứ mấy? Là Chủ nhật. Là Chủ nhật. Bạn làm gì vào các ngày Chủ nhật? Tôi nghe nhạc. Tôi nghe nhạc.)|words=23.506750,24.646750,25.166750,25.746750,25.866750,28.146750,29.286750,30.446750,31.566750,33.276750,33.846750,34.306750,34.506750,34.786750,35.066750,37.346750,38.486750,38.966750,39.526750,40.086750,40.786750,41.326750,41.826750,51.646750,52.346750,52.866750,53.106750,53.306750,55.966750,57.046750,57.946750,59.386750,60.866750,61.566750,62.026750,62.326750,62.586750,62.746750,65.506750,66.206750,66.646750,67.186750,68.146750,69.766750,70.106750,70.626750;

@@ -1,0 +1,13 @@
+68.mp3/0.000000/2.426750/Page 50 (Trang 50)|words=0.000000,0.620000;
+68.mp3/2.426750/4.311438/Lesson 1 (Bài học 1)|words=2.426750,2.926750;
+68.mp3/4.311438/7.003438/Activity 2 (Hoạt động 2.)|words=4.311438,4.971438;
+68.mp3/7.003438/11.357313/Listen, point, and say (Nghe, chỉ và nói.)|words=7.003438,8.240625,8.600625,9.420625;
+68.mp3/11.357313/12.263125/Thank you (Cảm ơn bạn.)|words=11.357313,12.077313;
+68.mp3/12.263125/13.952312/Hey (Chào.)|words=12.263125;
+68.mp3/13.952312/31.995500/Vietnamese, B English, C Maths, D Science (Tiếng Việt, B Tiếng Anh, C Toán, D Khoa học.)|words=13.952312,17.410937,19.335687,22.247937,23.987813,27.103375,28.865313;
+68.mp3/31.995500/33.210375/Hey (Chào.)|words=31.995500;
+68.mp3/33.210375/42.005063/What subjects do you have today? I have Vietnamese (Hôm nay bạn có những môn gì? Tôi có môn Tiếng Việt.)|words=33.210375,33.470375,34.210375,34.750375,34.990375,35.290375,37.431875,37.751875,38.151875;
+68.mp3/42.005063/52.288438/B. What subjects do you have today? I have English (B. Hôm nay bạn có những môn gì? Tôi có môn Tiếng Anh.)|words=42.005063,43.767313,44.067313,44.887313,45.507313,45.767313,46.087313,48.009375,48.329375,48.749375;
+68.mp3/52.288438/54.042563/See (Xem.)|words=52.288438;
+68.mp3/54.042563/62.683813/What subjects do you have today? I have maths (Hôm nay bạn có những môn gì? Tôi có môn Toán.)|words=54.042563,54.422563,55.202563,55.882563,56.082563,56.342563,58.678688,59.038688,59.338688;
+68.mp3/62.683813/75.023688/D. What subjects do you have today? I have Science (D. Hôm nay bạn có những môn gì? Tôi có môn Khoa học.)|words=62.683813,64.903688,65.203688,66.043688,66.743688,66.983688,67.323688,69.863375,70.203375,70.583375;

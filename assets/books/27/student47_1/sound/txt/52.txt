@@ -1,0 +1,5 @@
+52.mp3/0.000000/2.731187/Page 37 (Trang 37)|words=0.000000,0.560000;
+52.mp3/2.731187/4.654500/Lesson 2 (Bài học 2)|words=2.731187,3.251187;
+52.mp3/4.654500/7.331750/Activity 6 (Hoạt động 6)|words=4.654500,5.334500;
+52.mp3/7.331750/14.079937/Let's sing things they can do (Hãy cùng hát về những việc họ có thể làm.)|words=7.331750,7.931750,10.033125,10.533125,11.093125,11.393125;
+52.mp3/14.079937/65.567375/She can't roll, she can't dance, she can't play the piano, but she can't play the guitar. He can swim, he can cook, he can ride a bike, but he can't ride a horse (Cô ấy không thể lộn vòng, cô ấy không thể nhảy múa, cô ấy không thể chơi piano, nhưng cô ấy cũng không thể chơi guitar. Anh ấy có thể bơi, anh ấy có thể nấu ăn, anh ấy có thể đi xe đạp, nhưng anh ấy không thể cưỡi ngựa.)|words=21.819937,22.859937,23.719937,24.459937,27.139937,28.059937,29.059937,31.299937,31.739937,31.919937,32.119937,33.779937,34.819937,35.119937,35.479937,35.819937,36.259937,43.279937,44.279937,44.859937,45.659937,48.619937,49.199937,49.939937,52.779937,53.099937,53.379937,53.639937,54.679937,56.539937,56.819937,57.399937,57.679937,57.959937;

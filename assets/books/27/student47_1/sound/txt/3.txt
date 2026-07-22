@@ -1,0 +1,7 @@
+3.mp3/0.582063/2.458813/Starter (Bắt đầu)|words=0.582063;
+3.mp3/2.458813/4.738688/Page 8 (Trang 8.)|words=2.458813,2.798813;
+3.mp3/4.738688/6.459500/be (thì/là/ở.)|words=4.738688;
+3.mp3/6.459500/9.634562/Classroom Activities (Các hoạt động trong lớp học)|words=6.459500,7.259500;
+3.mp3/9.634562/12.283313/Activity 1 (Hoạt động 1.)|words=9.634562,10.274562;
+3.mp3/12.283313/16.010438/Let's chant (Hãy cùng nhau đọc!)|words=12.283313,12.903313;
+3.mp3/16.010438/59.872687/Come in, please, sit down, please, open your books, please, read aloud, please, stand up, please, say goodbye, please (Vào đây, làm ơn, ngồi xuống, làm ơn, mở sách ra, làm ơn, đọc to lên, làm ơn, đứng dậy, làm ơn, chào tạm biệt, làm ơn.)|words=22.670438,23.990438,24.850438,26.370438,27.790438,29.010438,30.230438,31.790438,32.190438,33.190438,34.950438,35.550438,36.310438,37.410438,39.450438,40.130438,42.150438,43.370438,44.630438;

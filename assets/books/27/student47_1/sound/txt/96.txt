@@ -1,0 +1,5 @@
+96.mp3/0.000000/3.165250/You, page 66 (Bạn, trang 66.)|words=0.000000,0.540563,1.000563;
+96.mp3/3.165250/5.102000/Lesson 3 (Bài học 3)|words=3.165250,3.705250;
+96.mp3/5.102000/7.979438/Activity 3 (Hoạt động 3)|words=5.102000,5.802000;
+96.mp3/7.979438/11.697125/Let's chant (Hãy cùng hát!)|words=7.979438,8.679438;
+96.mp3/11.697125/71.131438/When's your sports day in January, February, or May? In January, in January, it's in January. When your sports day in May, June, or July? In July, in July, it's in July. You (Ngày hội thể thao của bạn là vào tháng Một, tháng Hai hay tháng Năm? Vào tháng Một, vào tháng Một, là vào tháng Một. Ngày hội thể thao của bạn là vào tháng Năm, tháng Sáu hay tháng Bảy? Vào tháng Bảy, vào tháng Bảy, là vào tháng Bảy. Bạn)|words=20.537125,21.937125,22.577125,23.357125,23.917125,25.117125,25.637125,26.397125,27.097125,27.557125,29.037125,29.577125,30.937125,31.517125,33.797125,34.297125,43.577125,44.777125,45.757125,46.577125,47.177125,48.357125,49.237125,49.797125,50.237125,50.777125,52.697125,54.057125,54.617125,55.897125,57.217125,57.517125,69.677125;

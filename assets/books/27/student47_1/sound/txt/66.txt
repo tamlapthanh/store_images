@@ -1,0 +1,6 @@
+66.mp3/0.000000/0.635000/You (Bạn)|words=0.000000;
+66.mp3/0.635000/2.922813/page 48 (trang 48.)|words=0.635000,1.035000;
+66.mp3/2.922813/4.907813/Lesson 3 (Bài học 3)|words=2.922813,3.442813;
+66.mp3/4.907813/7.716438/Activity 3 (Hoạt động 3.)|words=4.907813,5.567813;
+66.mp3/7.716438/11.353125/Let's chant (Hãy cùng hát!)|words=7.716438,8.336438;
+66.mp3/11.353125/62.876750/Where's your school? It's in the mountains. It's in the mountains. My school is in the mountains. Where's your school? It's in the village. It's in the village. My school is in the village. You (Trường của bạn ở đâu? Nó nằm trên núi. Nó nằm trên núi. Trường của tôi nằm trên núi. Trường của bạn ở đâu? Nó nằm trong làng. Nó nằm trong làng. Trường của tôi nằm trong làng. Bạn)|words=17.613125,18.733125,19.033125,20.193125,20.473125,20.753125,21.273125,22.553125,22.793125,23.113125,23.593125,24.853125,25.413125,26.393125,27.233125,27.673125,28.173125,40.513125,41.593125,41.873125,43.013125,43.293125,43.573125,44.093125,45.213125,45.573125,45.893125,46.393125,47.653125,48.253125,49.273125,50.073125,50.493125,51.013125,59.513125;

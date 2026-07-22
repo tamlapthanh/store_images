@@ -1,0 +1,16 @@
+89.mp3/0.000000/2.822062/Page 63 (Trang 63.)|words=0.000000,0.680000;
+89.mp3/2.822062/4.702000/Lesson one (Bài học một.)|words=2.822062,3.362062;
+89.mp3/4.702000/7.416563/Activity 4 (Hoạt động 4.)|words=4.702000,5.382000;
+89.mp3/7.416563/11.576125/Listen and match (Nghe và nối.)|words=7.416563,7.896563,8.796563;
+89.mp3/11.576125/13.313813/one (một.)|words=11.576125;
+89.mp3/13.313813/18.518313/Is your sports day in June, Mary (Ngày hội thể thao của bạn có phải vào tháng Sáu không, Mary?)|words=13.313813,13.613813,13.973813,14.693813,15.193813,15.773813,16.533813;
+89.mp3/18.518313/22.334813/Yes, it is (Đúng vậy!)|words=18.518313,19.338313,19.518313;
+89.mp3/22.334813/24.125500/2 (2.)|words=22.334813;
+89.mp3/24.125500/28.147687/Our sports day is in February (Ngày hội thể thao của chúng tôi là vào tháng Hai.)|words=24.125500,24.425500,24.905500,25.565500,26.025500,26.245500;
+89.mp3/28.147687/33.392313/Is your sports day in February too, Ben (Ngày hội thể thao của bạn cũng vào tháng Hai phải không, Ben?)|words=28.147687,28.407687,28.747687,29.347687,29.807687,30.027687,30.547687,31.547687;
+89.mp3/33.392313/35.955500/No! It isn't (Không! Không phải!)|words=33.392313,34.192313,34.492313;
+89.mp3/35.955500/39.141312/It's in May (Mà là vào tháng Năm!)|words=35.955500,36.375500,36.535500;
+89.mp3/39.141312/40.903937/Three (Ba.)|words=39.141312;
+89.mp3/40.903937/46.193312/Is your sports day in July, Lucy (Ngày hội thể thao của bạn có phải vào tháng Bảy không, Lucy?)|words=40.903937,41.183937,41.523937,42.143937,42.663937,43.303937,44.363937;
+89.mp3/46.193312/48.724375/No, it isn't (Không, không phải!)|words=46.193312,47.133312,47.333312;
+89.mp3/48.724375/53.289813/It's in April (Mà là vào tháng Tư!)|words=48.724375,49.104375,49.284375;

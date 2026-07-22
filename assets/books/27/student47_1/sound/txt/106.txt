@@ -1,0 +1,6 @@
+106.mp3/0.000000/0.642813/You (Bạn)|words=0.000000;
+106.mp3/0.642813/3.418312/Page 72 (Trang 72.)|words=0.642813,1.082813;
+106.mp3/3.418312/5.592375/Lesson 3 (Bài học 3)|words=3.418312,3.978312;
+106.mp3/5.592375/8.429438/Activity 3 (Hoạt động 3.)|words=5.592375,6.272375;
+106.mp3/8.429438/12.483875/Let's chant (Hãy cùng hát!)|words=8.429438,9.249438;
+106.mp3/12.483875/71.498937/Were you at the campsite yesterday? Yes, I was. Yes, I was. Where were you last summer? I was on the beach. Were you on the beach yesterday? No, I wasn't. No, I wasn't. Where were you yesterday? I was in the countryside. You (Hôm qua bạn có ở khu cắm trại không? Có, tôi đã ở đó. Có, tôi đã ở đó. Mùa hè năm ngoái bạn đã đi đâu? Tôi đã ở trên bãi biển. Hôm qua bạn có ở trên bãi biển không? Không, tôi không ở đó. Không, tôi không ở đó. Hôm qua bạn đã đi đâu? Tôi đã ở vùng nông thôn. Bạn)|words=21.283875,22.283875,22.523875,22.823875,22.963875,23.843875,25.703875,26.343875,26.783875,29.063875,30.063875,30.643875,33.063875,34.063875,34.463875,34.923875,35.503875,36.803875,37.803875,38.063875,38.343875,38.503875,44.643875,45.523875,45.803875,46.043875,46.183875,46.603875,49.063875,49.703875,50.003875,52.483875,53.583875,53.883875,56.443875,57.163875,57.383875,57.743875,60.163875,61.043875,61.303875,61.583875,61.703875,70.063875;

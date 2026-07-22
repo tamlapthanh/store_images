@@ -1,0 +1,5 @@
+76.mp3/0.000000/3.062312/Page 54 (Trang 54.)|words=0.000000,0.709250,1.169250;
+76.mp3/3.062312/5.060500/Lesson 3 (Bài học 3)|words=3.062312,3.602312;
+76.mp3/5.060500/7.828750/Activity 3 (Hoạt động 3.)|words=5.060500,5.740500;
+76.mp3/7.828750/11.537812/Let's chant (Hãy cùng hát!)|words=7.828750,8.468750;
+76.mp3/11.537812/57.704500/Science. Science. When do you have science? I have science today. I have science today. Vietnamese. Vietnamese. When do you have Vietnamese? We have Vietnamese today. We have Vietnamese today (Khoa học. Khoa học. Bạn có tiết khoa học vào lúc nào? Tôi có tiết khoa học hôm nay. Tôi có tiết khoa học hôm nay. Tiếng Việt. Tiếng Việt. Bạn có tiết tiếng Việt vào lúc nào? Chúng tôi có tiết tiếng Việt hôm nay. Chúng tôi có tiết tiếng Việt hôm nay.)|words=18.377812,19.777812,21.677812,23.357812,23.857812,24.397812,24.897812,26.497812,27.357812,27.797812,28.537812,29.117812,31.137812,31.597812,32.317812,33.337812,35.317812,38.157812,38.837812,39.377812,39.857812,40.357812,42.297812,42.737812,43.257812,44.277812,46.237812,46.617812,47.117812,48.157812;

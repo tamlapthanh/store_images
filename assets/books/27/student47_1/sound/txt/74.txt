@@ -1,0 +1,9 @@
+74.mp3/0.000000/2.719438/page 54 (trang 54)|words=0.000000,0.700000;
+74.mp3/2.719438/4.730375/Lesson 3 (Bài học 3)|words=2.719438,3.239438;
+74.mp3/4.730375/7.349312/Activity 1 (Hoạt động 1.)|words=4.730375,5.390375;
+74.mp3/7.349312/11.372875/Listen and repeat (Nghe và lặp lại.)|words=7.349312,7.809312,8.669312;
+74.mp3/11.372875/13.421125/Hmm (Hmm)|words=11.372875;
+74.mp3/13.421125/16.591313/Vietnamese (Tiếng Việt)|words=13.421125;
+74.mp3/16.591313/21.537813/When do you have Vietnamese (Bạn có tiết học tiếng Việt vào lúc nào?)|words=16.591313,16.891313,17.311313,17.571313,18.011313;
+74.mp3/23.555125/26.286125/Science (Khoa học.)|words=23.555125;
+74.mp3/26.286125/31.921625/We have science today (Hôm nay chúng ta có tiết khoa học.)|words=26.286125,26.506125,26.866125,27.486125;

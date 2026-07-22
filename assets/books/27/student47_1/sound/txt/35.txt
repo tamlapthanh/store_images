@@ -1,0 +1,6 @@
+35.mp3/0.000000/0.731437/You (Bạn)|words=0.000000;
+35.mp3/0.731437/3.145625/Page 26 (Trang 26.)|words=0.731437,1.111437;
+35.mp3/3.145625/5.030000/Lesson 3 (Bài học 3.)|words=3.145625,3.645625;
+35.mp3/5.030000/7.704063/Activity 3 (Hoạt động 3.)|words=5.030000,5.690000;
+35.mp3/7.704063/11.416875/Let's chant (Hãy cùng hát!)|words=7.704063,8.344063;
+35.mp3/11.416875/53.707750/Music, music, music. I listen to music on Saturdays. I listen to music on Saturdays. Sundays, Sundays, Sundays. What do you do on Sundays? I do housework on Sundays (Nhạc, nhạc, nhạc. Tôi nghe nhạc vào thứ Bảy. Tôi nghe nhạc vào thứ Bảy. Chủ Nhật, Chủ Nhật, Chủ Nhật. Bạn làm gì vào ngày Chủ Nhật? Tôi làm việc nhà vào ngày Chủ Nhật.)|words=18.616875,19.856875,20.936875,21.676875,22.896875,23.296875,23.696875,24.316875,24.776875,26.656875,26.756875,27.176875,27.576875,28.136875,28.616875,33.416875,35.536875,36.396875,37.456875,38.696875,39.196875,39.396875,39.696875,40.216875,42.136875,42.756875,43.196875,43.996875,44.236875;

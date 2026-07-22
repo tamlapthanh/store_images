@@ -1,0 +1,10 @@
+81.mp3/0.000000/2.675312/Page 58 (Trang 58)|words=0.000000,0.800000;
+81.mp3/2.675312/4.645437/Lesson 2 (Bài học 2)|words=2.675312,3.195312;
+81.mp3/4.645437/7.254812/Activity 1 (Hoạt động 1.)|words=4.645437,5.305437;
+81.mp3/7.254812/12.403313/Look, listen, and repeat (Nhìn, nghe và lặp lại.)|words=7.254812,8.254812,9.274812,9.634812;
+81.mp3/12.403313/14.048312/A (A.)|words=12.403313;
+81.mp3/14.048312/18.670562/What's your favourite subject, Nam (Môn học yêu thích của bạn là gì, Nam?)|words=14.048312,14.548312,14.788312,15.448312,16.928312;
+81.mp3/18.670562/22.355250/It's English (Là tiếng Anh.)|words=18.670562,19.150562;
+81.mp3/22.355250/24.068500/B (B)|words=22.355250;
+81.mp3/24.068500/27.624750/Why do you like English (Tại sao bạn thích tiếng Anh?)|words=24.068500,24.468500,24.808500,25.008500,25.428500;
+81.mp3/27.624750/35.004063/Because I want to be an English teacher (Vì tôi muốn trở thành một giáo viên tiếng Anh.)|words=27.624750,28.184750,28.924750,29.304750,29.664750,30.004750,30.464750,30.904750;

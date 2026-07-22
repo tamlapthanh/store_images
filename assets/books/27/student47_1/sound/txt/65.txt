@@ -1,0 +1,8 @@
+65.mp3/0.000000/2.501813/Page 48 (Trang 48)|words=0.000000,0.700000;
+65.mp3/2.501813/4.430813/Lesson 3 (Bài học 3)|words=2.501813,3.041813;
+65.mp3/4.430813/7.019750/Activity 2 (Hoạt động 2)|words=4.430813,5.090813;
+65.mp3/7.019750/11.709188/Listen and circle (Nghe và khoanh tròn.)|words=7.019750,7.559750,8.439750;
+65.mp3/11.709188/13.263813/one (Một.)|words=11.709188;
+65.mp3/13.263813/19.234875/Our school is near two villages (Trường học của chúng tôi nằm gần hai ngôi làng.)|words=13.263813,13.543813,14.103813,14.863813,15.243813,15.723813;
+65.mp3/19.234875/21.168563/2 (2.)|words=19.234875;
+65.mp3/21.168563/29.596750/There are two towns not far from my school (Có hai thị trấn không xa trường học của tôi.)|words=21.168563,21.528563,21.768563,22.308563,23.128563,23.808563,24.448563,24.908563,25.328563;

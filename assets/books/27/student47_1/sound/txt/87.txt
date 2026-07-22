@@ -1,0 +1,11 @@
+87.mp3/0.000000/2.768875/Unit 9 (Bài 9)|words=0.000000,0.700000;
+87.mp3/2.768875/5.646063/Our Sports Day (Ngày hội thể thao của chúng ta)|words=2.768875,3.088875,3.568875;
+87.mp3/5.646063/8.312625/page 62 (trang 62.)|words=5.646063,6.026063;
+87.mp3/8.312625/10.329562/Lesson one (Bài học một.)|words=8.312625,8.792625;
+87.mp3/10.329562/13.107750/Activity 1 (Hoạt động 1.)|words=10.329562,10.989562;
+87.mp3/13.107750/18.507687/Look, listen and repeat (Nhìn, nghe và lặp lại.)|words=13.107750,14.107750,14.587750,15.547750;
+87.mp3/18.507687/20.171625/A (A.)|words=18.507687;
+87.mp3/20.171625/30.369125/Our sports day is in May! We play many sports and games (Ngày hội thể thao của chúng ta là vào tháng Năm! Chúng ta chơi nhiều môn thể thao và trò chơi.)|words=20.171625,20.471625,21.171625,21.851625,22.631625,22.851625,24.713812,24.993812,25.553812,26.273812,27.053812,27.673812;
+87.mp3/30.369125/35.973813/Great! I like sports (Tuyệt vời! Tôi thích thể thao!)|words=30.369125,31.629125,32.029125,32.529125;
+87.mp3/35.973813/37.674375/B (B)|words=35.973813;
+87.mp3/37.674375/50.050625/Is your sports day in May 2? No, it isn't. It's in April (Ngày hội thể thao của bạn có phải vào ngày 2 tháng Năm không? Không, không phải. Nó là vào tháng Tư.)|words=37.674375,37.994375,38.374375,38.834375,39.654375,40.214375,40.554375,42.720062,43.540062,43.780062,45.184438,45.584438,45.764438;

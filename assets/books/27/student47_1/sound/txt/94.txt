@@ -1,0 +1,6 @@
+94.mp3/0.000000/2.880375/Page 66 (Trang 66)|words=0.000000,0.740000;
+94.mp3/2.880375/4.951688/Lesson 3 (Bài học 3)|words=2.880375,3.420375;
+94.mp3/4.951688/7.867563/Activity 1 (Hoạt động 1.)|words=4.951688,5.611688;
+94.mp3/7.867563/11.944375/Listen and repeat (Nghe và lặp lại)|words=7.867563,8.347563,9.207563;
+94.mp3/11.944375/22.348625/E February. Our sports day is in February (E Tháng Hai. Ngày hội thể thao của chúng tôi là vào tháng Hai.)|words=11.944375,13.980375,16.544750,16.824750,17.264750,17.904750,18.464750,18.644750;
+94.mp3/22.348625/32.444063/I July. My birthday is in July (I Tháng Bảy. Sinh nhật của tôi là vào tháng Bảy.)|words=22.348625,24.311375,26.458000,26.738000,27.318000,28.178000,28.418000;

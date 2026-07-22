@@ -1,0 +1,8 @@
+60.mp3/0.000000/2.715438/Page 46 (Trang 46.)|words=0.000000,0.780000;
+60.mp3/2.715438/4.664000/Lesson 2 (Bài học 2.)|words=2.715438,3.255438;
+60.mp3/4.664000/7.299000/Activity 1 (Hoạt động 1.)|words=4.664000,5.324000;
+60.mp3/7.299000/8.367688/Look (Nhìn này.)|words=7.299000;
+60.mp3/8.367688/12.582000/Listen and repeat (Nghe và lặp lại.)|words=8.367688,8.827688,9.687688;
+60.mp3/14.293437/22.649687/Where's your school bell? It's in the town (Chuông báo giờ của trường bạn ở đâu? Nó ở trong thị trấn!)|words=14.293437,14.893437,15.173437,15.913437,18.224062,18.804062,19.184062,19.444062;
+60.mp3/22.649687/24.235437/B (B.)|words=22.649687;
+60.mp3/24.235437/35.239187/How many buildings are there at your school? There are three (Có bao nhiêu tòa nhà ở trường của bạn? Có ba!)|words=24.235437,24.575437,25.015437,25.675437,26.375437,26.775437,27.215437,27.695437,29.935562,30.275562,30.615562;

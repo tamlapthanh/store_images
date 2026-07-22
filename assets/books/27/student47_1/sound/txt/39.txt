@@ -1,0 +1,6 @@
+39.mp3/0.675687/3.194000/page 29 (trang 29.)|words=0.675687,1.115687;
+39.mp3/3.194000/5.241375/Lesson 1 (Bài học 1)|words=3.194000,3.754000;
+39.mp3/5.241375/7.792063/Activity 6 (Hoạt động 6)|words=5.241375,5.901375;
+39.mp3/7.792063/10.418375/Let's sing (Hãy cùng hát!)|words=7.792063,8.452063;
+39.mp3/10.418375/14.940062/When's your birthday (Sinh nhật của bạn vào tháng nào?)|words=10.418375,11.098375,11.358375;
+39.mp3/14.940062/60.578000/When's your birthday, when's your birthday. It's in January, my birthday's in January. When's your birthday, when's your birthday. It's in February, my birthday's in February (Sinh nhật của bạn vào tháng nào, sinh nhật của bạn vào tháng nào. Vào tháng Một, sinh nhật của tôi là vào tháng Một. Sinh nhật của bạn vào tháng nào, sinh nhật của bạn vào tháng nào. Vào tháng Hai, sinh nhật của tôi là vào tháng Hai.)|words=23.840062,25.160062,25.500062,26.740062,27.600062,27.900062,28.780062,29.680062,29.860062,31.100062,31.340062,32.100062,32.280062,43.000062,44.280062,44.620062,45.920062,46.700062,47.060062,48.000062,49.060062,49.480062,50.580062,50.740062,51.560062,51.800062;

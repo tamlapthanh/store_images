@@ -1,0 +1,15 @@
+93.mp3/0.000000/2.930125/Page 65 (Trang 65)|words=0.000000,0.780000;
+93.mp3/2.930125/4.902312/Lesson 2 (Bài học 2)|words=2.930125,3.490125;
+93.mp3/4.902312/7.746375/Activity 4 (Hoạt động 4)|words=4.902312,5.602312;
+93.mp3/7.746375/11.670250/listen and tick (Nghe và đánh dấu)|words=7.746375,8.306375,9.226375;
+93.mp3/11.670250/13.352187/one (một.)|words=11.670250;
+93.mp3/13.352187/18.144875/Is your sports day in December (Ngày hội thể thao của bạn có phải vào tháng Mười Hai không?)|words=13.352187,13.692187,14.092187,14.832187,15.412187,15.912187;
+93.mp3/18.144875/21.400125/No, it isn't (Không, không phải.)|words=18.144875,18.904875,19.144875;
+93.mp3/21.400125/24.727250/When's your sports day (Ngày hội thể thao của bạn là khi nào?)|words=21.400125,22.000125,22.320125,22.880125;
+93.mp3/24.727250/28.664625/It's in October (Vào tháng Mười.)|words=24.727250,25.127250,25.367250;
+93.mp3/28.664625/30.361313/2 (2)|words=28.664625;
+93.mp3/30.361313/33.287188/When's your sports day (Ngày hội thể thao của bạn là khi nào?)|words=30.361313,30.881313,31.161313,31.641313;
+93.mp3/33.287188/35.810938/In November (Vào tháng Mười Một!)|words=33.287188,33.527188;
+93.mp3/35.810938/38.398375/No, it isn't (Không, không phải.)|words=35.810938,36.710938,36.910938;
+93.mp3/38.398375/42.080875/It's in September (Vào tháng Chín!)|words=38.398375,38.918375,39.258375;
+93.mp3/42.080875/47.699625/Oh! It's soon (Ồ! Sắp đến rồi!)|words=42.080875,43.000875,43.600875;

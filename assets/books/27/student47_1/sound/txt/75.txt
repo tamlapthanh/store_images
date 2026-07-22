@@ -1,0 +1,8 @@
+75.mp3/0.507938/3.012500/Page 54 (Trang 54.)|words=0.507938,0.967938;
+75.mp3/3.012500/4.951688/Lesson 3 (Bài học 3)|words=3.012500,3.512500;
+75.mp3/4.951688/7.648750/Activity 2 (Hoạt động 2)|words=4.951688,5.611688;
+75.mp3/7.648750/11.931625/Listen and circle (Nghe và khoanh tròn.)|words=7.648750,8.168750,9.068750;
+75.mp3/11.931625/13.761500/one (Một.)|words=11.931625;
+75.mp3/13.761500/18.761875/When do you have science (Bạn có giờ học khoa học vào lúc nào?)|words=13.761500,14.161500,14.521500,14.821500,15.201500;
+75.mp3/18.761875/20.601625/2 (Hai.)|words=18.761875;
+75.mp3/20.601625/26.984500/They have Vietnamese today (Hôm nay họ có tiết tiếng Việt.)|words=20.601625,20.841625,21.381625,22.161625;

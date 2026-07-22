@@ -1,0 +1,8 @@
+79.mp3/0.000000/7.304875/Page 57 Lesson One Activity 4 (Trang 57, Bài học 1, Hoạt động 4)|words=0.000000,0.720000,2.796937,3.296937,4.722188,5.382188;
+79.mp3/7.304875/14.734563/Listen and tick or cross. One (Nghe và đánh dấu hoặc khoanh. Một.)|words=7.304875,8.584188,8.904188,10.045500,10.285500,13.076625;
+79.mp3/14.734563/22.651750/What's your favourite subject? It's IT (Môn học yêu thích của bạn là gì? Đó là IT.)|words=14.734563,15.274563,15.514563,16.174563,18.895187,19.335187,19.795187;
+79.mp3/22.651750/24.385687/2 (2.)|words=22.651750;
+79.mp3/24.385687/31.565062/What's your favorite subject? It's art (Môn học yêu thích của bạn là gì? Đó là mỹ thuật!)|words=24.385687,24.985687,25.265687,25.945687,28.316688,28.756688;
+79.mp3/31.565062/33.547187/3 (3.)|words=31.565062;
+79.mp3/33.547187/44.773313/What's your favourite subject? It's music! I like music too (Môn học yêu thích của bạn là gì? Đó là âm nhạc! Tôi cũng thích âm nhạc.)|words=33.547187,34.087187,34.367187,35.007187,37.523875,38.003875,40.441750,40.741750,41.161750,41.901750;
+79.mp3/44.773313/59.089000/full. My favourite subject is maths. How about you? I like maths too (đầy đủ. Môn học yêu thích của tôi là toán. Còn bạn thì sao? Tôi cũng thích toán.)|words=44.773313,46.431438,46.791438,47.411438,48.231438,49.051438,50.957125,51.197125,51.497125,53.652687,53.932687,54.392687,55.052687;

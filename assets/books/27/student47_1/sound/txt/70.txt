@@ -1,0 +1,11 @@
+70.mp3/0.000000/2.731313/Page 52 (Trang 52)|words=0.000000,0.760000;
+70.mp3/2.731313/4.657125/Lesson 2 (Bài học 2)|words=2.731313,3.231313;
+70.mp3/4.657125/7.336875/Activity One (Hoạt động một.)|words=4.657125,5.297125;
+70.mp3/7.336875/8.421000/Look (Nhìn này.)|words=7.336875;
+70.mp3/8.421000/12.433500/Listen and repeat (Nghe và lặp lại.)|words=8.421000,8.861000,9.701000;
+70.mp3/12.433500/14.060750/Hey (Chào bạn.)|words=12.433500;
+70.mp3/14.060750/19.123438/And what subjects do you have today (Hôm nay bạn có những môn học nào?)|words=14.060750,14.200750,14.440750,15.340750,16.040750,16.300750,16.580750;
+70.mp3/19.123438/25.462125/I have Vietnamese and science (Tôi có tiếng Việt và khoa học.)|words=19.123438,19.463438,19.883438,20.743438,22.183438;
+70.mp3/25.462125/27.215813/B (B)|words=25.462125;
+70.mp3/27.215813/31.384250/When do you have maths (Bạn có môn toán vào lúc nào?)|words=27.215813,27.615813,27.995813,28.335813,28.755813;
+70.mp3/31.384250/39.079188/I have it on Mondays and Fridays (Tôi học vào thứ Hai và thứ Sáu.)|words=31.384250,31.704250,32.104250,32.404250,32.944250,33.984250,34.704250;

@@ -1,0 +1,9 @@
+5.mp3/0.000000/11.025750/Starter Page 8, B Classroom Activities Activity 3 (Trang 8, Bài tập 3, Hoạt động trong lớp học (Starter Page 8, B Classroom Activities Activity 3))|words=0.000000,1.971875,2.371875,4.126938,5.552812,6.312812,8.583813,9.203813;
+5.mp3/11.025750/15.579187/Listen and act out (Nghe và diễn.)|words=11.025750,11.485750,12.385750,12.885750;
+5.mp3/15.579187/18.992500/Quiet (Trật tự!)|words=15.579187;
+5.mp3/18.992500/22.809687/Sit down (Ngồi xuống.)|words=18.992500,19.292500;
+5.mp3/22.809687/26.788812/Open your books (Mở sách ra.)|words=22.809687,23.189687,23.489687;
+5.mp3/26.788812/30.242938/Read aloud (Đọc to lên.)|words=26.788812,27.188812;
+5.mp3/30.242938/34.133625/Close your books (Cất sách đi.)|words=30.242938,30.782938,31.022938;
+5.mp3/34.133625/37.506312/Stand up (Đứng dậy!)|words=34.133625,34.533625;
+5.mp3/37.506312/42.109375/Let's go out (Chúng ta ra ngoài thôi!)|words=37.506312,38.026312,38.246312;

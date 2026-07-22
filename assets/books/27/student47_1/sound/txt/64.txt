@@ -1,0 +1,11 @@
+64.mp3/0.000000/2.548250/Page 48 (Trang 48)|words=0.000000,0.700000;
+64.mp3/2.548250/4.479250/Lesson 3 (Bài học 3)|words=2.548250,3.068250;
+64.mp3/4.479250/7.205875/Activity 1 (Hoạt động 1)|words=4.479250,5.139250;
+64.mp3/7.205875/9.965188/Listen and repeat (Nghe và lặp lại.)|words=7.205875,7.705875,8.585875;
+64.mp3/9.965188/11.104062/Thank you (Cảm ơn.)|words=9.965188,11.065188;
+64.mp3/11.104062/13.319625/z (z)|words=11.104062;
+64.mp3/13.319625/15.654875/mountains (mountains)|words=13.319625;
+64.mp3/15.654875/20.965750/My school is in the mountains (Trường học của tôi ở vùng núi.)|words=15.654875,15.934875,16.434875,17.234875,17.474875,17.674875;
+64.mp3/20.965750/22.927125/is (is.)|words=20.965750;
+64.mp3/22.927125/25.105125/villages (villages.)|words=22.927125;
+64.mp3/25.105125/32.156750/There are three villages near my school (Có ba ngôi làng gần trường học của tôi.)|words=25.105125,25.425125,25.705125,26.245125,27.005125,27.665125,27.925125;

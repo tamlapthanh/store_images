@@ -1,0 +1,12 @@
+83.mp3/0.000000/2.664188/Page 59 (Trang 59)|words=0.000000,0.600000;
+83.mp3/2.664188/4.633375/Lesson 2 (Bài học 2)|words=2.664188,3.184188;
+83.mp3/4.633375/7.316125/activity full (hoạt động đầy đủ)|words=4.633375,5.193375;
+83.mp3/7.316125/11.262688/Listen and number (Nghe và đánh số)|words=7.316125,7.876125,8.756125;
+83.mp3/11.262688/12.832375/one (một.)|words=11.262688;
+83.mp3/12.832375/22.271375/Why do you like art? Because I want to be a painter (Bạn thích nghệ thuật vì sao? Vì tôi muốn trở thành một họa sĩ.)|words=12.832375,13.212375,13.572375,13.832375,14.252375,17.477250,17.817250,18.437250,18.757250,19.097250,19.297250,19.437250;
+83.mp3/22.271375/23.974125/2 (2.)|words=22.271375;
+83.mp3/23.974125/32.595500/Why do you like maths? Because I want to be a maths teacher (Bạn thích toán học vì sao? Vì tôi muốn trở thành một giáo viên dạy toán.)|words=23.974125,24.354125,24.674125,24.914125,25.334125,27.368562,27.868562,28.448562,28.788562,29.208562,29.528562,29.868562,30.328562;
+83.mp3/32.595500/34.434438/3 (3.)|words=32.595500;
+83.mp3/34.434438/43.191437/Why do you like music? Because I want to be a singer (Bạn thích âm nhạc vì sao? Vì tôi muốn trở thành một ca sĩ.)|words=34.434438,34.794438,35.114438,35.314438,35.694438,38.088875,38.668875,39.468875,39.788875,40.148875,40.368875,40.668875;
+83.mp3/43.191437/44.965938/full (đầy đủ.)|words=43.191437;
+83.mp3/44.965938/56.006563/Why do you like English? Because I want to be an English teacher (Bạn thích tiếng Anh vì sao? Vì tôi muốn trở thành một giáo viên dạy tiếng Anh.)|words=44.965938,45.305938,45.625938,45.865938,46.245938,48.431875,48.831875,49.491875,49.851875,50.271875,50.591875,50.991875,51.551875;

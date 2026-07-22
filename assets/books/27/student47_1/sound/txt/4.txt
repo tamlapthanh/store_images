@@ -1,0 +1,12 @@
+4.mp3/0.000000/4.199562/Starter Page 8 (Trang bắt đầu số 8.)|words=0.000000,1.999188,2.339188;
+4.mp3/4.199562/5.681125/B (B)|words=4.199562;
+4.mp3/5.681125/8.664125/Classroom Activities (Các hoạt động trong lớp học)|words=5.681125,6.441125;
+4.mp3/8.664125/11.351625/Activity 2 (Hoạt động 2)|words=8.664125,9.344125;
+4.mp3/11.351625/17.220000/listen and number one (Nghe và đánh số một.)|words=11.351625,11.871625,12.711625,15.600062;
+4.mp3/17.220000/22.948000/He's listening to the chant (Anh ấy đang nghe bài hát.)|words=17.220000,17.740000,18.500000,19.220000,19.600000;
+4.mp3/22.948000/24.643313/2 (2.)|words=22.948000;
+4.mp3/24.643313/29.199687/She's reading a book (Cô ấy đang đọc một cuốn sách.)|words=24.643313,25.263313,25.803313,26.343313;
+4.mp3/29.199687/30.957250/3 (3.)|words=29.199687;
+4.mp3/30.957250/36.529562/He's writing new words (Anh ấy đang viết các từ mới.)|words=30.957250,31.557250,32.317250,33.257250;
+4.mp3/36.529562/38.315438/full (đầy)|words=36.529562;
+4.mp3/38.315438/44.486562/She's doing a word puzzle (Cô ấy đang làm một trò chơi giải đố từ.)|words=38.315438,38.835438,39.255438,39.915438,40.335438;

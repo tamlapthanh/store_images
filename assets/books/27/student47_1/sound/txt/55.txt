@@ -1,0 +1,6 @@
+55.mp3/0.000000/0.662438/You (Bạn)|words=0.000000;
+55.mp3/0.662438/2.879563/page 38 (trang 38.)|words=0.662438,1.062438;
+55.mp3/2.879563/4.849000/Lesson 3 (Bài học 3)|words=2.879563,3.419563;
+55.mp3/4.849000/7.542187/Activity 3 (Hoạt động 3)|words=4.849000,5.509000;
+55.mp3/7.542187/11.283188/Let's chant (Hãy cùng hát!)|words=7.542187,8.202187;
+55.mp3/11.283188/68.754312/Can she draw? No, she can't. No, she can't. Can she ride a bike? Yes, she can. Yes, she can. Can he swim? No, he can't. No, he can't. Can he play the piano? Yes, he can. Yes, he can. You (Cô ấy có thể vẽ không? Không, cô ấy không thể. Không, cô ấy không thể. Cô ấy có thể đi xe đạp không? Có, cô ấy có thể. Có, cô ấy có thể. Anh ấy có thể bơi không? Không, anh ấy không thể. Không, anh ấy không thể. Anh ấy có thể chơi piano không? Có, anh ấy có thể. Có, anh ấy có thể. Bạn)|words=18.283188,19.283188,19.743188,22.183188,23.383188,23.603188,26.023188,27.223188,27.483188,29.783188,30.783188,31.063188,31.323188,31.523188,33.803188,34.963188,35.263188,37.683188,38.903188,39.103188,41.543188,42.543188,42.963188,45.423188,46.643188,46.843188,49.263188,50.503188,50.743188,53.023188,54.023188,54.243188,54.443188,54.663188,57.043188,58.203188,58.463188,60.923188,62.043188,62.303188,67.303188;

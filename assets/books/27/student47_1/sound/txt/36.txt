@@ -1,0 +1,13 @@
+36.mp3/0.000000/2.471750/Unit 4 (Bài 4.)|words=0.000000,0.700000;
+36.mp3/2.471750/5.795688/My birthday party (Bữa tiệc sinh nhật của tôi.)|words=2.471750,2.871750,3.571750;
+36.mp3/5.795688/8.236625/page 28 (trang 28.)|words=5.795688,6.235688;
+36.mp3/8.236625/10.229188/Lesson one (Bài học một.)|words=8.236625,8.776625;
+36.mp3/10.229188/12.941313/Activity 1 (Hoạt động 1.)|words=10.229188,10.869188;
+36.mp3/12.941313/13.997750/Look (Nhìn.)|words=12.941313;
+36.mp3/13.997750/18.102125/Listen and repeat (Nghe và lặp lại.)|words=13.997750,14.437750,15.297750;
+36.mp3/19.698375/21.819875/Hi Lucy (Chào Lucy!)|words=19.698375,20.118375;
+36.mp3/21.819875/24.978000/What are you doing (Bạn đang làm gì?)|words=21.819875,22.159875,22.339875,22.579875;
+36.mp3/24.978000/31.818375/I'm making a hat for my birthday party (Tôi đang làm một chiếc mũ cho bữa tiệc sinh nhật của mình!)|words=24.978000,25.578000,26.078000,26.578000,26.998000,27.618000,27.898000,28.538000;
+36.mp3/31.818375/33.564062/B (B)|words=31.818375;
+36.mp3/33.564062/37.078563/When's your birthday (Sinh nhật của bạn là khi nào?)|words=33.564062,34.144062,34.364062;
+36.mp3/37.078563/41.691437/It's in May (Vào tháng Năm!)|words=37.078563,37.538563,37.878563;

@@ -1,0 +1,5 @@
+10.mp3/0.000000/6.925625/Page 12 Lesson 2 Activity 1 (Trang 12, Bài học 2, Hoạt động 1.)|words=0.000000,0.660000,2.296438,2.776438,4.286375,4.966375;
+10.mp3/6.925625/12.179250/Look. Listen and repeat (Nhìn. Nghe và lặp lại.)|words=6.925625,8.015625,8.415625,9.275625;
+10.mp3/13.837312/27.850625/Who's that? It's my new friend! Where's she from? She's from Japan (Đó là ai vậy? Đó là bạn mới của tôi! Cô ấy đến từ đâu? Cô ấy đến từ Nhật Bản.)|words=13.837312,14.537312,16.570812,16.990812,17.290812,17.810812,19.895312,20.495312,20.755312,23.379062,24.079062,24.479062;
+10.mp3/27.850625/29.481562/Be (Be)|words=27.850625;
+10.mp3/29.481562/44.329813/Who's that? It's my new friend! Where's he from? He's from Singapore (Đó là ai vậy? Đó là bạn mới của tôi! Anh ấy đến từ đâu? Anh ấy đến từ Singapore.)|words=29.481562,30.061562,32.470000,32.890000,33.170000,33.690000,35.760625,36.340625,36.580625,39.113750,39.533750,39.813750;

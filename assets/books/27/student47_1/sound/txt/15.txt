@@ -1,0 +1,5 @@
+15.mp3/0.657687/2.956125/Page 14 (Trang 14.)|words=0.657687,1.117687;
+15.mp3/2.956125/4.896125/Lesson 3 (Bài học 3)|words=2.956125,3.436125;
+15.mp3/4.896125/7.649563/Activity 3 (Hoạt động 3)|words=4.896125,5.576125;
+15.mp3/7.649563/11.413750/Let's chant (Hãy cùng hát!)|words=7.649563,8.289563;
+15.mp3/11.413750/50.834938/America, America, Marry's from America, She's from America, Australia, Australia, Ben's from He's from Australia (America, America, Marry đến từ America, Cô ấy đến từ America, Australia, Australia, Ben đến từ, Anh ấy đến từ Australia.)|words=15.293750,16.693750,18.093750,20.073750,20.653750,22.153750,23.913750,24.613750,25.873750,30.713750,32.633750,34.033750,36.533750,37.933750,38.613750;

@@ -1,0 +1,6 @@
+90.mp3/0.000000/2.971437/Page 63 (Trang 63)|words=0.000000,0.780000;
+90.mp3/2.971437/5.069187/Lesson 1 (Bài học 1)|words=2.971437,3.511437;
+90.mp3/5.069187/7.718063/Activity 6 (Hoạt động 6.)|words=5.069187,5.749187;
+90.mp3/7.718063/10.337438/Let's sing (Hãy cùng hát!)|words=7.718063,8.358063;
+90.mp3/10.337438/14.081875/Sports Day (Ngày hội thể thao)|words=10.337438,11.057438;
+90.mp3/14.081875/62.093063/Sports day, Sports day. Is your sports day in May? Yes, it is. Yes, it is. It's in May. Sports day, sports day, is your sports day in June? No, it isn't. No, it isn't. It's in July (Ngày hội thể thao, ngày hội thể thao. Ngày hội thể thao của bạn có phải vào tháng Năm không? Có, đúng vậy. Có, đúng vậy. Nó là vào tháng Năm. Ngày hội thể thao, ngày hội thể thao, ngày hội thể thao của bạn có phải vào tháng Sáu không? Không, không phải. Không, không phải. Nó là vào tháng Bảy.)|words=17.381875,18.481875,19.381875,20.361875,21.281875,21.921875,22.081875,22.301875,22.981875,23.201875,25.501875,26.601875,27.041875,27.941875,28.521875,29.121875,30.021875,34.161875,34.321875,37.541875,38.761875,39.581875,40.621875,41.521875,42.221875,42.381875,42.661875,43.281875,43.521875,45.721875,46.941875,47.501875,48.241875,48.921875,49.501875,50.401875,54.341875,54.521875;

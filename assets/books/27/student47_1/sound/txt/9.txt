@@ -1,0 +1,6 @@
+9.mp3/0.633875/2.650937/Page 11 (Trang 11.)|words=0.633875,0.913875;
+9.mp3/2.650937/4.531562/Lesson 1 (Bài học 1)|words=2.650937,3.110937;
+9.mp3/4.531562/7.135187/Activity 6 (Hoạt động 6.)|words=4.531562,5.171562;
+9.mp3/7.135187/9.877438/Let's sing (Hãy cùng hát nhé.)|words=7.135187,7.775187;
+9.mp3/9.877438/14.264750/Where are you from (Bạn đến từ đâu?)|words=9.877438,10.337438,10.697438,11.057438;
+9.mp3/14.264750/79.751875/Hello, I'm Min. I'm from Vietnam. Hello, Lucy, where are you from? I'm from Britain. Hello, Mary, where are you from? I'm from America. Hello, Ben, where are you from? I'm from Australia (Chào bạn, mình là Min. Mình đến từ Việt Nam. Chào Lucy, bạn đến từ đâu? Mình đến từ Anh. Chào Mary, bạn đến từ đâu? Mình đến từ Mỹ. Chào Ben, bạn đến từ đâu? Mình đến từ Úc.)|words=22.104750,23.464750,24.104750,24.744750,25.424750,25.564750,31.364750,32.744750,33.804750,34.204750,34.704750,34.884750,35.284750,36.564750,36.844750,48.804750,49.844750,51.164750,51.624750,52.144750,52.344750,53.244750,54.004750,54.264750,57.484750,58.524750,59.644750,60.344750,60.864750,61.044750,62.004750,62.684750,62.944750;
