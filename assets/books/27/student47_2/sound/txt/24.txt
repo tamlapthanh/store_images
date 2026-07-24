@@ -1,0 +1,6 @@
+24.mp3/0.000000/2.886437/Page 19 (Trang 19)|words=0.000000,0.800000;
+24.mp3/2.886437/4.716188/Lesson One (Bài học Một)|words=2.886437,3.366437;
+24.mp3/4.716188/7.265625/Activity 6 (Hoạt động 6.)|words=4.716188,5.356188;
+24.mp3/7.265625/9.915938/Let's sing (Hãy cùng hát)|words=7.265625,7.865625;
+24.mp3/9.915938/14.905375/What do your parents look like (Bố mẹ của bạn trông như thế nào?)|words=9.915938,10.235938,10.735938,11.075938,11.775938,12.155938;
+24.mp3/14.905375/52.480000/Your mom, your mom, what does she look like? She's slim, she's tall, she's slim and tall. Your dad, your dad, what does he look like? He's big, he's tall, he's big and tall (Mẹ của bạn, mẹ của bạn, mẹ bạn trông như thế nào? Mẹ gầy, mẹ cao, mẹ vừa gầy vừa cao. Bố của bạn, bố của bạn, bố bạn trông như thế nào? Bố to con, bố cao, bố vừa to con vừa cao.)|words=23.525375,24.365375,25.245375,25.545375,26.365375,27.105375,27.605375,27.945375,28.245375,28.885375,29.165375,29.985375,30.385375,31.145375,31.565375,31.965375,32.585375,37.905375,38.745375,39.705375,39.945375,40.865375,41.465375,42.065375,42.365375,42.685375,43.025375,43.625375,44.585375,44.805375,45.465375,46.025375,46.365375,46.985375;

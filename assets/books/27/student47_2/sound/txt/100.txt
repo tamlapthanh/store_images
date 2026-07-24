@@ -1,0 +1,8 @@
+100.mp3/0.000000/2.607000/Page 68 (Trang 68)|words=0.000000,0.660000;
+100.mp3/2.607000/4.427563/Lesson 3 (Bài học 3)|words=2.607000,3.127000;
+100.mp3/4.427563/6.978750/Activity 2 (Hoạt động 2)|words=4.427563,5.087563;
+100.mp3/6.978750/11.093563/listen and circle (Nghe và khoanh tròn)|words=6.978750,7.538750,8.258750;
+100.mp3/11.093563/12.696625/one (một.)|words=11.093563;
+100.mp3/12.696625/19.744375/We email our grandparents at the weekend (Chúng tôi gửi email cho ông bà vào cuối tuần.)|words=12.696625,12.936625,13.596625,14.196625,15.156625,16.056625,16.336625;
+100.mp3/19.744375/21.692312/2 (2.)|words=19.744375;
+100.mp3/21.692312/29.831875/Ling and Nam visit their friends on Sundays (Ling và Nam đến thăm bạn bè của họ vào ngày Chủ nhật.)|words=21.692312,21.992312,22.672312,23.152312,23.992312,24.412312,25.072312,25.592312;

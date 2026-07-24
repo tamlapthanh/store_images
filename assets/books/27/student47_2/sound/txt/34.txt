@@ -1,0 +1,6 @@
+34.mp3/0.000000/2.552000/Age 25 (25 tuổi)|words=0.000000,0.560000;
+34.mp3/2.552000/4.333438/Lesson 1 (Bài học 1.)|words=2.552000,3.012000;
+34.mp3/4.333438/6.833875/Activity 6 (Hoạt động 6.)|words=4.333438,4.973438;
+34.mp3/6.833875/9.704500/Let's sing (Hãy cùng hát)|words=6.833875,7.433875;
+34.mp3/9.704500/16.480812/When do you watch TV and read books (Bạn xem TV và đọc sách vào lúc nào?)|words=9.704500,10.224500,10.644500,11.004500,11.584500,12.024500,12.904500,13.304500;
+34.mp3/16.480812/62.798375/When do you watch TV? I watch TV in the afternoon. When do you read books? I read books in the evening. When do you watch TV? I watch TV at noon. When do you read books? I read books in the morning (Bạn xem TV vào lúc nào? Tôi xem TV vào buổi chiều. Bạn đọc sách vào lúc nào? Tôi đọc sách vào buổi tối. Bạn xem TV vào lúc nào? Tôi xem TV vào buổi trưa. Bạn đọc sách vào lúc nào? Tôi đọc sách vào buổi sáng.)|words=21.700812,22.560812,22.760812,22.940812,23.380812,24.420812,24.820812,25.100812,25.760812,26.460812,26.760812,28.260812,28.560812,28.940812,29.260812,29.640812,30.460812,30.840812,31.120812,31.640812,32.360812,32.700812,39.580812,40.440812,40.720812,40.940812,41.380812,42.440812,42.860812,43.120812,43.980812,44.700812,45.100812,46.500812,46.920812,47.240812,47.680812,48.520812,48.840812,49.140812,49.680812,50.360812,50.660812;

@@ -1,0 +1,6 @@
+14.mp3/0.000000/2.526312/Page 13 (Trang 13.)|words=0.000000,0.600000;
+14.mp3/2.526312/4.356125/Lesson One (Bài học Một.)|words=2.526312,3.026312;
+14.mp3/4.356125/6.919688/Activity 6 (Hoạt động 6.)|words=4.356125,4.996125;
+14.mp3/6.919688/9.283437/Let's sing (Hãy cùng hát!)|words=6.919688,7.499688;
+14.mp3/9.283437/13.749875/My lovely family (Gia đình yêu quý của tôi)|words=9.283437,9.743437,10.483437;
+14.mp3/13.749875/75.833500/There are four people in my family. My father is a farmer. My mother is a teacher. My brother and I are pupils. There are four people in my family. My father is a worker. My mother is a doctor. My sister and I are pupils. You (Có bốn người trong gia đình tôi. Bố tôi là một nông dân. Mẹ tôi là một giáo viên. Anh trai và tôi là học sinh. Có bốn người trong gia đình tôi. Bố tôi là một công nhân. Mẹ tôi là một bác sĩ. Chị gái và tôi là học sinh. Bạn)|words=20.529875,21.729875,21.929875,22.289875,22.849875,23.309875,23.649875,25.409875,26.009875,26.689875,27.489875,27.789875,29.569875,30.169875,30.769875,31.609875,31.949875,33.709875,34.309875,34.709875,35.369875,35.889875,36.209875,45.269875,46.509875,46.749875,47.129875,47.649875,48.109875,48.469875,49.289875,50.809875,51.469875,52.289875,52.609875,53.749875,54.989875,55.669875,56.489875,56.829875,57.509875,59.089875,59.509875,60.149875,60.769875,61.069875,74.409875;
