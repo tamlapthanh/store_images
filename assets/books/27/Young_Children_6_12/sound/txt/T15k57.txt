@@ -1,0 +1,7 @@
+T15k57.mp3/0.000000/2.605750/Dialogue 1 (Đoạn hội thoại 1)|words=0.000000,0.940000;
+T15k57.mp3/2.605750/6.336250/What's that? A shooting star (Cái đó là gì? Một ngôi sao băng.)|words=2.605750,2.905750,3.765750,3.885750,4.205750;
+T15k57.mp3/6.336250/7.824625/You (Bạn)|words=6.336250;
+T15k57.mp3/7.824625/9.704688/An alien (Một người ngoài hành tinh!)|words=7.824625,7.944625;
+T15k57.mp3/9.704688/11.167687/You (Bạn)|words=9.704688;
+T15k57.mp3/11.167687/13.439000/Dialogue 2 (Đoạn hội thoại 2)|words=11.167687,11.807687;
+T15k57.mp3/13.439000/18.120000/I can see the moon. Me too (Tôi có thể nhìn thấy mặt trăng. Tôi cũng vậy.)|words=13.439000,13.619000,13.799000,14.039000,14.199000,14.939000,15.239000;

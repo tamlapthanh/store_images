@@ -1,0 +1,7 @@
+T32k26.mp3/0.000000/2.223562/Dialogue 1 (Đoạn hội thoại 1)|words=0.000000,0.940000;
+T32k26.mp3/2.223562/5.008938/Pretend you're in the park (Giả sử bạn đang ở công viên.)|words=2.223562,2.603562,2.823562,2.943562,3.083562;
+T32k26.mp3/5.008938/9.349562/Let's play on the seesaw. Okay (Chúng ta hãy chơi trên xích đu nhé. Được thôi.)|words=5.008938,5.308938,5.568938,5.808938,5.968938,6.828938;
+T32k26.mp3/9.349562/10.764375/You (Bạn)|words=9.349562;
+T32k26.mp3/10.764375/12.538500/Dialogue 2 (Đoạn hội thoại 2)|words=10.764375,11.364375;
+T32k26.mp3/12.538500/15.338375/Pretend you're in the park (Giả sử bạn đang ở công viên.)|words=12.538500,12.998500,13.218500,13.358500,13.478500;
+T32k26.mp3/15.338375/20.893375/Let's play baseball! Okay, I'll get my gloves (Chúng ta hãy chơi bóng chày nhé! Được thôi, tôi sẽ lấy găng tay của mình.)|words=15.338375,15.658375,15.878375,16.838375,17.738375,17.918375,18.058375,18.218375;

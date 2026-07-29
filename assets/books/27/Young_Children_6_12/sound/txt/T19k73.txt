@@ -1,0 +1,3 @@
+T19k73.mp3/0.000000/2.456875/Dialogue (Đối thoại)|words=0.000000;
+T19k73.mp3/2.456875/4.621938/What does a mouse eat (Chuột ăn gì?)|words=2.456875,2.656875,2.896875,3.056875,3.336875;
+T19k73.mp3/4.621938/7.814938/Seeds, I think (Hạt giống, tôi nghĩ vậy.)|words=4.621938,5.041938,5.241938;

@@ -1,0 +1,8 @@
+79.mp3/0.000000/2.609313/Page 56 (Trang 56)|words=0.000000,0.660000;
+79.mp3/2.609313/4.517750/Lesson 3 (Bài học 3)|words=2.609313,3.129313;
+79.mp3/4.517750/7.067188/Activity 1 (Hoạt động 1)|words=4.517750,5.177750;
+79.mp3/7.067188/11.223562/Listen and repeat (Nghe và lặp lại.)|words=7.067188,7.487188,8.287188;
+79.mp3/11.223562/13.246937/behind (phía sau.)|words=11.223562;
+79.mp3/13.246937/18.331312/The bakery is behind the bookshop (Tiệm bánh nằm phía sau tiệm sách.)|words=13.246937,13.406937,13.886937,14.706937,15.186937,15.626937;
+79.mp3/18.331312/20.792125/between (ở giữa)|words=18.331312;
+79.mp3/20.792125/29.335500/The bakery is between the bookshop and the sports shop (Tiệm bánh nằm ở giữa tiệm sách và cửa hàng thể thao.)|words=20.792125,20.932125,21.392125,22.372125,22.872125,23.292125,24.012125,24.872125,25.132125,25.692125;

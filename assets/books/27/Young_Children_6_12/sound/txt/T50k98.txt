@@ -1,0 +1,6 @@
+T50k98.mp3/0.000000/2.774625/Dialogue 1 (Đoạn hội thoại 1)|words=0.000000,0.800000;
+T50k98.mp3/2.774625/7.016188/I want to be a firefighter. Me too (Tôi muốn trở thành lính cứu hỏa. Tôi cũng vậy!)|words=2.774625,2.934625,3.114625,3.254625,3.394625,3.514625,4.774625,5.154625;
+T50k98.mp3/8.604062/10.990375/Not me (Còn tôi thì không.)|words=8.604062,8.844062;
+T50k98.mp3/10.990375/15.155812/You dialogue too (Bạn cũng nên tham gia hội thoại.)|words=10.990375,12.439063,12.819063;
+T50k98.mp3/15.155812/16.963687/Where does a cook work (Một đầu bếp làm việc ở đâu?)|words=15.155812,15.315812,15.555812,15.675812,15.875812;
+T50k98.mp3/16.963687/20.013375/In a restaurant (Ở một nhà hàng.)|words=16.963687,17.103687,17.223687;

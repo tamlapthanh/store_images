@@ -1,0 +1,8 @@
+T22k85.mp3/0.000000/2.053375/Dialogue 1 (Đoạn hội thoại 1)|words=0.000000,0.840000;
+T22k85.mp3/2.053375/4.725437/Pretend you're Lisa (Giả sử bạn là Lisa.)|words=2.053375,2.453375,2.693375;
+T22k85.mp3/4.725437/7.122937/When do you go to ballet class (Bạn đi học lớp múa ba lê vào lúc nào?)|words=4.725437,4.845437,5.005437,5.085437,5.225437,5.325437,5.665437;
+T22k85.mp3/7.122937/9.365875/On Monday (Vào thứ Hai.)|words=7.122937,7.282937;
+T22k85.mp3/9.365875/10.996000/You (Bạn)|words=9.365875;
+T22k85.mp3/10.996000/13.490500/Dialogue 2 (Đoạn hội thoại 2.)|words=10.996000,11.576000;
+T22k85.mp3/13.490500/14.727813/Good morning (Chào buổi sáng.)|words=13.490500,13.570500;
+T22k85.mp3/14.727813/17.666688/Good morning (Chào buổi sáng.)|words=14.727813,14.867813;

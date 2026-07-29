@@ -1,0 +1,4 @@
+58.mp3/0.000000/2.476000/Track 58 (Bài tập số 58.)|words=0.000000,0.420000;
+58.mp3/2.476000/5.550438/Listen to the dialogue (Nghe đoạn hội thoại.)|words=2.476000,2.796000,3.096000,3.216000;
+58.mp3/5.550438/8.247438/Merry Christmas (Chúc mừng Giáng sinh!)|words=5.550438,5.930438;
+58.mp3/8.247438/12.721625/Happy Holidays (Chúc mừng ngày lễ!)|words=8.247438,8.607438;

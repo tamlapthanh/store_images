@@ -1,0 +1,7 @@
+T10k37.mp3/0.000000/2.828187/Dialogue 1 (Đoạn hội thoại 1)|words=0.000000,0.840000;
+T10k37.mp3/2.828187/5.493875/Is there a toothbrush in the bathroom (Có bàn chải đánh răng trong phòng tắm không?)|words=2.828187,2.968187,3.248187,3.348187,3.688187,4.088187,4.188187;
+T10k37.mp3/5.493875/7.979687/Yes, there is (Có chứ!)|words=5.493875,5.953875,6.093875;
+T10k37.mp3/9.437625/12.061250/No, there isn't (Không, không có.)|words=9.437625,9.997625,10.117625;
+T10k37.mp3/13.701750/15.650875/Dialogue 2 (Đoạn hội thoại 2)|words=13.701750,14.321750;
+T10k37.mp3/15.650875/19.319688/Pretend you're one of the lions (Giả vờ bạn là một trong những con sư tử.)|words=15.650875,16.070875,16.290875,16.490875,16.610875,16.770875;
+T10k37.mp3/19.319688/25.546688/Can I have the hairbrush, please? Sure, here you are (Tôi có thể mượn bàn chải tóc được không? Được chứ, đây rồi.)|words=19.319688,19.479688,19.699688,19.919688,20.099688,20.699688,21.759688,22.719688,22.939688,23.159688;

@@ -1,0 +1,7 @@
+90.mp3/0.000000/2.656563/Page 62 (Trang 62.)|words=0.000000,0.560000;
+90.mp3/2.656563/4.640500/Lesson 3 (Bài học 3.)|words=2.656563,3.156563;
+90.mp3/4.640500/7.376625/Activity 2 (Hoạt động 2.)|words=4.640500,5.300500;
+90.mp3/7.376625/13.491375/Listen and circle one (Nghe và khoanh tròn một đáp án.)|words=7.376625,7.916625,8.716625,11.778250;
+90.mp3/13.491375/19.526500/These giraffes are moving quickly (Những con hươu cao cổ này đang di chuyển rất nhanh!)|words=13.491375,13.891375,15.051375,15.231375,15.731375;
+90.mp3/19.526500/21.122438/2 (2.)|words=19.526500;
+90.mp3/21.122438/28.290625/Those lions are roaring loudly (Những con sư tử kia đang gầm lên rất lớn!)|words=21.122438,21.562438,22.302438,22.882438,23.582438;

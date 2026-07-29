@@ -1,0 +1,8 @@
+T07k25.mp3/0.000000/2.869875/Dialogue 1 (Đoạn hội thoại 1)|words=0.000000,0.860000;
+T07k25.mp3/2.869875/7.918938/Where's the park? It's near the swimming pool (Công viên ở đâu? Nó gần hồ bơi.)|words=2.869875,3.169875,3.309875,4.946187,5.166187,5.326187,5.526187,5.886187;
+T07k25.mp3/7.918938/9.932125/Thanks for watching (Cảm ơn các bạn đã xem!)|words=7.918938,8.118938,8.398938;
+T07k25.mp3/9.932125/12.754062/Dialogue 2 (Đoạn hội thoại 2)|words=9.932125,10.572125;
+T07k25.mp3/12.754062/17.302312/Where is she going? To the pet shop (Cô ấy đang đi đâu? Đến cửa hàng thú cưng.)|words=12.754062,12.914062,13.054062,13.234062,14.600563,14.720563,14.840563,15.080563;
+T07k25.mp3/17.302312/19.029063/You (Bạn)|words=17.302312;
+T07k25.mp3/19.029063/21.642688/Dialogue 3 (Đoạn hội thoại 3)|words=19.029063,19.649063;
+T07k25.mp3/21.642688/26.293375/Where's he going? To the toy store (Anh ấy đang đi đâu? Đến cửa hàng đồ chơi.)|words=21.642688,22.002688,22.082688,23.102688,23.202688,23.342688,23.682688;

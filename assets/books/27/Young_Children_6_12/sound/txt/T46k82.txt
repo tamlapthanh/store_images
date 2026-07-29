@@ -1,0 +1,5 @@
+T46k82.mp3/0.000000/3.287313/Dialogue 1 (Đoạn hội thoại 1)|words=0.000000,0.820000;
+T46k82.mp3/3.287313/7.614063/I like your cap. Thanks (Tôi thích chiếc mũ của bạn. Cảm ơn.)|words=3.287313,3.407313,3.647313,3.827313,4.847313;
+T46k82.mp3/7.614063/9.418812/You (Bạn)|words=7.614063;
+T46k82.mp3/9.418812/12.249187/Dialogue 2 (Đoạn hội thoại 2)|words=9.418812,9.998812;
+T46k82.mp3/12.249187/17.213375/Do you like my shoes? Yes, I do (Bạn có thích đôi giày của tôi không? Có, tôi thích.)|words=12.249187,12.369187,12.529187,12.749187,12.989187,14.089187,14.489187,14.569187;

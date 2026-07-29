@@ -1,0 +1,7 @@
+T39k54.mp3/0.000000/2.746750/Dialogue 1 (Đoạn hội thoại 1)|words=0.000000,0.800000;
+T39k54.mp3/2.746750/5.150938/Which class do you like best (Bạn thích lớp nào nhất?)|words=2.746750,2.966750,3.346750,3.606750,3.746750,3.886750;
+T39k54.mp3/5.150938/8.132875/I like art class (Tôi thích lớp mỹ thuật.)|words=5.150938,5.310938,5.550938,5.810938;
+T39k54.mp3/8.132875/9.848562/You (Bạn)|words=8.132875;
+T39k54.mp3/9.848562/12.272750/Dialogue 2 (Đoạn hội thoại 2)|words=9.848562,10.448562;
+T39k54.mp3/12.272750/14.482500/Where can you see a whiteboard (Bạn có thể nhìn thấy bảng trắng ở đâu?)|words=12.272750,12.452750,12.712750,12.872750,13.052750,13.172750;
+T39k54.mp3/14.482500/18.306687/in the computer class (Trong lớp học máy tính.)|words=14.482500,14.622500,14.782500,15.282500;

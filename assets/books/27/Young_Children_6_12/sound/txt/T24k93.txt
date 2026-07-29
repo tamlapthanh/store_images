@@ -1,0 +1,3 @@
+T24k93.mp3/0.000000/2.557375/Dialogue (Đối thoại)|words=0.000000;
+T24k93.mp3/2.557375/4.516687/What's your favorite toy (Đồ chơi yêu thích của bạn là gì?)|words=2.557375,2.757375,2.837375,3.137375;
+T24k93.mp3/4.516687/7.440000/My yo-yo (Yo-yo của tôi!)|words=4.516687,4.736687,5.036687;

@@ -1,0 +1,8 @@
+69.mp3/0.709688/2.775313/page 50 (trang 50.)|words=0.709688,1.169688;
+69.mp3/2.775313/4.630375/Lesson 3 (Bài học 3)|words=2.775313,3.275313;
+69.mp3/4.630375/7.068437/Activity 1 (Hoạt động 1)|words=4.630375,5.270375;
+69.mp3/7.068437/11.458250/Listen and repeat (Nghe và lặp lại.)|words=7.068437,7.508437,8.288437;
+69.mp3/11.458250/13.790688/bookshop (tiệm sách.)|words=11.458250;
+69.mp3/13.790688/18.229875/How can I get to the bookshop (Tôi có thể đến tiệm sách bằng cách nào?)|words=13.790688,14.050688,14.390688,14.610688,14.930688,15.270688,15.410688;
+69.mp3/18.229875/20.338062/campsite (khu cắm trại.)|words=18.229875;
+69.mp3/20.338062/27.141250/How can I get to the campsite (Tôi có thể đến khu cắm trại bằng cách nào?)|words=20.338062,21.118062,21.418062,21.638062,21.998062,22.438062,22.598062;

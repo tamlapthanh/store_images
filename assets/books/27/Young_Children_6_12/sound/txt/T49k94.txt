@@ -1,0 +1,11 @@
+T49k94.mp3/0.000000/2.147250/Dialogue 1 (Đoạn hội thoại 1.)|words=0.000000,0.880000;
+T49k94.mp3/2.147250/5.473000/Pretend you're at the fairground (Hãy tưởng tượng bạn đang ở công viên giải trí.)|words=2.147250,2.527250,2.747250,2.847250,2.987250;
+T49k94.mp3/5.473000/9.497312/Do you want to ride the ferris wheel? Yes, I do (Bạn có muốn đi vòng quay không? Có, tôi muốn.)|words=5.473000,5.553000,5.653000,5.893000,5.973000,6.153000,6.353000,6.693000,7.333000,7.773000,7.893000;
+T49k94.mp3/11.034937/13.682125/Not really (Không hẳn.)|words=11.034937,11.234937;
+T49k94.mp3/15.155125/17.836562/Dialogue 2 (Đoạn hội thoại 2.)|words=15.155125,15.655125;
+T49k94.mp3/17.836562/20.024313/Look at the strong man (Nhìn người đàn ông lực lưỡng kìa!)|words=17.836562,18.056562,18.216562,18.356562,18.736562;
+T49k94.mp3/20.024313/23.372000/Wow, he's wet (Ồ, anh ấy ướt sũng!)|words=20.024313,20.664313,20.984313;
+T49k94.mp3/23.372000/24.849563/You (Bạn)|words=23.372000;
+T49k94.mp3/24.849563/27.854125/Dialogue 3 (Đoạn hội thoại 3.)|words=24.849563,25.389563;
+T49k94.mp3/27.854125/29.452875/Look at the dancer (Nhìn vũ công kìa!)|words=27.854125,28.034125,28.174125,28.294125;
+T49k94.mp3/29.452875/33.640000/Wow! She's beautiful (Ồ! Cô ấy thật xinh đẹp!)|words=29.452875,30.232875,30.572875;

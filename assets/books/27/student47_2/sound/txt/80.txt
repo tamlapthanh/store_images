@@ -1,0 +1,9 @@
+80.mp3/0.000000/0.566375/You (Bạn)|words=0.000000;
+80.mp3/0.566375/2.919688/page 56 (trang 56.)|words=0.566375,1.046375;
+80.mp3/2.919688/4.750312/Lesson 3 (Bài học 3)|words=2.919688,3.439688;
+80.mp3/4.750312/7.359875/Activity 2 (Hoạt động 2)|words=4.750312,5.410312;
+80.mp3/7.359875/11.278625/listen and circle (nghe và khoanh tròn)|words=7.359875,7.899875,8.699875;
+80.mp3/11.278625/13.059625/one (một.)|words=11.278625;
+80.mp3/13.059625/21.173375/The gift shop is between the bookshop and the bakery (Cửa hàng quà tặng nằm giữa cửa hàng sách và tiệm bánh.)|words=13.059625,13.239625,13.699625,14.219625,14.839625,15.339625,15.959625,16.779625,17.619625,17.999625;
+80.mp3/21.173375/22.961000/2 (2.)|words=21.173375;
+80.mp3/22.961000/31.869375/The gift shop is behind the bookshop and the bakery (Cửa hàng quà tặng nằm phía sau cửa hàng sách và tiệm bánh.)|words=22.961000,23.181000,23.641000,24.141000,24.981000,25.521000,26.061000,26.781000,27.501000,27.781000;

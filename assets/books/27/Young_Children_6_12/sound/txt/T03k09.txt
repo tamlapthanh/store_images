@@ -1,0 +1,3 @@
+T03k09.mp3/0.000000/2.894188/Dialogue (Đối thoại)|words=0.000000;
+T03k09.mp3/2.894188/5.299625/What color is the shark (Con cá mập có màu gì?)|words=2.894188,3.134188,3.574188,3.874188;
+T03k09.mp3/5.299625/8.586688/It's gray (Nó có màu xám!)|words=5.299625,5.619625;

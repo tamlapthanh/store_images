@@ -1,0 +1,5 @@
+01.mp3/0.000000/1.915687/Track 1 (Bài hát số 1.)|words=0.000000,0.420000;
+01.mp3/1.915687/5.212250/sing the hello song (Hát bài "Hello".)|words=1.915687,2.275687,2.695687,3.015687;
+01.mp3/5.212250/37.823250/Hello, Harry, hello, hello. Hello, Mary, hello, hello. Hello, Sandy, hello, Andy. Hello, Joe, hello. Hello, Freddie, hello, hello. Hello, Teddy, hello, hello. Hello Sally, hello and hello Joe, hello (Chào Harry, chào, chào. Chào Mary, chào, chào. Chào Sandy, chào Andy. Chào Joe, chào. Chào Freddie, chào, chào. Chào Teddy, chào, chào. Chào Sally, chào và chào Joe, chào.)|words=8.252250,9.512250,10.272250,10.992250,11.432250,12.892250,13.692250,14.412250,15.542250,16.312250,17.232250,18.052250,18.512250,19.692250,20.312250,21.932250,23.112250,24.052250,24.712250,25.192250,26.632250,27.532250,28.132250,28.672250,29.752250,30.932250,31.352250,32.212250,33.012250,34.112250;
+01.mp3/37.823250/40.737687/Now it's your turn (Bây giờ đến lượt bạn.)|words=37.823250,38.103250,38.423250,38.563250;
+01.mp3/40.737687/75.284937/You You (Bạn, bạn.)|words=67.997687,71.797687;

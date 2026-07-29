@@ -1,0 +1,4 @@
+91.mp3/0.000000/2.628250/Track 91 (Bài tập số 91.)|words=0.000000,0.360000;
+91.mp3/2.628250/5.702250/Listen to the dialogue (Hãy nghe đoạn hội thoại.)|words=2.628250,2.948250,3.268250,3.408250;
+91.mp3/5.702250/7.838063/What's the weather like (Thời tiết thế nào?)|words=5.702250,5.942250,6.102250,6.382250;
+91.mp3/7.838063/11.885750/It's sunny (Trời nắng!)|words=7.838063,8.238063;

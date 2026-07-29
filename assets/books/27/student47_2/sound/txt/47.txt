@@ -1,0 +1,9 @@
+47.mp3/0.000000/11.293625/Page 33 Lesson 2 Activity 4 Listen and match (Trang 33, Bài học 2, Hoạt động 4: Nghe và nối hình ảnh với câu tương ứng.)|words=0.000000,0.860000,2.839812,3.359812,4.752125,5.412125,7.280438,7.740438,8.480438;
+47.mp3/11.293625/13.082688/one (một.)|words=11.293625;
+47.mp3/13.082688/22.478938/What does your brother do on Sundays? He plays tennis (Anh trai của bạn làm gì vào ngày Chủ nhật? Anh ấy chơi quần vợt.)|words=13.082688,13.382688,13.962688,14.262688,14.742688,15.362688,15.842688,18.660062,18.940062,19.580062;
+47.mp3/22.478938/24.222438/2 (hai.)|words=22.478938;
+47.mp3/24.222438/33.115125/What does your sister do on Sundays? She cooks meals (Chị gái của bạn làm gì vào ngày Chủ nhật? Cô ấy nấu bữa ăn.)|words=24.222438,24.582438,25.102438,25.402438,26.042438,26.642438,27.162438,29.585250,29.865250,30.305250;
+47.mp3/33.115125/34.948062/3 (ba.)|words=33.115125;
+47.mp3/34.948062/44.400375/What does your father do on Sundays? He watches films (Bố của bạn làm gì vào ngày Chủ nhật? Ông ấy xem phim.)|words=34.948062,35.268062,35.788062,36.108062,36.728062,37.268062,37.788062,40.616687,40.836687,41.336687;
+47.mp3/44.400375/46.371187/full (đầy đủ.)|words=44.400375;
+47.mp3/46.371187/56.555125/What does your mother do on Sundays? She does yoga (Mẹ của bạn làm gì vào ngày Chủ nhật? Bà ấy tập yoga.)|words=46.371187,46.791187,47.351187,47.651187,48.191187,48.791187,49.291187,51.793125,52.093125,52.593125;

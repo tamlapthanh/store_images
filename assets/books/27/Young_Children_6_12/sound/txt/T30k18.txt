@@ -1,0 +1,13 @@
+T30k18.mp3/0.000000/2.018687/Dialogue 1 (Đoạn hội thoại 1.)|words=0.000000,0.860000;
+T30k18.mp3/2.018687/5.398187/Pretend you're one of the toys (Giả vờ bạn là một trong những món đồ chơi.)|words=2.018687,2.318687,2.658687,2.818687,2.938687,3.058687;
+T30k18.mp3/5.398187/7.022312/What would you like (Bạn muốn gì?)|words=5.398187,5.538187,5.678187,5.818187;
+T30k18.mp3/7.022312/11.143500/I'll have salad and spaghetti, please (Tôi muốn salad và mì Ý, làm ơn.)|words=7.022312,7.262312,7.462312,7.942312,8.222312,8.682312;
+T30k18.mp3/11.143500/12.721125/You (Bạn)|words=11.143500;
+T30k18.mp3/12.721125/14.381438/Dialogue 2 (Đoạn hội thoại 2.)|words=12.721125,13.281125;
+T30k18.mp3/14.381438/17.377875/Pretend you're one of the toys (Giả vờ bạn là một trong những món đồ chơi.)|words=14.381438,14.681438,15.101438,15.281438,15.421438,15.541438;
+T30k18.mp3/17.377875/21.517563/Pass the salt, please. Here you are (Làm ơn đưa tôi lọ muối. Đây rồi.)|words=17.377875,17.597875,17.817875,18.257875,19.157875,19.377875,19.577875;
+T30k18.mp3/21.517563/22.758250/You (Bạn)|words=21.517563;
+T30k18.mp3/22.758250/24.520625/Dialogue 3 (Đoạn hội thoại 3)|words=22.758250,23.278250;
+T30k18.mp3/24.520625/27.457875/Pretend you're one of the toys (Giả vờ bạn là một trong những món đồ chơi.)|words=24.520625,24.940625,25.140625,25.300625,25.400625,25.520625;
+T30k18.mp3/27.457875/29.015625/What happened (Chuyện gì đã xảy ra?)|words=27.457875,27.657875;
+T30k18.mp3/29.015625/32.573375/I dropped my fork (Tôi làm rơi dĩa của mình.)|words=29.015625,29.135625,29.475625,29.755625;

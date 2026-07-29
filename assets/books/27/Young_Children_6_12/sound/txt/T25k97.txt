@@ -1,5 +1,8 @@
-T25k97.mp3/0/1.460000/Dialogue one.;
-T25k97.mp3/2/5.870000/Does the king live in the red castle? Yes.;
-T25k97.mp3/7/8.940000/No.;
-T25k97.mp3/10/10.660000/;
-T25k97.mp3/11/20.800000/Dialogue 2 Which castle has a drawbridge? The blue one. The red one.;
+T25k97.mp3/0.000000/2.515750/Dialogue 1 (Đoạn hội thoại 1)|words=0.000000,0.900000;
+T25k97.mp3/2.515750/7.025688/Does the king live in the Red Castle? Yes (Nhà vua có sống trong Lâu đài Đỏ không? Có.)|words=2.515750,2.655750,2.855750,3.155750,3.475750,3.655750,3.815750,4.115750,5.155750;
+T25k97.mp3/8.520000/10.270188/No (Không.)|words=8.520000;
+T25k97.mp3/10.270188/11.903000/You (Bạn)|words=10.270188;
+T25k97.mp3/11.903000/14.048188/Dialogue 2 (Đoạn hội thoại 2)|words=11.903000,12.543000;
+T25k97.mp3/14.048188/18.501062/Which castle has a drawbridge? The blue one (Lâu đài nào có cầu treo? Lâu đài màu xanh.)|words=14.048188,14.248188,14.768188,15.148188,15.308188,16.568188,16.768188,17.108188;
+T25k97.mp3/18.501062/19.958687/You (Bạn)|words=18.501062;
+T25k97.mp3/19.958687/23.120000/The red one (Lâu đài màu đỏ.)|words=19.958687,20.118687,20.378687;

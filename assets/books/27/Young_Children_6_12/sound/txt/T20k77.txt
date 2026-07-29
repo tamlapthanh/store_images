@@ -1,0 +1,9 @@
+T20k77.mp3/0.000000/2.072875/Dialogue 1 (Đoạn hội thoại 1.)|words=0.000000,0.820000;
+T20k77.mp3/2.072875/5.068500/Pretend you're in the park (Hãy tưởng tượng bạn đang ở trong công viên.)|words=2.072875,2.392875,2.692875,2.892875,3.032875;
+T20k77.mp3/5.068500/7.309125/Let's play in the snow (Chúng ta hãy chơi đùa trên tuyết nhé!)|words=5.068500,5.428500,5.728500,5.908500,6.088500;
+T20k77.mp3/7.309125/11.108125/Okay, I'll get my boots (Được thôi, tôi sẽ lấy ủng của mình.)|words=7.309125,8.169125,8.349125,8.509125,8.729125;
+T20k77.mp3/11.108125/12.770875/You (Bạn)|words=11.108125;
+T20k77.mp3/12.770875/14.504625/Dialogue 2 (Đoạn hội thoại 2.)|words=12.770875,13.390875;
+T20k77.mp3/14.504625/17.830125/Pretend you're in the park (Hãy tưởng tượng bạn đang ở trong công viên.)|words=14.504625,14.964625,15.284625,15.464625,15.624625;
+T20k77.mp3/17.830125/19.691750/It's snowing (Trời đang rơi tuyết!)|words=17.830125,18.150125;
+T20k77.mp3/19.691750/24.133375/Great! Let's make a snowman (Tuyệt vời! Chúng ta hãy làm một người tuyết nhé!)|words=19.691750,20.531750,20.911750,21.091750,21.271750;

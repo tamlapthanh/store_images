@@ -1,0 +1,9 @@
+T11k41.mp3/0.000000/2.254062/Dialogue 1 (Đoạn hội thoại 1)|words=0.000000,0.940000;
+T11k41.mp3/2.254062/5.798063/Pretend you're one of the lions (Giả vờ bạn là một trong những con sư tử.)|words=2.254062,2.674062,2.874062,3.054062,3.174062,3.314062;
+T11k41.mp3/5.798063/7.803875/Toast, please (Cho tôi xin một lát bánh mì nướng?)|words=5.798063,6.278063;
+T11k41.mp3/7.803875/10.318188/Here you are (Đây rồi.)|words=7.803875,7.963875,8.123875;
+T11k41.mp3/10.318188/11.921313/You (Bạn)|words=10.318188;
+T11k41.mp3/11.921313/13.791063/Dialogue 2 (Đoạn hội thoại 2)|words=11.921313,12.521313;
+T11k41.mp3/13.791063/17.079187/Pretend you're one of the lions (Giả vờ bạn là một trong những con sư tử.)|words=13.791063,14.251063,14.491063,14.711063,14.851063,14.971063;
+T11k41.mp3/17.079187/19.825813/Oh no! I broke my bowl (Ôi không! Tôi làm vỡ bát rồi!)|words=17.079187,17.239187,17.979187,18.139187,18.379187,18.639187;
+T11k41.mp3/19.825813/23.400000/Don't worry, it's okay (Đừng lo lắng, không sao đâu.)|words=19.825813,20.105813,20.745813,21.005813;

@@ -1,0 +1,8 @@
+89.mp3/0.000000/2.806000/Page 62 (Trang 62)|words=0.000000,0.780000;
+89.mp3/2.806000/4.641813/Lesson 3 (Bài học 3)|words=2.806000,3.286000;
+89.mp3/4.641813/7.270875/Activity 1 (Hoạt động 1.)|words=4.641813,5.281813;
+89.mp3/7.270875/11.311813/Listen and repeat (Nghe và lặp lại.)|words=7.270875,7.710875,8.550875;
+89.mp3/11.311813/13.722750/loudly (toàn tiếng)|words=11.311813;
+89.mp3/13.722750/18.792438/These animals are roaring loudly (Những con vật này đang gầm lên rất to.)|words=13.722750,14.082750,14.842750,15.562750,16.222750;
+89.mp3/18.792438/20.965063/quickly (nhanh chóng)|words=18.792438;
+89.mp3/20.965063/27.480812/Those animals are running quickly (Những con vật đó đang chạy nhanh chóng.)|words=20.965063,21.385063,21.985063,22.685063,23.205063;

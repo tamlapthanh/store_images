@@ -1,0 +1,3 @@
+T18k69.mp3/0.000000/1.857687/Dialogue (Đối thoại.)|words=0.000000;
+T18k69.mp3/1.857687/4.972688/Pretend you're at the beach (Hãy tưởng tượng bạn đang ở bãi biển.)|words=1.857687,2.337687,2.717687,2.877687,2.997687;
+T18k69.mp3/4.972688/10.293375/I forgot my fins. Here, use mine (Tôi quên mang ván lướt sóng của mình. Đây, dùng cái này nhé!)|words=4.972688,5.072688,5.392688,5.672688,6.992688,7.592688,7.812688;

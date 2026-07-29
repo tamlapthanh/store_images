@@ -1,0 +1,15 @@
+T14k53.mp3/0.000000/3.011250/Dialogue 1 (Đoạn hội thoại 1.)|words=0.000000,0.940000;
+T14k53.mp3/3.011250/5.760813/Do you have a bookcase in your bedroom (Bạn có giá sách trong phòng ngủ của mình không?)|words=3.011250,3.091250,3.251250,3.451250,3.591250,4.071250,4.251250,4.351250;
+T14k53.mp3/5.760813/8.486625/Yes, I do (Có, tôi có.)|words=5.760813,6.160813,6.260813;
+T14k53.mp3/8.486625/10.000000/You (Bạn)|words=8.486625;
+T14k53.mp3/10.000000/12.390688/No, I don't (Không, tôi không có.)|words=10.000000,10.440000,10.540000;
+T14k53.mp3/12.390688/13.949375/You (Bạn)|words=12.390688;
+T14k53.mp3/13.949375/16.958375/Dialogue 2 (Đoạn hội thoại 2.)|words=13.949375,14.589375;
+T14k53.mp3/16.958375/20.046375/Do you have an alarm clock in your bedroom (Bạn có đồng hồ báo thức trong phòng ngủ của mình không?)|words=16.958375,17.058375,17.258375,17.538375,17.638375,17.958375,18.298375,18.558375,18.658375;
+T14k53.mp3/20.046375/22.161687/Yes, I do (Có, tôi có.)|words=20.046375,20.386375,20.486375;
+T14k53.mp3/22.161687/23.654375/You (Bạn)|words=22.161687;
+T14k53.mp3/23.654375/26.205500/No, I don't (Không, tôi không có.)|words=23.654375,23.854375,24.034375;
+T14k53.mp3/26.205500/27.732188/You (Bạn)|words=26.205500;
+T14k53.mp3/27.732188/29.625438/Dialogue 3 (Đoạn hội thoại 3)|words=27.732188,28.332188;
+T14k53.mp3/29.625438/33.507125/Pretend you're one of the lions (Giả vờ bạn là một trong những con sư tử.)|words=29.625438,30.025438,30.225438,30.405438,30.505438,30.645438;
+T14k53.mp3/33.507125/38.200000/Put on your pajamas, please. OK (Mặc đồ ngủ vào nhé. Được rồi.)|words=33.507125,33.607125,33.807125,33.927125,34.607125,35.347125;

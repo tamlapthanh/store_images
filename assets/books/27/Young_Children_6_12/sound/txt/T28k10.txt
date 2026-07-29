@@ -1,0 +1,8 @@
+T28k10.mp3/0.000000/2.363375/Dialogue 1 (Đoạn hội thoại 1.)|words=0.000000,1.040000;
+T28k10.mp3/2.363375/5.955063/Pretend you're one of the toys (Giả vờ bạn là một trong những món đồ chơi.)|words=2.363375,2.803375,3.063375,3.283375,3.403375,3.543375;
+T28k10.mp3/5.955063/9.300875/Here's a donut and an ice cream cone (Đây là một chiếc bánh rán và một cây kem.)|words=5.955063,6.315063,6.415063,6.735063,7.255063,7.395063,7.615063,7.895063;
+T28k10.mp3/9.300875/11.431000/Thank you (Cảm ơn bạn.)|words=9.300875,9.520875;
+T28k10.mp3/11.431000/12.769563/You (Bạn)|words=11.431000;
+T28k10.mp3/12.769563/14.418875/Dialogue 2 (Đoạn hội thoại 2.)|words=12.769563,13.349563;
+T28k10.mp3/14.418875/17.827063/Pretend you're one of the toys (Giả vờ bạn là một trong những món đồ chơi.)|words=14.418875,14.878875,15.138875,15.358875,15.498875,15.618875;
+T28k10.mp3/17.827063/24.240000/Wow! A present! Thanks! You're welcome (Ồ! Một món quà! Cảm ơn! Không có gì.)|words=17.827063,18.787063,18.967063,19.847063,21.067063,21.307063;

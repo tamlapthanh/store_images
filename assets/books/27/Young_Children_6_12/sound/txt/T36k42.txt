@@ -1,0 +1,7 @@
+T36k42.mp3/0.000000/2.469187/Dialogue 1 (Đoạn hội thoại 1.)|words=0.000000,0.780000;
+T36k42.mp3/2.469187/5.145812/What's your favorite Australian animal (Con vật Úc yêu thích của bạn là gì?)|words=2.469187,2.729187,2.829187,3.089187,3.729187;
+T36k42.mp3/5.145812/8.117188/I like the platypus best (Tôi thích nhất loài thú mỏ vịt.)|words=5.145812,5.305812,5.545812,5.745812,6.405812;
+T36k42.mp3/8.117188/9.461625/You (Bạn)|words=8.117188;
+T36k42.mp3/9.461625/12.036000/Dialogue 2 (Đoạn hội thoại 2.)|words=9.461625,10.061625;
+T36k42.mp3/12.036000/16.404813/Does the dingo have a pouch? No, it doesn't (Con dingo có túi không? Không, nó không có.)|words=12.036000,12.216000,12.376000,12.716000,12.996000,13.156000,14.116000,14.496000,14.576000;
+T36k42.mp3/17.900375/21.066688/Yes, it does (Có, nó có!)|words=17.900375,18.120375,18.280375;

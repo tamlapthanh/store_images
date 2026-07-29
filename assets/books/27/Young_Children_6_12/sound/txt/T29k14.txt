@@ -1,0 +1,8 @@
+T29k14.mp3/0.000000/2.170937/Dialogue 1 (Đoạn hội thoại 1.)|words=0.000000,0.980000;
+T29k14.mp3/2.170937/4.983875/Pretend you're one of the toys (Giả vờ bạn là một trong những món đồ chơi.)|words=2.170937,2.610937,2.810937,2.970937,3.070937,3.210937;
+T29k14.mp3/4.983875/9.453563/I'm thirsty. Have some lemonade (Tôi khát. Uống chút nước chanh nhé.)|words=4.983875,5.323875,6.503875,6.863875,7.103875;
+T29k14.mp3/9.453563/10.787688/You (Bạn)|words=9.453563;
+T29k14.mp3/10.787688/12.426438/Dialogue 2 (Đoạn hội thoại 2.)|words=10.787688,11.327688;
+T29k14.mp3/12.426438/15.334500/Pretend you're one of the toys (Giả vờ bạn là một trong những món đồ chơi.)|words=12.426438,12.906438,13.126438,13.306438,13.426438,13.546438;
+T29k14.mp3/15.334500/17.059000/I'm hungry (Tôi đói bụng.)|words=15.334500,15.694500;
+T29k14.mp3/17.059000/20.826688/Have some fried chicken (Ăn chút gà rán nhé!)|words=17.059000,17.299000,17.539000,17.919000;

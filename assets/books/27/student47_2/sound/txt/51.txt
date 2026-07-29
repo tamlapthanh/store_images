@@ -1,0 +1,8 @@
+51.mp3/0.000000/13.499500/Review 3, page 36. Activity 1: Listen and number one (Ôn lại bài 3, trang 36. Bài tập 1: Nghe và đánh số 1.)|words=0.000000,0.700000,2.739313,3.139313,5.111313,5.771313,7.731562,8.211562,8.991562,11.806062;
+51.mp3/13.499500/21.915500/What's the street like? It's a busy street (Con phố đó như thế nào? Đó là một con phố đông đúc.)|words=13.499500,13.999500,14.279500,14.759500,17.006750,17.806750,17.946750,18.566750;
+51.mp3/21.915500/23.722938/2 (2.)|words=21.915500;
+51.mp3/23.722938/30.335000/What does he do? He's a former (Anh ấy làm nghề gì? Anh ấy là một cựu chiến binh!)|words=23.722938,24.002938,24.442938,24.642938,26.690250,27.190250,27.470250;
+51.mp3/30.335000/32.289500/three (ba)|words=30.335000;
+51.mp3/32.289500/39.835313/What does your brother look like? He's tall (Anh trai của bạn trông như thế nào? Anh ấy cao.)|words=32.289500,32.609500,32.969500,33.269500,33.809500,34.249500,36.383437,36.923437;
+51.mp3/39.835313/41.723875/full (đầy đủ.)|words=39.835313;
+51.mp3/41.723875/52.035938/What does your father do on Sundays? He plays tennis (Cha của bạn làm gì vào ngày Chủ nhật? Ông ấy chơi quần vợt.)|words=41.723875,42.023875,42.403875,42.683875,43.263875,43.803875,44.423875,46.814438,47.074438,47.734438;

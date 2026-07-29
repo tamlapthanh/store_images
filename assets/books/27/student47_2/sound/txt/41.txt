@@ -1,0 +1,8 @@
+41.mp3/0.000000/17.634812/Unit 15 My Family's Weekends, page 30. Lesson One. Activity 1. Look, listen, and repeat (Bài 15 Cuối tuần của gia đình tôi, trang 30. Bài học Một. Hoạt động 1. Nhìn, nghe và lặp lại.)|words=0.000000,0.700000,2.726938,3.066938,4.006938,6.034000,6.494000,8.172438,8.632438,9.935813,10.615813,12.587563,13.580687,14.020687,14.800687;
+41.mp3/17.634812/19.462500/A (A.)|words=17.634812;
+41.mp3/19.462500/24.979813/Where does your father go on Saturdays (Hàng thứ Bảy, bố bạn đi đâu?)|words=19.462500,19.782500,20.222500,20.502500,21.082500,21.662500,22.162500;
+41.mp3/24.979813/29.451812/He goes to the gym (Ông ấy đến phòng tập thể dục.)|words=24.979813,25.219813,25.639813,26.159813,26.359813;
+41.mp3/29.451812/30.963062/B (B)|words=29.451812;
+41.mp3/30.963062/34.079000/What about your mother (Còn mẹ bạn thì sao?)|words=30.963062,31.163062,31.663062,32.063062;
+41.mp3/34.079000/38.183625/Where does she go on Saturdays (Hàng thứ Bảy, bà ấy đi đâu?)|words=34.079000,34.339000,34.619000,35.019000,35.439000,35.859000;
+41.mp3/38.183625/44.434313/She goes to the shopping centre (Bà ấy đến trung tâm mua sắm.)|words=38.183625,38.523625,38.983625,39.483625,39.723625,40.203625;

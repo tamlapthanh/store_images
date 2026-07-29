@@ -1,0 +1,5 @@
+70.mp3/0.000000/2.471938/Track 70 (Bài 70)|words=0.000000,0.440000;
+70.mp3/2.471938/5.231875/Listen to the dialogue (Nghe đoạn hội thoại.)|words=2.471938,2.811938,3.111938,3.251938;
+70.mp3/5.231875/7.839500/I like steak (Tôi thích ăn thịt bò bít tết.)|words=5.231875,5.511875,5.791875;
+70.mp3/7.839500/10.199438/Me too (Tôi cũng vậy.)|words=7.839500,8.099500;
+70.mp3/10.199438/15.806938/Not me, I like chicken (Còn tôi thì không, tôi thích ăn thịt gà.)|words=10.199438,10.459438,11.419438,11.639438,11.979438;

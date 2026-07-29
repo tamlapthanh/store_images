@@ -1,0 +1,8 @@
+T12k45.mp3/0.000000/2.877125/Dialogue 1 (Đoạn hội thoại 1)|words=0.000000,0.960000;
+T12k45.mp3/2.877125/6.636438/Where's the toaster? It's on the counter (Lò nướng bánh mì để đâu? Nó ở trên mặt bàn.)|words=2.877125,3.117125,3.237125,4.157125,4.497125,4.617125,4.837125;
+T12k45.mp3/6.636438/8.074063/You (Bạn)|words=6.636438;
+T12k45.mp3/8.074063/9.897813/Dialogue 2 (Đoạn hội thoại 2)|words=8.074063,8.754063;
+T12k45.mp3/9.897813/14.343563/Pretend you're one of the lions (Giả vờ bạn là một trong những con sư tử.)|words=9.897813,10.177813,10.477813,10.637813,10.757813,10.917813;
+T12k45.mp3/14.343563/17.250813/Did you close the refrigerator (Bạn đã đóng tủ lạnh chưa?)|words=14.343563,14.563563,14.803563,15.223563,15.583563;
+T12k45.mp3/17.250813/19.770125/No, I didn't (Không, tôi không có.)|words=17.250813,17.690813,17.790813;
+T12k45.mp3/21.225687/24.240000/Yes, I did (Có, tôi đã làm rồi.)|words=21.225687,21.605687,21.705687;

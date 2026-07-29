@@ -1,0 +1,8 @@
+99.mp3/0.000000/2.804688/Page 68 (Trang 68)|words=0.000000,0.800000;
+99.mp3/2.804688/4.712313/Lesson 3 (Bài học 3)|words=2.804688,3.364688;
+99.mp3/4.712313/7.197000/Activity 1 (Hoạt động 1)|words=4.712313,5.372313;
+99.mp3/7.197000/9.776375/Listen and repeat (Nghe và lặp lại.)|words=7.197000,7.677000,8.437000;
+99.mp3/11.316500/13.281438/Visit (Visit)|words=11.316500;
+99.mp3/13.281438/18.458250/They visit their grandparents in summer (Họ đến thăm ông bà vào mùa hè.)|words=13.281438,13.541438,14.001438,14.501438,15.081438,15.941438;
+99.mp3/18.458250/20.465813/email (email)|words=18.458250;
+99.mp3/20.465813/26.880000/We email our friends at the weekend (Chúng tôi gửi email cho bạn bè vào cuối tuần.)|words=20.465813,20.725813,21.345813,21.665813,22.285813,22.725813,22.885813;

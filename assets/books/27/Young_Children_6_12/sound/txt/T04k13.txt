@@ -1,0 +1,3 @@
+T04k13.mp3/0.000000/2.812625/Dialogue (Đối thoại)|words=0.000000;
+T04k13.mp3/2.812625/4.892750/Look at the treasure (Nhìn kho báu kìa!)|words=2.812625,3.112625,3.292625,3.472625;
+T04k13.mp3/4.892750/8.813375/Wow, it's shiny (Ồ, nó sáng bóng quá!)|words=4.892750,5.792750,6.072750;

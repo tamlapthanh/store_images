@@ -1,0 +1,3 @@
+T16k61.mp3/0.000000/2.422813/Dialogue (Đối thoại)|words=0.000000;
+T16k61.mp3/2.422813/4.438500/What's the weather like (Thời tiết thế nào?)|words=2.422813,2.742813,2.902813,3.162813;
+T16k61.mp3/4.438500/7.306687/It's sunny (Trời nắng.)|words=4.438500,4.858500;

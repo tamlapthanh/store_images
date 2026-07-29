@@ -1,0 +1,7 @@
+T33k30.mp3/0.000000/3.251625/Dialogue 1 (Đoạn hội thoại 1)|words=0.000000,0.940000;
+T33k30.mp3/3.251625/5.904125/What's your favorite African animal (Con vật châu Phi yêu thích của bạn là gì?)|words=3.251625,3.571625,3.691625,4.111625,4.611625;
+T33k30.mp3/5.904125/9.445500/I like the hippopotamus best (Tôi thích nhất loài hà mã.)|words=5.904125,6.064125,6.304125,6.484125,7.264125;
+T33k30.mp3/9.445500/14.036437/You dialogue too (Bạn cũng hãy đối thoại nhé.)|words=9.445500,11.280313,11.720313;
+T33k30.mp3/14.036437/16.547313/Does the lion have a tusk (Liệu sư tử có răng nanh không?)|words=14.036437,14.156437,14.416437,14.736437,15.076437,15.216437;
+T33k30.mp3/16.547313/19.193062/No, it doesn't (Không, nó không có!)|words=16.547313,16.947313,17.047313;
+T33k30.mp3/19.193062/24.106687/You yes, it does (Bạn nói đúng, nó có.)|words=19.193062,20.669000,21.089000,21.209000;

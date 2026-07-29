@@ -1,0 +1,5 @@
+T42k66.mp3/0.000000/2.503750/Dialogue (Đối thoại)|words=0.000000;
+T42k66.mp3/2.503750/5.287438/I can play the guitar. Can you (Tôi có thể chơi guitar. Còn bạn thì sao?)|words=2.503750,2.643750,2.843750,3.063750,3.223750,4.023750,4.363750;
+T42k66.mp3/5.287438/7.453375/Yes, I can (Có, tôi có thể!)|words=5.287438,5.687438,5.787438;
+T42k66.mp3/7.453375/8.949875/You (Bạn)|words=7.453375;
+T42k66.mp3/8.949875/12.360000/No, I can't (Không, tôi không thể.)|words=8.949875,9.429875,9.489875;

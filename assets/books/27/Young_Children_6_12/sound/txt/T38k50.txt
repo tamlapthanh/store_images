@@ -1,0 +1,8 @@
+T38k50.mp3/0.000000/3.114187/Dialogue 1 (Đoạn hội thoại 1)|words=0.000000,0.740000;
+T38k50.mp3/3.114187/5.041938/Where's the restroom (Nhà vệ sinh ở đâu?)|words=3.114187,3.374187,3.534187;
+T38k50.mp3/5.041938/7.771875/Next to the gym (Ở ngay cạnh phòng tập thể dục.)|words=5.041938,5.341938,5.541938,5.621938;
+T38k50.mp3/7.771875/9.163125/You (Bạn)|words=7.771875;
+T38k50.mp3/9.163125/10.921375/Dialogue 2 (Đoạn hội thoại 2.)|words=9.163125,9.723125;
+T38k50.mp3/10.921375/14.149125/Pretend you're in the schoolyard (Giả sử bạn đang ở sân trường.)|words=10.921375,11.341375,11.661375,11.781375,11.901375;
+T38k50.mp3/14.149125/15.864875/Do you want to play tag (Bạn có muốn chơi trò đuổi bắt không?)|words=14.149125,14.229125,14.349125,14.549125,14.629125,14.789125;
+T38k50.mp3/15.864875/18.666688/Okay (Được thôi.)|words=15.864875;

@@ -1,0 +1,8 @@
+T47k86.mp3/0.000000/1.996750/Dialogue 1 (Đoạn hội thoại 1.)|words=0.000000,0.840000;
+T47k86.mp3/1.996750/5.475500/Pretend you're at the doctors (Giả sử bạn đang ở phòng khám bác sĩ.)|words=1.996750,2.416750,2.656750,2.796750,2.916750;
+T47k86.mp3/5.475500/7.344375/What's the matter (Có chuyện gì vậy?)|words=5.475500,5.795500,5.935500;
+T47k86.mp3/7.344375/10.676250/My arm hurts (Tay tôi bị đau.)|words=7.344375,7.544375,7.924375;
+T47k86.mp3/10.676250/13.955750/You dialogue too (Bạn cũng hãy đối thoại nhé.)|words=10.676250,12.266500,12.686500;
+T47k86.mp3/13.955750/17.498125/Pretend you're at the doctors (Giả sử bạn đang ở phòng khám bác sĩ.)|words=13.955750,14.375750,14.615750,14.735750,14.855750;
+T47k86.mp3/17.498125/19.074813/What's the matter (Có chuyện gì vậy?)|words=17.498125,17.818125,17.958125;
+T47k86.mp3/19.074813/22.306687/I have a cold (Tôi bị cảm.)|words=19.074813,19.234813,19.474813,19.694813;

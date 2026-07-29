@@ -1,0 +1,6 @@
+T21k81.mp3/0.000000/2.598187/Dialogue One (Đoạn hội thoại một.)|words=0.000000,0.920000;
+T21k81.mp3/2.598187/4.458250/When's your birthday (Sinh nhật của bạn vào tháng nào?)|words=2.598187,2.978187,3.098187;
+T21k81.mp3/4.458250/6.923188/It's in June (Vào tháng Sáu!)|words=4.458250,4.698250,4.838250;
+T21k81.mp3/8.531562/10.913063/Dialogue 2 (Đoạn hội thoại hai.)|words=8.531562,9.091562;
+T21k81.mp3/10.913063/12.985062/What's your favorite season (Mùa yêu thích của bạn là mùa nào?)|words=10.913063,11.133063,11.213063,11.553063;
+T21k81.mp3/12.985062/16.840000/I like winter best (Tôi thích nhất là mùa đông.)|words=12.985062,13.125062,13.445062,13.865062;

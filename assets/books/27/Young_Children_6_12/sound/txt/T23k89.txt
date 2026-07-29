@@ -1,0 +1,7 @@
+T23k89.mp3/0.000000/3.036563/Dialogue 1 (Đoạn hội thoại 1.)|words=0.000000,0.840000;
+T23k89.mp3/3.036563/4.643250/What time is it (Bây giờ là mấy giờ?)|words=3.036563,3.156563,3.476563,3.676563;
+T23k89.mp3/4.643250/6.959313/It's one o'clock (Mấy giờ rồi.)|words=4.643250,4.843250,5.063250,5.163250;
+T23k89.mp3/6.959313/8.576375/You (Bạn)|words=6.959313;
+T23k89.mp3/8.576375/11.043313/Dialogue too (Đoạn hội thoại thứ hai.)|words=8.576375,8.996375;
+T23k89.mp3/11.043313/13.766687/How many triangles can you see (Bạn có thể nhìn thấy bao nhiêu hình tam giác?)|words=11.043313,11.223313,11.443313,12.163313,12.543313,12.723313;
+T23k89.mp3/13.766687/16.426687/3 (3)|words=13.766687;

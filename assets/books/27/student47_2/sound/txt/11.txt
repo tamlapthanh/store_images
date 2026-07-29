@@ -1,1 +1,13 @@
-11.mp3/0.000000/40.777125/Unit 12 Jobs, page 12. Lesson One, Activity 1. Look, listen and repeat. A. How many people are there in your family? There are four. B. This is my father. What does he do? He's a policeman (Bài 12: Các nghề nghiệp, trang 12. Bài học 1, Hoạt động 1. Nhìn, nghe và lặp lại. A. Có bao nhiêu người trong gia đình bạn? Có bốn người. B. Đây là bố tôi. Ông ấy làm nghề gì? Ông ấy là một cảnh sát.)|words=0.000000,0.600000,2.635563,4.349250,4.669250,6.471625,7.031625,8.440125,9.100125,11.132563,12.251875,12.711875,13.551875,16.350750,17.921437,18.301437,18.701437,19.361437,19.981437,20.261437,20.701437,21.061437,23.502688,23.942688,24.182688,27.480313,29.125312,29.565312,30.065312,30.405312,32.878375,33.238375,33.738375,33.938375,35.986187,36.466187,36.626187;
+11.mp3/0.000000/4.349250/Unit 12 jobs (Bài 12: Các công việc khác nhau.)|words=0.000000,0.600000,2.635563;
+11.mp3/4.349250/6.471625/page 12 (Trang 12.)|words=4.349250,4.669250;
+11.mp3/6.471625/8.440125/Lesson one (Bài học một)|words=6.471625,7.031625;
+11.mp3/8.440125/11.132563/Activity 1 (Hoạt động 1)|words=8.440125,9.100125;
+11.mp3/11.132563/12.251875/Look (Nhìn này.)|words=11.132563;
+11.mp3/12.251875/16.350750/Listen and repeat (Nghe và lặp lại)|words=12.251875,12.711875,13.551875;
+11.mp3/16.350750/17.921437/A (A)|words=16.350750;
+11.mp3/17.921437/23.502688/How many people are there in your family (Trong gia đình bạn có bao nhiêu người?)|words=17.921437,18.301437,18.701437,19.361437,19.981437,20.261437,20.701437,21.061437;
+11.mp3/23.502688/27.480313/There are four (Có bốn người.)|words=23.502688,23.942688,24.182688;
+11.mp3/27.480313/29.125312/B (B)|words=27.480313;
+11.mp3/29.125312/32.878375/This is my father (Đây là bố tôi.)|words=29.125312,29.565312,30.065312,30.405312;
+11.mp3/32.878375/35.986187/What does he do (Ông ấy làm nghề gì?)|words=32.878375,33.238375,33.738375,33.938375;
+11.mp3/35.986187/40.777125/He's a policeman (Ông ấy là một cảnh sát.)|words=35.986187,36.466187,36.626187;

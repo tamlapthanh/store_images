@@ -1,0 +1,6 @@
+7.mp3/0.000000/2.362875/Page 9 (Trang 9)|words=0.000000,0.580000;
+7.mp3/2.362875/4.325750/Lesson 2 (Bài học 2)|words=2.362875,2.802875;
+7.mp3/4.325750/6.913188/Activity 6 (Hoạt động 6)|words=4.325750,4.985750;
+7.mp3/6.913188/9.457250/Let's sing (Hãy cùng hát!)|words=6.913188,7.573188;
+7.mp3/9.457250/13.021125/My house (Ngôi nhà của tôi)|words=9.457250,9.897250;
+7.mp3/13.021125/59.245750/I live in a house, it's a small house. In a quiet street, in a big town. I live in a house, it's a small house. In a busy street, in a big city (Tôi sống trong một ngôi nhà, đó là một ngôi nhà nhỏ. Trên một con phố yên tĩnh, ở một thị trấn lớn. Tôi sống trong một ngôi nhà, đó là một ngôi nhà nhỏ. Trên một con phố tấp nập, ở một thành phố lớn.)|words=18.541125,19.421125,19.921125,20.701125,20.881125,21.481125,21.741125,22.121125,22.121125,23.041125,24.561125,24.721125,25.081125,26.241125,27.501125,27.681125,28.041125,36.081125,36.921125,37.581125,38.261125,38.461125,39.021125,39.241125,39.341125,39.521125,40.681125,42.141125,42.301125,42.601125,43.941125,45.081125,45.241125,45.641125;

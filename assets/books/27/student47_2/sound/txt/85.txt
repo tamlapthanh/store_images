@@ -1,0 +1,6 @@
+85.mp3/0.000000/3.027500/Page 59 (Trang 59)|words=0.000000,0.940000;
+85.mp3/3.027500/4.930937/Lesson 1 (Bài học 1.)|words=3.027500,3.527500;
+85.mp3/4.930937/7.458500/Activity 6 (Hoạt động 6.)|words=4.930937,5.570937;
+85.mp3/7.458500/9.928812/Let's sing (Hãy cùng hát nhé.)|words=7.458500,8.138500;
+85.mp3/9.928812/14.496375/What are these animals (Đây là những con vật gì?)|words=9.928812,10.268812,10.648812,11.108812;
+85.mp3/14.496375/51.278375/Look! Look! Look! What are these animals? They are lions, they look brave. Look! Look! Look! What are these animals? They are hippos, they look strong (Nhìn kìa! Nhìn kìa! Nhìn kìa! Đây là những con vật gì? Chúng là sư tử, chúng trông rất dũng cảm. Nhìn kìa! Nhìn kìa! Nhìn kìa! Đây là những con vật gì? Chúng là hà mã, chúng trông rất khỏe mạnh.)|words=21.516375,22.816375,23.136375,23.896375,24.356375,24.836375,25.096375,25.996375,26.356375,26.816375,27.856375,28.156375,28.636375,33.036375,34.276375,34.656375,35.396375,35.816375,36.316375,36.556375,37.536375,37.836375,38.316375,39.416375,39.716375,40.176375;

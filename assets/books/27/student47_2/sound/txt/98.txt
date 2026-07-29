@@ -1,0 +1,7 @@
+98.mp3/0.000000/0.509313/You (Bạn)|words=0.000000;
+98.mp3/0.509313/3.172063/Page 67 (Trang 67)|words=0.509313,0.889313;
+98.mp3/3.172063/5.145625/Lesson 2 (Bài học 2)|words=3.172063,3.712063;
+98.mp3/5.145625/7.896313/Activity 6 (Hoạt động 6.)|words=5.145625,5.805625;
+98.mp3/7.896313/11.017250/Let's sing (Hãy cùng hát!)|words=7.896313,8.496313;
+98.mp3/11.017250/15.041500/What are they doing (Họ đang làm gì?)|words=11.017250,11.357250,11.797250,12.017250;
+98.mp3/15.041500/59.924937/What are they doing? Building a campfire. Building a campfire. They're building a campfire. What are they doing? Playing card games, playing card games, they're playing card games (Họ đang làm gì? Họ đang dựng lều trại. Họ đang dựng lều trại. Họ đang dựng lều trại. Họ đang làm gì? Họ đang chơi trò chơi bài, họ đang chơi trò chơi bài, họ đang chơi trò chơi bài.)|words=22.401500,23.601500,24.101500,24.421500,25.501500,25.961500,26.561500,27.421500,27.981500,28.601500,29.481500,29.761500,30.141500,30.741500,39.301500,40.461500,40.981500,41.301500,42.021500,42.801500,43.781500,44.401500,44.961500,45.881500,46.441500,46.541500,47.061500,47.961500;

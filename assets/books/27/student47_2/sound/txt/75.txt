@@ -1,0 +1,6 @@
+75.mp3/0.719438/3.205188/Page 53 (Trang 53.)|words=0.719438,1.199438;
+75.mp3/3.205188/5.061438/Lesson One (Bài học Một.)|words=3.205188,3.685188;
+75.mp3/5.061438/7.575188/Activity 6 (Hoạt động 6)|words=5.061438,5.681438;
+75.mp3/7.575188/9.955188/Let's sing (Hãy cùng hát!)|words=7.575188,8.155188;
+75.mp3/9.955188/14.247500/Where's the bookshop (Tiệm sách ở đâu?)|words=9.955188,10.655188,10.855188;
+75.mp3/14.247500/65.515125/Excuse me, where's the bookshop? It's over there, it's over there. It's near the bakery. Excuse me, where's the pet shop? It's over there, it's over there. It's opposite the gift shop. You (Xin lỗi, tiệm sách ở đâu? Ở đằng kia, ở đằng kia. Nó gần tiệm bánh. Xin lỗi, tiệm thú cưng ở đâu? Ở đằng kia, ở đằng kia. Nó đối diện với cửa hàng quà lưu niệm. Bạn)|words=21.667500,22.727500,23.907500,24.407500,24.627500,26.007500,26.367500,26.627500,27.827500,28.507500,28.767500,29.707500,30.487500,30.747500,30.947500,42.727500,43.827500,44.907500,45.527500,45.707500,46.087500,47.107500,47.447500,47.747500,49.187500,49.547500,49.847500,50.647500,52.047500,52.687500,53.827500,54.227500,64.067500;

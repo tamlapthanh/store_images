@@ -1,0 +1,3 @@
+T39k56.mp3/0.000000/2.564563/Now it's your turn (Giờ đến lượt bạn rồi nhé.)|words=0.000000,0.580000,0.860000,0.980000;
+T39k56.mp3/2.564563/42.197875/I don't know what I'm talking about, but I don't know what I'm talking about, but I don't know what I'm talking about (Tôi không biết mình đang nói gì, nhưng tôi không biết mình đang nói gì, nhưng tôi không biết mình đang nói gì.)|words=29.744563,31.144563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563,32.544563;
+T39k56.mp3/42.197875/45.173375/You (Bạn.)|words=42.197875;

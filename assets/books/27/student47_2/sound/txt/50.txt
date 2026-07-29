@@ -1,0 +1,6 @@
+50.mp3/0.000000/0.681000/You (Bạn)|words=0.000000;
+50.mp3/0.681000/3.148687/Page 34 (Trang 34.)|words=0.681000,1.161000;
+50.mp3/3.148687/5.159937/Lesson 3 (Bài học 3)|words=3.148687,3.668687;
+50.mp3/5.159937/7.868625/Activity 3 (Hoạt động 3.)|words=5.159937,5.799937;
+50.mp3/7.868625/11.586375/Let's chant (Hãy cùng hát!)|words=7.868625,8.468625;
+50.mp3/11.586375/62.040813/Where do you go on Saturdays? I go to the cinema. Where does your father go on Saturdays? He goes to the sports centre. What do you do on Sundays? I watch television at home. What does your mother do on Sundays? She goes shopping with my sister (Bạn đi đâu vào thứ Bảy? Tôi đi xem phim. Bố của bạn đi đâu vào thứ Bảy? Ông ấy đến trung tâm thể thao. Bạn làm gì vào Chủ nhật? Tôi xem tivi ở nhà. Mẹ của bạn làm gì vào Chủ nhật? Bà ấy đi mua sắm với chị gái tôi.)|words=12.766375,13.926375,14.366375,14.606375,15.006375,15.586375,17.506375,18.166375,18.606375,19.106375,19.606375,20.266375,22.306375,23.526375,23.986375,24.486375,25.426375,26.046375,27.826375,28.506375,29.026375,29.526375,30.046375,30.466375,33.546375,34.706375,35.246375,35.466375,35.786375,36.366375,37.026375,39.006375,39.506375,40.366375,40.986375,43.966375,45.246375,46.466375,46.926375,47.366375,48.346375,48.986375,50.646375,51.426375,51.966375,52.546375,52.986375,53.246375;

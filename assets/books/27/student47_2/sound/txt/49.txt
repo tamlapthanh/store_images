@@ -1,0 +1,8 @@
+49.mp3/0.000000/2.750625/Page 34 (Trang 34.)|words=0.000000,0.780000;
+49.mp3/2.750625/4.720688/Lesson 3 (Bài học 3.)|words=2.750625,3.310625;
+49.mp3/4.720688/7.253813/Activity 2 (Hoạt động 2.)|words=4.720688,5.400688;
+49.mp3/7.253813/11.293563/Listen and Circle (Nghe và khoanh tròn.)|words=7.253813,7.773813,8.473813;
+49.mp3/11.293563/12.875188/one (một.)|words=11.293563;
+49.mp3/12.875188/19.842000/I go to the shopping centre on Saturdays (Tôi đến trung tâm mua sắm vào thứ Bảy.)|words=12.875188,13.195188,13.595188,14.115188,14.355188,14.795188,15.675188,16.355188;
+49.mp3/19.842000/21.608750/2 (2)|words=19.842000;
+49.mp3/21.608750/28.395125/They watch television on Sundays (Họ xem truyền hình vào Chủ nhật.)|words=21.608750,21.848750,22.368750,23.328750,23.948750;

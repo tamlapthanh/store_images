@@ -1,0 +1,5 @@
+T45k78.mp3/0.000000/1.932438/Dialogue 1 (Đoạn hội thoại 1)|words=0.000000,0.820000;
+T45k78.mp3/1.932438/5.521313/Pretend you're choosing clothes (Giả sử bạn đang chọn quần áo.)|words=1.932438,2.292438,2.532438,2.852438;
+T45k78.mp3/5.521313/10.134375/What do you wanna wear? The shirt (Bạn muốn mặc gì? Cái áo sơ mi.)|words=5.521313,5.621313,5.721313,5.801313,5.981313,7.168687,7.368687;
+T45k78.mp3/11.927062/14.758437/Dialogue too (Đoạn hội thoại khác.)|words=11.927062,12.307062;
+T45k78.mp3/14.758437/20.453375/Which dress do you like? The flower dress (Bạn thích chiếc váy nào? Chiếc váy hoa.)|words=14.758437,14.998437,15.378437,15.678437,15.798437,17.065125,17.165125,17.565125;

@@ -1,0 +1,8 @@
+T26k02.mp3/0.000000/2.841750/Dialogue 1 (Đoạn hội thoại 1.)|words=0.000000,0.860000;
+T26k02.mp3/2.841750/5.732813/What does the pirate captain have (Thuyền trưởng hải tặc có gì?)|words=2.841750,3.021750,3.261750,3.421750,3.821750,4.341750;
+T26k02.mp3/5.732813/8.325125/A treasure map (Một bản đồ kho báu.)|words=5.732813,5.852813,6.232813;
+T26k02.mp3/8.325125/12.202500/You an iPad (Bạn có một chiếc iPad.)|words=8.325125,9.833063,9.993063;
+T26k02.mp3/12.202500/15.633000/You dialogue too (Và bạn cũng tham gia vào đoạn hội thoại này.)|words=12.202500,13.719500,14.139500;
+T26k02.mp3/15.633000/19.166937/Pretend you're one of the pirates (Hãy tưởng tượng bạn là một trong những tên cướp biển.)|words=15.633000,16.093000,16.313000,16.473000,16.573000,16.713000;
+T26k02.mp3/19.166937/24.093813/What can you see, Captain? A volcano (Thuyền trưởng, thuyền trưởng có thể nhìn thấy gì? Một ngọn núi lửa!)|words=19.166937,19.406937,19.606937,19.726937,20.186937,21.206937,21.346937;
+T26k02.mp3/24.093813/28.893375/You an island (Bạn thấy một hòn đảo!)|words=24.093813,25.630562,25.830562;

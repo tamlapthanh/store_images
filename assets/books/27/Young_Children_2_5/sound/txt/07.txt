@@ -1,0 +1,4 @@
+07.mp3/0.000000/2.170937/Track 7 (Bài tập số 7.)|words=0.000000,0.480000;
+07.mp3/2.170937/5.237563/Listen to the dialogue (Hãy nghe đoạn hội thoại.)|words=2.170937,2.470937,2.770937,2.910937;
+07.mp3/5.237563/7.010375/More, please (Cho tôi thêm nữa nhé.)|words=5.237563,5.497563;
+07.mp3/7.010375/11.258812/Here you are (Đây rồi!)|words=7.010375,7.310375,7.530375;

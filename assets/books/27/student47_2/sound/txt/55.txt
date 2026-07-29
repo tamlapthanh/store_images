@@ -1,0 +1,6 @@
+55.mp3/0.000000/2.660438/Page 41 (Trang 41)|words=0.000000,0.720000;
+55.mp3/2.660438/4.549563/Lesson one (Bài học một.)|words=2.660438,3.120438;
+55.mp3/4.549563/7.132375/Activity 6 (Hoạt động 6)|words=4.549563,5.189563;
+55.mp3/7.132375/9.841938/Let's sing (Hãy cùng hát)|words=7.132375,7.712375;
+55.mp3/9.841938/14.643500/What was the weather like yesterday (Thời tiết hôm qua thế nào?)|words=9.841938,10.221938,10.601938,10.801938,11.161938,11.641938;
+55.mp3/14.643500/71.105312/It was sunny, it was sunny, it was a sunny day. Weather, weather, what was the weather like yesterday? It was windy, it was windy, it was a windy day (Hôm đó trời nắng, trời nắng, là một ngày nắng. Thời tiết, thời tiết, thời tiết hôm qua thế nào? Hôm đó trời gió, trời gió, là một ngày có gió.)|words=31.523500,32.763500,34.003500,35.823500,36.223500,36.423500,37.843500,38.343500,38.683500,39.063500,39.523500,44.743500,45.903500,47.643500,48.143500,48.523500,48.763500,49.203500,49.803500,52.343500,53.403500,53.703500,55.423500,55.823500,56.103500,57.763500,57.963500,58.343500,58.603500,59.043500;

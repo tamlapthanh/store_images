@@ -1,0 +1,16 @@
+T41k62.mp3/0.000000/5.615563/Dialogue 1. Pretend you're at the sports day (Đoạn hội thoại 1. Hãy tưởng tượng bạn đang ở ngày hội thể thao.)|words=0.000000,0.880000,1.860000,2.340000,2.600000,2.760000,2.900000,3.140000;
+T41k62.mp3/5.615563/7.894625/Where are my sneakers (Giày của tôi đâu rồi?)|words=5.615563,5.815563,5.975563,6.075563;
+T41k62.mp3/7.894625/10.446625/Over there (Ở đằng kia.)|words=7.894625,8.094625;
+T41k62.mp3/10.446625/11.847500/You (Bạn)|words=10.446625;
+T41k62.mp3/11.847500/13.494938/Dialogue too (Đoạn hội thoại tiếp theo.)|words=11.847500,12.207500;
+T41k62.mp3/13.494938/16.926562/Pretend you're at the sports day (Hãy tưởng tượng bạn đang ở ngày hội thể thao.)|words=13.494938,13.954938,14.234938,14.374938,14.514938,14.754938;
+T41k62.mp3/16.926562/20.194875/How did you do? I came in third (Bạn làm thế nào? Tôi về đích thứ ba.)|words=16.926562,17.086562,17.246562,17.366562,18.086562,18.306562,18.626562,18.806562;
+T41k62.mp3/20.194875/22.683063/Great (Tuyệt vời.)|words=20.194875;
+T41k62.mp3/22.683063/24.272813/You (Bạn)|words=22.683063;
+T41k62.mp3/24.272813/27.213812/Dialogue 3 (Đoạn hội thoại 3)|words=24.272813,24.772813;
+T41k62.mp3/27.213812/28.895375/What's he doing (Anh ấy đang làm gì?)|words=27.213812,27.593812,27.693812;
+T41k62.mp3/28.895375/32.158625/He's kicking a ball (Anh ấy đang đá bóng.)|words=28.895375,29.115375,29.415375,29.675375;
+T41k62.mp3/32.158625/33.668188/You (Bạn)|words=32.158625;
+T41k62.mp3/33.668188/36.575375/Dialogue 4 (Đoạn hội thoại 4.)|words=33.668188,34.208188;
+T41k62.mp3/36.575375/38.257063/What's she doing (Cô ấy đang làm gì?)|words=36.575375,36.935375,37.055375;
+T41k62.mp3/38.257063/42.106687/She's throwing a bean bag (Cô ấy đang ném túi đậu!)|words=38.257063,38.637063,38.957063,39.217063,39.437063;

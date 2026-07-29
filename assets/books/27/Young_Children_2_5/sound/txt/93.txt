@@ -1,0 +1,4 @@
+93.mp3/0.000000/5.822188/Track 93. Listen to the dialogue (Đoạn ghi âm số 93. Hãy nghe đoạn hội thoại.)|words=0.000000,0.360000,2.759562,3.079562,3.379562,3.499562;
+93.mp3/5.822188/10.360500/Simon says, run (Simon nói: chạy!)|words=5.822188,6.322188,7.602188;
+93.mp3/10.360500/12.644125/Simon says (Simon nói)|words=10.360500,10.880500;
+93.mp3/12.644125/16.300438/jump (nhảy)|words=12.644125;

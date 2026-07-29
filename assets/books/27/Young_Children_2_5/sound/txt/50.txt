@@ -1,0 +1,3 @@
+50.mp3/0.000000/2.575563/Track 50 (Bài hát số 50.)|words=0.000000,0.460000;
+50.mp3/2.575563/5.537313/Do the breakfast chant (Hát bài ca buổi sáng.)|words=2.575563,2.735563,2.955563,3.375563;
+50.mp3/5.537313/33.201625/Orange juice, yes please, bread and butter, no thanks, Porridge and milk, yes please, sugar, no thanks, Cheese, yes please, coffee, no thanks (Nước cam, vâng, xin cho tôi một cốc; bánh mì và bơ, không cần đâu; cháo yến mạch và sữa, vâng, xin cho tôi; đường, không cần đâu; phô mai, vâng, xin cho tôi; cà phê, không cần đâu.)|words=10.797313,11.797313,12.557313,13.197313,14.457313,14.677313,14.877313,15.597313,15.797313,16.997313,17.877313,18.097313,18.837313,19.157313,20.357313,21.497313,21.757313,22.997313,24.817313,25.217313,26.357313,27.437313,27.737313;

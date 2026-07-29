@@ -1,0 +1,12 @@
+T31k22.mp3/0.000000/2.097938/Dialogue 1 (Đoạn hội thoại 1.)|words=0.000000,0.860000;
+T31k22.mp3/2.097938/6.077125/Pretend you're one of the bears (Hãy tưởng tượng bạn là một trong những con gấu.)|words=2.097938,2.517938,2.817938,3.017938,3.117938,3.257938;
+T31k22.mp3/6.077125/8.564875/Let's camp near the river (Chúng ta hãy cắm trại gần sông!)|words=6.077125,6.457125,6.677125,6.997125,7.157125;
+T31k22.mp3/8.564875/10.939500/Good idea (Ý tưởng hay!)|words=8.564875,8.724875;
+T31k22.mp3/10.939500/14.350437/You dialogue too (Bạn cũng tham gia hội thoại nhé.)|words=10.939500,12.644063,13.064063;
+T31k22.mp3/14.350437/17.413688/Pretend you're one of the bears (Hãy tưởng tượng bạn là một trong những con gấu.)|words=14.350437,14.830437,15.050437,15.230437,15.330437,15.470437;
+T31k22.mp3/17.413688/19.498812/Where's my sleeping bag (Túi ngủ của tôi ở đâu?)|words=17.413688,17.673688,17.833688,18.173688;
+T31k22.mp3/19.498812/22.372750/It's by the tent (Nó ở gần lều.)|words=19.498812,19.778812,19.978812,20.178812;
+T31k22.mp3/22.372750/25.488500/You Dialogue 3 (Bạn tham gia hội thoại số 3 nhé.)|words=22.372750,23.692750,24.252750;
+T31k22.mp3/25.488500/28.499188/Pretend you're one of the bears (Hãy tưởng tượng bạn là một trong những con gấu.)|words=25.488500,25.908500,26.048500,26.208500,26.308500,26.448500;
+T31k22.mp3/28.499188/30.268812/Let's go swimming (Chúng ta hãy đi bơi!)|words=28.499188,28.819188,28.939188;
+T31k22.mp3/30.268812/33.480000/Okay, great (Được thôi, tuyệt vời!)|words=30.268812,30.808812;

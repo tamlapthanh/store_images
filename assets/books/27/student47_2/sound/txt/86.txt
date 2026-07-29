@@ -1,0 +1,11 @@
+86.mp3/0.000000/2.504563/Page 60 (Trang 60)|words=0.000000,0.640000;
+86.mp3/2.504563/4.444438/Lesson 2 (Bài học 2)|words=2.504563,3.044563;
+86.mp3/4.444438/7.009875/Activity 1 (Hoạt động 1.)|words=4.444438,5.104438;
+86.mp3/7.009875/12.010938/Look, listen and repeat (Nhìn, nghe và lặp lại.)|words=7.009875,7.909875,8.469875,9.289875;
+86.mp3/12.010938/13.844250/Hey (Chào bạn.)|words=12.010938;
+86.mp3/13.844250/18.445937/What are these animals (Đây là những con vật gì?)|words=13.844250,14.244250,14.844250,15.364250;
+86.mp3/18.445937/22.615500/They're peacocks (Chúng là chim công!)|words=18.445937,19.065937;
+86.mp3/22.615500/26.500563/I like them (Tôi thích chúng!)|words=22.615500,22.875500,23.335500;
+86.mp3/26.500563/27.972625/Be (Vì)|words=26.500563;
+86.mp3/27.972625/32.281625/Why do you like peacocks (Bạn thích chim công vì điều gì?)|words=27.972625,28.272625,28.612625,28.872625,29.412625;
+86.mp3/32.281625/38.530625/because they dance beautifully (vì chúng nhảy rất đẹp.)|words=32.281625,32.721625,33.121625,33.841625;

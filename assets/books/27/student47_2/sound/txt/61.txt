@@ -1,0 +1,6 @@
+61.mp3/0.000000/0.668063/You (Bạn)|words=0.000000;
+61.mp3/0.668063/3.074500/page 44 (trang 44.)|words=0.668063,1.108063;
+61.mp3/3.074500/5.024438/Lesson 3 (Bài học 3)|words=3.074500,3.594500;
+61.mp3/5.024438/7.625063/Activity 3 (Hoạt động 3.)|words=5.024438,5.664438;
+61.mp3/7.625063/11.276938/Let's chant (Hãy cùng hát!)|words=7.625063,8.205063;
+61.mp3/11.276938/53.942875/Sunny, sunny, sunny I like sunny days. Cloudy, cloudy, cloudy I don't like cloudy days. Windy, windy, windy I like windy days. Rainy, rainy, rainy I don't like rainy days (Nắng, nắng, nắng. Tôi thích những ngày nắng. Mây, mây, mây. Tôi không thích những ngày nhiều mây. Gió, gió, gió. Tôi thích những ngày có gió. Mưa, mưa, mưa. Tôi không thích những ngày mưa.)|words=11.276938,12.036938,14.076938,16.696938,17.396938,17.876938,18.396938,20.876938,21.996938,23.756938,26.396938,27.096938,27.696938,28.076938,28.556938,30.636938,31.616938,33.416938,36.056938,36.756938,37.256938,37.776938,39.076938,41.136938,43.456938,44.576938,46.436938,47.056938,47.436938,47.976938;

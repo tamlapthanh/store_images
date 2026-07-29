@@ -1,0 +1,5 @@
+55.mp3/0.000000/2.440937/Track 55 (Bài tập số 55)|words=0.000000,0.340000;
+55.mp3/2.440937/5.636375/Listen to the dialogue (Hãy nghe đoạn hội thoại.)|words=2.440937,2.740937,3.000937,3.140937;
+55.mp3/5.636375/8.114688/I want my teddy bear (Tôi muốn con gấu bông của mình.)|words=5.636375,5.816375,6.016375,6.216375,6.536375;
+55.mp3/8.114688/9.564875/here (Ở đây.)|words=8.114688;
+55.mp3/9.564875/13.270188/Good night (Chúc ngủ ngon.)|words=9.564875,9.664875;

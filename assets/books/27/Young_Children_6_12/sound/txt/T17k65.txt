@@ -1,0 +1,3 @@
+T17k65.mp3/0.000000/2.158875/Dialogue (Đối thoại)|words=0.000000;
+T17k65.mp3/2.158875/6.334625/Have you ever fed a horse? Yes, I have (Bạn đã từng cho ngựa ăn chưa? Có, tôi đã từng.)|words=2.158875,2.338875,2.518875,2.738875,3.058875,3.198875,4.218875,4.658875,4.778875;
+T17k65.mp3/6.334625/10.813375/You No, I haven't (Bạn. Không, tôi chưa từng.)|words=6.334625,7.796500,8.136500,8.196500;
