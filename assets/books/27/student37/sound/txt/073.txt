@@ -1,9 +1,4 @@
-073.mp3/1/2.627959/Listening 73 (Nghe 73);
-073.mp3/3/4.582880/Listen. (Nghe.);
-073.mp3/4/5.872585/...and sing. (...và hát.);
-073.mp3/6/7.931723/My New Friend (Người bạn mới của tôi);
-073.mp3/9/12.572925/Thank you! (Cảm ơn!);
-073.mp3/13/15.991633/Thank you! (Cảm ơn!);
-073.mp3/16/33.199478/She has blue eyes She has curly hair She has blue eyes She's tall She's thin It's Alice! (Cô ấy có đôi mắt xanh Cô ấy có mái tóc xoăn Cô ấy có đôi mắt xanh Cô ấy cao Cô ấy gầy Đó là Alice!);
-073.mp3/33/50.342336/He has brown eyes He has short hair He has brown eyes He's tall, he's thin It's Adam! (Anh ấy có đôi mắt nâu Anh ấy có mái tóc ngắn Anh ấy có đôi mắt nâu Anh ấy cao, anh ấy gầy Đó là Adam!);
-073.mp3/50/70.237959/She has brown eyes She has short hair She has brown eyes She's tall She's thin It's Rosie! (Cô ấy có đôi mắt nâu Cô ấy có mái tóc ngắn Cô ấy có đôi mắt nâu Cô ấy cao Cô ấy gầy Đó là Rosie!);
+073.mp3/1.016188/9.953500/listening 73 Listen and sing. My new friend (Nghe bài 73. Nghe và hát. Bạn mới của tôi.)|words=1.016188,1.356188,3.870500,4.310500,5.050500,6.407687,6.667687,7.107687;
+073.mp3/16.580313/33.892938/She has blue eyes. She has curly hair. She has blue eyes. She's tall. She's thin. It's Alice (Cô ấy có đôi mắt xanh. Cô ấy có mái tóc xoăn. Cô ấy có đôi mắt xanh. Cô ấy cao. Cô ấy gầy. Đó là Alice.)|words=16.580313,16.960313,17.840313,18.180313,19.740313,20.360313,20.920313,21.440313,23.380313,23.840313,24.720313,25.100313,26.660313,26.940313,28.360313,28.720313,29.960313,30.560313;
+073.mp3/33.892938/50.867000/He has brown eyes. He has short hair. He has brown eyes. He's tall. He's thin. It's Adam (Anh ấy có đôi mắt nâu. Anh ấy có mái tóc ngắn. Anh ấy có đôi mắt nâu. Anh ấy cao. Anh ấy gầy. Đó là Adam.)|words=33.892938,34.232938,35.052938,35.432938,37.062938,37.652938,38.472938,38.892938,40.772938,41.132938,41.872938,42.292938,43.652938,44.132938,45.552938,45.972938,47.052938,47.632938;
+073.mp3/50.867000/75.128187/She has brown eyes, she has short hair, she has brown eyes, she's tall, she's thin, it's Rosy (Cô ấy có đôi mắt nâu, cô ấy có mái tóc ngắn, cô ấy có đôi mắt nâu, cô ấy cao, cô ấy gầy, đó là Rosy.)|words=50.867000,51.227000,52.147000,52.527000,53.387000,54.647000,55.527000,56.007000,56.747000,58.107000,58.947000,59.387000,60.427000,61.247000,62.587000,63.007000,64.007000,64.767000;

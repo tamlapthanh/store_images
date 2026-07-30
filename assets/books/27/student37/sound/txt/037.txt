@@ -1,6 +1,4 @@
-037.mp3/1/2.587800/Listening 37 (Nghe 37);
-037.mp3/3/5.091293/Listen and sing. (Nghe và hát.);
-037.mp3/5/6.584603/My Family. (Gia Đình của tôi.);
-037.mp3/7/33.154603/My family, my family This is me with my family This is my family Look at my cousin, my aunt, my uncle and me (Gia đình tôi, gia đình tôi Đây là tôi với gia đình tôi Đây là gia đình tôi Hãy nhìn anh họ tôi, dì tôi, chú tôi và tôi);
-037.mp3/33/63.752404/Her dress is green His pants are brown And this is me! My t-shirt is white and blue My family, my family This is me with my family Thank you. (Váy của cô ấy màu xanh lá cây Quần của anh ấy màu nâu Và đây là tôi! Áo phông của tôi màu trắng và xanh Gia đình tôi, gia đình tôi Đây là tôi với gia đình Cảm ơn bạn.);
-037.mp3/64/64.610136/you (Bạn);
+037.mp3/1.016938/3.552437/Listening 37 (Nghe bài 37.)|words=1.016938,1.376938;
+037.mp3/3.552437/7.900000/Listen and sing, my family (Hãy nghe và hát cùng gia đình của tôi nhé.)|words=3.552437,3.892437,4.372437,5.452437,5.812437;
+037.mp3/7.900000/64.595875/My family, my family, this is me with my family, this is my family. Look at my cousin, my aunt, my uncle and me. Her dress is green, his pants are brown, and this is me. My t-shirt is white and blue. My family, my family, this is me with my family. You (Gia đình tôi, gia đình tôi, đây là tôi và gia đình. Đây là gia đình tôi. Hãy nhìn người họ hàng, dì, chú và tôi. Váy của cô ấy màu xanh lá cây, quần của anh ấy màu nâu, và đây là tôi. Áo phông của tôi có màu trắng và xanh lam. Gia đình tôi, gia đình tôi, đây là tôi và gia đình. Bạn)|words=12.340000,13.300000,14.740000,15.260000,16.860000,17.960000,18.360000,18.880000,19.480000,19.760000,21.340000,23.480000,23.900000,24.140000,26.100000,26.840000,27.160000,27.360000,28.400000,28.480000,29.420000,29.580000,30.020000,30.500000,33.360000,34.360000,34.880000,35.100000,35.820000,38.740000,39.180000,39.400000,40.120000,40.520000,40.960000,41.440000,43.040000,43.600000,44.000000,44.340000,44.880000,45.280000,45.880000,47.500000,48.000000,49.800000,50.160000,52.460000,52.860000,53.260000,53.860000,54.400000,54.660000,63.160000;
+037.mp3/64.595875/68.649812/You (Bạn)|words=67.215875;

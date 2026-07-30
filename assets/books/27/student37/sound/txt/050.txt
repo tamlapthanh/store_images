@@ -1,7 +1,5 @@
-050.mp3/1/1.661565/Listening. (Lắng nghe.);
-050.mp3/1/2.483243/50 (50);
-050.mp3/3/4.039501/Listen. (Nghe.);
-050.mp3/4/5.080975/and read. (và đọc.);
-050.mp3/6/17.202449/The zoo! Great! (Sở thú! Tuyệt vời!);
-050.mp3/17/19.739002/I like animals. (Tôi thích động vật.);
-050.mp3/20/62.325374/An elephant, Billy! Oh no! I don't like elephants. They're big! I don't like giraffes. They're tall! Look over there! Look! A monkey! I like monkeys! They're little. And I'm little, too. Yes, they're funny. And you're funny, too. (Một con voi, Billy! Ồ không! Tôi không thích voi. Chúng lớn quá! Tôi không thích hươu cao cổ. Họ cao! Nhìn đằng kia! Nhìn! Một con khỉ! Tôi thích khỉ! Chúng còn nhỏ. Và tôi cũng nhỏ bé. Vâng, họ rất buồn cười. Và bạn cũng hài hước.);
+050.mp3/0.000000/6.189625/You listening, 50 listen and read (Bạn đang nghe đây, 50 (phần) để nghe và đọc nhé.)|words=0.000000,1.060500,1.440500,3.479062,3.879062,4.459062;
+050.mp3/6.189625/17.808688/The zoo! Great (Vườn thú! Tuyệt vời!)|words=13.549625,14.909625,15.989625;
+050.mp3/17.808688/20.319688/I like animals (Tôi thích động vật!)|words=17.808688,18.068688,18.508688;
+050.mp3/20.319688/55.944750/An elephant, Billy. Oh, no. I don't like elephants. They're big. Oh, I don't like giraffes. They're tall. Look over there. Look! A monkey. Monkey, I like monkeys, they're little, and I'm little too (Một con voi, Billy. Ôi không. Tôi không thích voi. Chúng quá lớn. Ôi, tôi không thích hươu cao cổ. Chúng quá cao. Hãy nhìn sang bên kia kìa. Nhìn này! Một con khỉ. Khỉ, tôi thích khỉ, chúng nhỏ bé, và tôi cũng nhỏ bé.)|words=20.319688,20.839688,22.079688,24.319688,25.159688,26.499688,26.839688,27.499688,27.859688,29.519688,30.319688,32.639688,33.539688,34.679688,35.359688,35.639688,37.379688,38.219688,40.419688,41.219688,41.759688,44.059688,46.099688,46.299688,46.799688,47.699688,48.139688,48.719688,50.259688,50.919688,52.219688,52.539688,53.159688,53.639688;
+050.mp3/55.944750/67.056313/Yes, they're funny, and you're funny too (Đúng vậy, chúng rất hài hước, và bạn cũng hài hước nữa!)|words=55.944750,57.244750,57.664750,58.844750,59.444750,59.944750,60.404750;

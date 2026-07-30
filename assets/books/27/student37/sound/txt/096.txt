@@ -1,7 +1,5 @@
-096.mp3/1/2.640567/Listening 96 (Nghe 96);
-096.mp3/3/3.977370/Listen. (Nghe.);
-096.mp3/4/5.160113/and say... (và nói...);
-096.mp3/7/9.083810/what are you doing? (Bạn đang làm gì thế?);
-096.mp3/10/12.601633/I'm dancing with dad. (Tôi đang khiêu vũ với bố.);
-096.mp3/14/15.916054/What's he doing? (Anh ấy đang làm gì vậy?);
-096.mp3/17/19.565941/He's eating the cake. (Anh ấy đang ăn bánh.);
+096.mp3/1.049937/7.341500/Listening 96. Listen and say (Bài tập nghe số 96. Nghe và nói.)|words=1.049937,1.429937,3.429813,3.829813,4.409813;
+096.mp3/7.341500/10.381813/What are you doing (Bạn đang làm gì?)|words=7.341500,7.661500,8.001500,8.261500;
+096.mp3/10.381813/14.208875/I'm dancing with Dad (Tôi đang nhảy cùng bố.)|words=10.381813,10.721813,11.401813,11.821813;
+096.mp3/14.208875/17.261437/What's he doing (Ông ấy đang làm gì vậy?)|words=14.208875,14.808875,15.108875;
+096.mp3/17.261437/22.935500/He's eating the cake (Ông ấy đang ăn bánh!)|words=17.261437,17.901437,18.441437,18.861437;

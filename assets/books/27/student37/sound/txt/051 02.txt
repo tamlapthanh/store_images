@@ -1,11 +1,7 @@
-051 02.mp3/1/2.723016/Listening 51 (Nghe 51);
-051 02.mp3/3/4.240771/Listen. (Nghe.);
-051 02.mp3/4/5.340952/and say... (và nói...);
-051 02.mp3/6/6.991950/This... (Cái này...);
-051 02.mp3/7/8.792041/is a monkey! (là một con khỉ!);
-051 02.mp3/9/11.951497/I like monkeys! (Tôi thích khỉ!);
-051 02.mp3/13/15.633878/This is an elephant. (Đây là một con voi.);
-051 02.mp3/16/17.112857/Hi! (CHÀO!);
-051 02.mp3/17/19.055442/I don't like elephants. (Tôi không thích voi.);
-051 02.mp3/20/22.762993/The elephants are big! (Những con voi thật lớn!);
-051 02.mp3/23/24.783605/I'm little! (Tôi còn nhỏ!);
+051 02.mp3/0.000000/6.393250/You listening. 51 Listen and say (Bạn đang nghe. Nghe và nói: 51.)|words=0.000000,1.210500,1.550500,3.736063,4.116063,4.596063;
+051 02.mp3/6.393250/9.818563/This is a monkey (Đây là một con khỉ.)|words=6.393250,6.893250,7.513250,7.713250;
+051 02.mp3/9.818563/13.379375/I like monkeys (Tôi thích những chú khỉ.)|words=9.818563,10.078563,10.738563;
+051 02.mp3/13.379375/16.794750/This is an elephant (Đây là một con voi.)|words=13.379375,13.919375,14.359375,14.579375;
+051 02.mp3/16.794750/20.511938/I don't like elephants (Tôi không thích voi.)|words=16.794750,17.054750,17.654750,17.974750;
+051 02.mp3/20.511938/23.624063/The elephants are big (Những chú voi rất lớn.)|words=20.511938,20.691938,21.311938,21.931938;
+051 02.mp3/23.624063/27.898813/I'm little (Tôi nhỏ bé.)|words=23.624063,24.084063;

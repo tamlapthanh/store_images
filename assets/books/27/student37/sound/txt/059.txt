@@ -1,4 +1,2 @@
-059.mp3/1/2.580930/Listening 59 (Nghe 59);
-059.mp3/3/3.527143/Listen. (Nghe.);
-059.mp3/3/4.634127/and chat. (và trò chuyện.);
-059.mp3/5/59.795488/rice, rice, rice meat, meat, meat carrots, carrots, carrots Yogurt, yogurt, yogurt Bread, bread, bread (cơm, cơm, cơm thịt, thịt, thịt cà rốt, cà rốt, cà rốt Sữa chua, sữa chua, sữa chua Bánh mì, bánh mì, bánh mì);
+059.mp3/1.011750/5.488750/Listening 59. Listen and chat (Bài tập nghe số 59. Nghe và trò chuyện.)|words=1.011750,1.371750,2.931750,3.291750,3.891750;
+059.mp3/5.488750/64.809813/Rice, rice, rice. Meat, meat, meat. Carrots. Carrots. Carrots. Yogurt. Yogurt. Yogurt bread, bread, bread (Gạo, gạo, gạo. Thịt, thịt, thịt. Cà rốt. Cà rốt. Cà rốt. Sữa chua. Sữa chua. Bánh mì, bánh mì, bánh mì.)|words=9.928750,11.388750,12.808750,19.188750,21.188750,22.548750,29.048750,30.668750,33.368750,38.928750,40.248750,40.868750,47.468750,49.088750,50.308750;

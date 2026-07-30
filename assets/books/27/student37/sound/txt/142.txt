@@ -1,5 +1,2 @@
-142.mp3/0/1.546712/Listening. (Lắng nghe.);
-142.mp3/1/3.178707/142 (142);
-142.mp3/3/4.523764/Listen. (Nghe.);
-142.mp3/4/5.676599/and chant. (và tụng kinh.);
-142.mp3/6/49.687279/table table table computer computer computer chair chair chair Bored Bored Bored (bàn bàn bàn máy tính máy tính máy tính cái ghế cái ghế cái ghế Chán Chán Chán);
+142.mp3/0.000000/6.468750/You listening 142. Listen and chant (Bạn đang nghe bài số 142. Hãy nghe và lặp lại nhé.)|words=0.000000,0.946000,1.306000,3.943000,4.403000,4.963000;
+142.mp3/6.468750/53.133063/Table, table, table Computer, computer, computer Chair, chair, chair Bored. Bored. Bored (Bàn, bàn, bàn. Máy tính, máy tính, máy tính. Ghế, ghế, ghế. Chán nản. Chán nản. Chán nản.)|words=11.188750,12.588750,14.268750,20.528750,21.928750,23.428750,28.948750,31.508750,33.508750,39.548750,40.948750,43.168750;

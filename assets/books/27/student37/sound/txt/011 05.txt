@@ -1,8 +1,7 @@
-011 05.mp3/1/2.541814/Listening, 11 (Nghe, 11);
-011 05.mp3/3/3.932290/Listen. (Nghe.);
-011 05.mp3/4/5.071315/...and do. (...và làm.);
-011 05.mp3/7/8.412358/Sit down please. (Xin mời ngồi xuống.);
-011 05.mp3/10/11.887211/Don't talk, please. (Đừng nói chuyện, làm ơn.);
-011 05.mp3/13/15.207438/Stand up, please. (Hãy đứng lên, làm ơn.);
-011 05.mp3/16/18.644603/Close your book, please. (Xin vui lòng đóng cuốn sách của bạn lại.);
-011 05.mp3/20/22.153787/Open your book, please. (Làm ơn mở sách ra.);
+011 05.mp3/0.000000/3.417312/You listening 11 (Bạn đang nghe bài số 11 nhé?)|words=0.000000,1.048000,1.428000;
+011 05.mp3/3.417312/7.056563/Listen and do (Nghe và làm theo.)|words=3.417312,3.797312,4.377312;
+011 05.mp3/7.056563/10.369438/Sit down, please (Mời ngồi xuống.)|words=7.056563,7.276563,7.796563;
+011 05.mp3/10.369438/13.739688/Don't talk, please (Xin đừng nói chuyện.)|words=10.369438,10.809438,11.269438;
+011 05.mp3/13.739688/16.924312/Stand up, please (Mời đứng lên.)|words=13.739688,14.119688,14.679688;
+011 05.mp3/16.924312/20.529937/Close your book, please (Mời đóng sách lại.)|words=16.924312,17.164312,17.444312,18.024312;
+011 05.mp3/20.529937/25.025313/Open your book, please (Mời mở sách ra.)|words=20.529937,20.849937,21.049937,21.549937;

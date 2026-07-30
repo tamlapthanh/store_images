@@ -1,8 +1,6 @@
-061 02.mp3/0/2.698413/Listening 61 (Nghe 61);
-061 02.mp3/3/4.067937/Listen. (Nghe.);
-061 02.mp3/4/5.218254/and say... (và nói...);
-061 02.mp3/6/8.585737/Do you like yogurt? (Bạn có thích sữa chua không?);
-061 02.mp3/9/11.585510/Yes, I do! (Em đồng ý!);
-061 02.mp3/13/15.265782/Do you like carrots? (Bạn có thích cà rốt không?);
-061 02.mp3/16/17.165465/No. (KHÔNG.);
-061 02.mp3/17/18.484014/I don't. (Tôi không.);
+061 02.mp3/0.992188/3.522188/Listening 61 (Nghe bài 61.)|words=0.992188,1.332188;
+061 02.mp3/3.522188/6.589125/Listen and say (Nghe và nói.)|words=3.522188,3.882188,4.502188;
+061 02.mp3/6.589125/9.953062/Do you like yogurt (Bạn có thích sữa chua không?)|words=6.589125,6.869125,7.269125,7.709125;
+061 02.mp3/9.953062/13.348875/Yes, I do (Có, tôi thích!)|words=9.953062,10.773062,10.913062;
+061 02.mp3/13.348875/16.531562/Do you like carrots (Bạn có thích cà rốt không?)|words=13.348875,13.468875,13.768875,14.168875;
+061 02.mp3/16.531562/21.629375/No, I don't (Không, tôi không thích.)|words=16.531562,17.531562,17.751562;

@@ -1,4 +1,4 @@
-033.mp3/1/2.450045/Listening 33 (Nghe 33);
-033.mp3/3/3.939909/Listen. (Nghe.);
-033.mp3/4/5.001701/and chat. (và trò chuyện.);
-033.mp3/6/51.139819/Mom Dad Sister brother, brother, brother (Mẹ Bố Em trai, em trai, em trai);
+033.mp3/0.000000/1.048000/You (Bạn)|words=0.000000;
+033.mp3/1.048000/3.412375/Listening 33 (Luyện nghe 33.)|words=1.048000,1.388000;
+033.mp3/3.412375/6.269063/Listen and chat (Nghe và trò chuyện.)|words=3.412375,3.772375,4.312375;
+033.mp3/6.269063/56.659625/Mom, mom, mom. Dad, dad, dad. Sister, sister, sister. Brother, brother, brother. You (Mẹ, mẹ, mẹ. Bố, bố, bố. Chị gái, chị gái, chị gái. Anh trai, anh trai, anh trai. Bạn.)|words=10.829063,12.229063,13.589063,20.839063,22.029063,23.289063,29.589063,31.329063,32.549063,33.269063,40.789063,42.149063,55.209063;

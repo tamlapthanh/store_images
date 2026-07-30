@@ -1,5 +1,3 @@
-095.mp3/0/2.617415/Listening 95 (Nghe 95);
-095.mp3/3/3.958458/Listen. (Nghe.);
-095.mp3/4/5.010045/and read. (và đọc.);
-095.mp3/6/14.296009/Thank you! (Cảm ơn!);
-095.mp3/14/45.373447/What are you doing, Dad? I'm watching a video. Look! The band is playing music. And I'm dancing with Dad. What's he doing? He's eating the cake. Everyone is singing and talking. And you're sleeping, Millie. you (Bố đang làm gì vậy? Tôi đang xem một đoạn video. Nhìn! Ban nhạc đang chơi nhạc. Và tôi đang khiêu vũ với bố. Anh ấy đang làm gì vậy? Anh ấy đang ăn bánh. Mọi người đang hát và nói chuyện. Và em đang ngủ, Millie. Bạn);
+095.mp3/0.000000/3.400500/Are you listening 95 (Bạn có đang nghe không?)|words=0.000000,0.967938,1.347938;
+095.mp3/3.400500/6.031125/Listen and read (Nghe và đọc.)|words=3.400500,3.780500,4.340500;
+095.mp3/14.956812/49.632688/What are you doing, Dad? I'm watching a video. Look! The band is playing music. And I'm dancing with Dad. What's he doing? He's eating the cake. Everyone is singing and talking. And you are sleeping, Millie. Thank you (Bố ơi, bố đang làm gì vậy? Con đang xem một video. Nhìn này! Ban nhạc đang chơi nhạc. Và con đang nhảy cùng bố. Bố ấy đang làm gì? Ông ấy đang ăn bánh. Mọi người đều đang hát và nói chuyện. Còn bạn thì đang ngủ, Millie. Cảm ơn.)|words=14.956812,15.336812,15.516812,15.736812,16.536812,17.796812,18.796812,19.296812,19.736812,23.056812,24.216812,24.456812,24.976812,25.296812,25.716812,27.236812,27.876812,28.516812,29.036812,29.336812,30.896812,31.896812,32.116812,33.656812,34.436812,34.916812,35.236812,36.696812,37.616812,38.156812,38.616812,38.996812,40.656812,41.036812,41.316812,41.536812,42.496812,44.956812,44.956812;

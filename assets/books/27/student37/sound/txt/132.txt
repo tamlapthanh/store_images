@@ -1,5 +1,3 @@
-132.mp3/1/1.782132/Listening. (Lắng nghe.);
-132.mp3/2/3.443243/132 (132);
-132.mp3/4/4.972381/Listen. (Nghe.);
-132.mp3/5/6.180635/and chant. (và tụng kinh.);
-132.mp3/7/61.667324/Rug Cabinet Shelf Pillow Pillow Pillow Blanket Blanket Blanket (Thảm Kệ Tủ Gối Gối Chăn Chăn Chăn);
+132.mp3/0.000000/4.482750/You are listening 132 (Bạn đang nghe bài số 132.)|words=0.000000,1.114563,1.534563;
+132.mp3/4.482750/7.384812/Listen and chant (Nghe và đọc theo.)|words=4.482750,4.822750,5.442750;
+132.mp3/7.384812/66.716750/Rug, rug, rug Cabinet, cabinet, cabinet Shelf. Shelf. Shelf. Pillow. Pillow. Pillow. Blanket, Blanket, Blanket (Thảm, thảm, thảm. Tủ, tủ, tủ. Kệ. Kệ. Kệ. Gối. Gối. Gối. Chăn, chăn, chăn.)|words=11.644812,13.304812,14.644812,15.424812,23.244812,24.244812,30.764812,32.444812,35.444812,40.804812,42.124812,44.284812,49.604812,51.204812,52.504812;

@@ -1,5 +1,3 @@
-112.mp3/1/1.672676/Listening. (Lắng nghe.);
-112.mp3/1/3.109592/112. (112.);
-112.mp3/3/3.943991/Listen. (Nghe.);
-112.mp3/4/5.068254/and chat. (và trò chuyện.);
-112.mp3/6/30.615306/I can't fly in the sky I'm a train in the rain I can't fly in the sky I'm a train not a plane (Tôi không thể bay trên bầu trời Tôi là một con tàu trong mưa Tôi không thể bay trên bầu trời Tôi là một con tàu không phải một chiếc máy bay);
+112.mp3/0.000000/1.060125/You (Bạn)|words=0.000000;
+112.mp3/1.060125/6.020563/Listening 112. Listen and chat (Luyện nghe 112. Nghe và trò chuyện.)|words=1.060125,1.460125,3.340125,3.700125,4.340125;
+112.mp3/6.020563/34.769000/I can't fly in the sky. I'm a train in the rain. I can't fly in the sky. I'm a train, not a plane (Tôi không thể bay trên bầu trời. Tôi là một đoàn tàu trong cơn mưa. Tôi không thể bay trên bầu trời. Tôi là một đoàn tàu, không phải máy bay.)|words=9.700563,11.060563,11.720563,12.300563,13.480563,13.860563,14.460563,15.920563,16.280563,17.000563,18.120563,18.640563,19.800563,20.480563,21.240563,21.720563,22.940563,23.320563,24.220563,25.380563,25.720563,26.720563,27.400563,28.040563;

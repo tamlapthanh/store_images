@@ -1,9 +1,5 @@
-027 Alt rubric 02.mp3/0/2.026757/Listening 27 (Nghe 27);
-027 Alt rubric 02.mp3/2/3.246689/Listen. (Nghe.);
-027 Alt rubric 02.mp3/3/4.462993/and sing (và hát);
-027 Alt rubric 02.mp3/4/5.417415/Clean up! (Dọn dẹp!);
-027 Alt rubric 02.mp3/5/6.390522/Clean up! (Dọn dẹp!);
-027 Alt rubric 02.mp3/8/8.863900/you (Bạn);
-027 Alt rubric 02.mp3/9/9.844422/you (Bạn);
-027 Alt rubric 02.mp3/10/11.969161/... (...);
-027 Alt rubric 02.mp3/12/44.970454/Clean up! Clean up! It's time to go home! Is this his pen? Yes, it is! And this is his bag too! Is this her book? No, it isn't! But this is her eraser! Close the window! Open the door! It's time to go home! you (Dọn dẹp! Dọn dẹp! Đã đến lúc phải về nhà! Đây có phải là cây bút của anh ấy không? Vâng, đúng vậy! Và đây cũng là túi của anh ấy! Đây có phải là cuốn sách của cô ấy không? Không, không phải vậy! Nhưng đây là cục tẩy của cô ấy! Đóng cửa sổ lại! Mở cửa! Đã đến lúc phải về nhà! Bạn);
+027 Alt rubric 02.mp3/0.000000/2.599750/Listening 27 (Nghe bài 27.)|words=0.000000,0.720000;
+027 Alt rubric 02.mp3/2.599750/8.479688/Listen and sing clean up, clean up (Nghe và hát: Dọn dẹp đi, dọn dẹp đi.)|words=2.599750,3.039750,3.739750,4.279750,4.979750,5.379750,5.859750;
+027 Alt rubric 02.mp3/8.479688/9.460000/You (Bạn)|words=8.479688;
+027 Alt rubric 02.mp3/9.460000/10.429750/You (Bạn)|words=9.460000;
+027 Alt rubric 02.mp3/12.454187/48.458937/Clean up! Clean up! It's time to go home. Is this his pen? Yes, it is. And this is his bag, too. Is this her book? No, it isn't. But this is her eraser. Close the window. Open the door. It's time to go home (Dọn dẹp! Dọn dẹp! Đến giờ về nhà rồi. Đây có phải bút của cậu ấy không? Đúng vậy. Và đây cũng là túi của cậu ấy. Đây có phải sách của cô ấy không? Không, không phải. Nhưng đây là cục tẩy của cô ấy. Đóng cửa sổ lại. Mở cửa ra. Đến giờ về nhà rồi.)|words=12.454187,12.834187,13.994187,14.814187,15.874187,16.274187,16.914187,17.654187,18.114187,19.714187,20.214187,20.574187,21.014187,22.194187,22.614187,22.854187,23.314187,24.054187,24.454187,24.954187,25.374187,26.074187,27.454187,27.954187,28.254187,28.754187,29.774187,30.394187,30.594187,31.214187,31.814187,32.254187,32.734187,33.234187,35.494187,35.994187,36.554187,37.454187,37.954187,38.454187,38.994187,39.614187,40.174187,40.854187,41.334187;

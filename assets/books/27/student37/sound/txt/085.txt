@@ -1,4 +1,4 @@
-085.mp3/1/2.655556/Listening 85 (Nghe 85);
-085.mp3/4/5.506735/Listen. (Nghe.);
-085.mp3/5/6.582086/and read. (và đọc.);
-085.mp3/7/51.584059/Look! Here's the train! Where are you? We're at the gate. I'm wearing a blue skirt and a red scarf. And Joe? He's wearing jeans and a yellow shirt. Here they are. Hello and welcome. (Nhìn! Đây là tàu! Bạn ở đâu? Chúng tôi đang ở cổng. Tôi đang mặc váy xanh và quàng khăn đỏ. Còn Joe? Anh ấy mặc quần jean và áo sơ mi màu vàng. Họ đây rồi. Xin chào và chào mừng.);
+085.mp3/1.024687/4.990312/listening 85 (luyện nghe 85)|words=1.024687,1.424687;
+085.mp3/4.990312/7.941937/Listen and read (Nghe và đọc.)|words=4.990312,5.370312,5.930312;
+085.mp3/7.941937/26.414687/Look! Here's the train! Where are you (Nhìn kìa! Tàu đến rồi! Bạn đang ở đâu?)|words=16.941937,19.141937,20.001937,20.221937,22.281937,23.241937,23.981937;
+085.mp3/26.414687/56.215500/We're at the gate. I'm wearing a blue skirt and a red scarf. And Joe? He's wearing jeans and a yellow shirt. Here they are. Hello, and welcome (Chúng tôi đang ở cổng. Tôi mặc một chiếc váy màu xanh và một chiếc khăn quàng cổ màu đỏ. Còn Joe thì sao? Cậu ấy mặc quần jean và áo sơ mi màu vàng. Đây rồi. Xin chào và hoan nghênh!)|words=26.414687,26.914687,27.334687,27.714687,28.934687,30.134687,30.594687,31.054687,31.574687,32.214687,32.954687,33.174687,33.654687,35.584687,36.214687,37.954687,38.954687,39.354687,40.054687,41.074687,41.374687,41.714687,43.814687,44.614687,44.954687,45.394687,48.594687,49.114687;

@@ -1,7 +1,5 @@
-086.mp3/1/2.728934/Listening 86 (Nghe 86);
-086.mp3/3/4.014172/Listen. (Nghe.);
-086.mp3/4/5.234580/and say... (và nói...);
-086.mp3/7/9.973265/I'm wearing a blue skirt. (Tôi đang mặc một chiếc váy màu xanh.);
-086.mp3/11/12.892313/he's wearing (anh ấy đang mặc);
-086.mp3/13/14.829116/A yellow shirt. (Một chiếc áo màu vàng.);
-086.mp3/16/19.870839/She's wearing red pants. (Cô ấy đang mặc quần đỏ.);
+086.mp3/1.076625/3.464875/Listening 86 (Nghe bài 86.)|words=1.076625,1.456625;
+086.mp3/3.464875/7.090813/Listen and say (Nghe và nói.)|words=3.464875,3.864875,4.524875;
+086.mp3/7.090813/11.785000/I'm wearing a blue skirt (Tôi đang mặc một chiếc váy màu xanh lam.)|words=7.090813,7.470813,7.910813,8.470813,8.970813;
+086.mp3/11.785000/16.802813/He's wearing a yellow shirt (Anh ấy đang mặc một chiếc áo sơ mi màu vàng.)|words=11.785000,12.245000,12.685000,13.265000,13.765000;
+086.mp3/16.802813/22.857125/She's wearing red pants (Cô ấy đang mặc quần màu đỏ.)|words=16.802813,17.402813,17.842813,18.642813;

@@ -1,4 +1,3 @@
-090.mp3/1/2.438073/Listening 90 (Nghe 90);
-090.mp3/3/3.581134/Listen. (Nghe.);
-090.mp3/4/4.864717/and chat. (và trò chuyện.);
-090.mp3/5/30.361315/Shirley has short hair. Her shoes are red. Her shirt is blue and she's sitting on a chair. Shirley has three sheep. One, two, three. Shirley wants to play with you and with me. (Shirley có mái tóc ngắn. Giày của cô ấy màu đỏ. Áo sơ mi của cô ấy màu xanh và cô ấy đang ngồi trên ghế. Shirley có ba con cừu. Một, hai, ba. Shirley muốn chơi với bạn và với tôi.);
+090.mp3/1.013125/3.059625/Listening 90 (Nghe 90 lần.)|words=1.013125,1.433125;
+090.mp3/3.059625/5.766625/Listen and chant (Nghe và đọc theo.)|words=3.059625,3.459625,4.119625;
+090.mp3/5.766625/34.115938/Surely has short hair. Her shoes are red. Her shirt is blue and she's sitting on a chair. Surely has three sheep. One, two, three. Surely wants to play with you and with me (Chắc chắn là cô ấy có mái tóc ngắn. Đôi giày của cô ấy màu đỏ. Áo của cô ấy màu xanh lam và cô ấy đang ngồi trên ghế. Chắc chắn là cô ấy có ba con cừu. Một, hai, ba. Chắc chắn là cô ấy muốn chơi với bạn và với tôi.)|words=9.806625,10.706625,11.166625,11.486625,12.506625,12.646625,13.126625,13.666625,14.866625,15.006625,15.446625,16.086625,16.586625,17.166625,17.486625,17.846625,18.386625,18.546625,19.646625,20.146625,20.606625,20.886625,22.166625,22.666625,23.246625,24.346625,24.846625,25.246625,25.526625,26.006625,26.746625,27.166625,27.706625,27.966625;

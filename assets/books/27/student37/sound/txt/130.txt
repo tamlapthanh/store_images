@@ -1,7 +1,5 @@
-130.mp3/0/2.825714/Listening, 130 (Nghe, 130);
-130.mp3/3/3.986712/Listen. (Nghe.);
-130.mp3/4/5.601655/and say the number. (và nói số đó.);
-130.mp3/7/8.227937/May I visit? (Tôi có thể ghé thăm được không?);
-130.mp3/8/9.636100/The Gift Shop! (Cửa hàng quà tặng!);
-130.mp3/10/13.785692/May I listen to an audio guide? (Tôi có thể nghe hướng dẫn âm thanh được không?);
-130.mp3/15/18.096395/May I draw a picture? (Tôi có thể vẽ một bức tranh được không?);
+130.mp3/0.934937/3.496375/listening 130 (luyện nghe bài 130.)|words=0.934937,1.314937;
+130.mp3/3.496375/7.053125/Listen and say the number (Nghe và nói số.)|words=3.496375,3.836375,4.436375,4.836375,5.056375;
+130.mp3/7.053125/10.904750/May I visit the gift shop (Tôi có thể ghé thăm cửa hàng quà lưu niệm không?)|words=7.053125,7.333125,7.633125,8.113125,8.533125,8.913125;
+130.mp3/10.904750/15.566313/May I listen to an audio guide (Tôi có thể nghe hướng dẫn bằng âm thanh không?)|words=10.904750,11.124750,11.464750,11.964750,12.324750,12.524750,13.104750;
+130.mp3/15.566313/21.211437/May I draw a picture (Tôi có thể vẽ một bức tranh không?)|words=15.566313,15.826313,16.226313,16.746313,17.126313;

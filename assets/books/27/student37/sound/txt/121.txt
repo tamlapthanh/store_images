@@ -1,5 +1,3 @@
-121.mp3/0/1.549229/Listening. (Lắng nghe.);
-121.mp3/1/3.159796/121. (121.);
-121.mp3/4/4.528435/Listen. (Nghe.);
-121.mp3/4/5.648027/and chat. (và trò chuyện.);
-121.mp3/6/50.154286/Listen to an audio guide. Take a photo. Draw a picture. Visit the gift shop Visit the gift shop Visit the gift shop (Nghe hướng dẫn âm thanh. Chụp ảnh. Vẽ một bức tranh. Tham quan cửa hàng quà tặng Tham quan cửa hàng quà tặng Tham quan cửa hàng quà tặng);
+121.mp3/0.000000/4.004250/You listening. 121 (Bạn đang nghe đây. 121.)|words=0.000000,0.975688,1.675688;
+121.mp3/4.004250/6.735625/Listen and chat (Nghe và trò chuyện.)|words=4.004250,4.364250,4.924250;
+121.mp3/6.735625/53.263688/Listen to an audio guide, listen to an audio guide, listen to an audio guide. Take a photo, take a photo, take a photo. Draw a picture, draw a picture, draw a picture. Visit the gift shop, visit the gift shop, visit the gift shop (Nghe hướng dẫn bằng âm thanh, nghe hướng dẫn bằng âm thanh, nghe hướng dẫn bằng âm thanh. Chụp ảnh, chụp ảnh, chụp ảnh. Vẽ một bức tranh, vẽ một bức tranh, vẽ một bức tranh. Ghé thăm cửa hàng quà lưu niệm, ghé thăm cửa hàng quà lưu niệm, ghé thăm cửa hàng quà lưu niệm.)|words=10.795625,11.755625,12.215625,12.555625,12.955625,13.595625,14.055625,14.515625,14.855625,15.315625,15.915625,16.395625,16.875625,17.215625,17.635625,20.695625,21.175625,21.655625,22.835625,23.455625,24.055625,25.195625,25.795625,26.415625,29.555625,30.555625,31.075625,31.875625,32.835625,33.415625,34.315625,35.255625,35.775625,38.995625,39.995625,40.495625,40.955625,41.875625,42.295625,42.835625,43.315625,44.075625,44.655625,45.155625,45.615625;

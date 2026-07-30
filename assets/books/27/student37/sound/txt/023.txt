@@ -1,4 +1,3 @@
-023.mp3/1/2.731202/Listening 23 (Nghe 23);
-023.mp3/3/3.965692/Listen. (Nghe.);
-023.mp3/4/5.079796/and chant. (và tụng kinh.);
-023.mp3/6/58.956077/pen eraser pencil pencil case pencil case pencil case book book book (bút tẩy bút chì bút chì trường hợp bút chì trường hợp bút chì trường hợp cuốn sách cuốn sách cuốn sách);
+023.mp3/0.000000/3.432813/You listening 23 (Bạn đang nghe bài số 23 nhé.)|words=0.000000,1.157000,1.537000;
+023.mp3/3.432813/6.382562/Listen and chant (Nghe và lặp lại.)|words=3.432813,3.792813,4.372813;
+023.mp3/6.382562/62.380437/pencil case, pencil case, pencil case, book, book, book (hộp bút chì, hộp bút chì, hộp bút chì, sách, sách, sách)|words=38.302562,39.702562,40.422562,42.022562,42.962562,44.322562,45.002562,49.722562,52.202562;

@@ -1,10 +1,5 @@
-071 02.mp3/1/2.788753/Listening 71 (Nghe 71);
-071 02.mp3/3/4.083401/Listen. (Nghe.);
-071 02.mp3/4/5.275850/and say... (và nói...);
-071 02.mp3/6/7.590340/I have (tôi có);
-071 02.mp3/7/9.216712/Brown Eyes (Mắt Nâu);
-071 02.mp3/11/13.706236/I don't have long hair. (Tôi không có tóc dài.);
-071 02.mp3/15/16.208957/he (Anh ta);
-071 02.mp3/16/17.775374/has short hair. (có mái tóc ngắn.);
-071 02.mp3/19/20.469864/she has (cô ấy có);
-071 02.mp3/20/22.136168/Blue Eyes (Mắt xanh);
+071 02.mp3/0.000000/6.776063/You listening 71. Listen and say (Bạn đang nghe bài số 71. Nghe và nói theo.)|words=0.000000,1.148625,1.488625,3.529187,3.929187,4.569187;
+071 02.mp3/6.776063/11.239813/I have brown eyes (Tôi có đôi mắt màu nâu.)|words=6.776063,7.056063,7.496063,8.176063;
+071 02.mp3/11.239813/15.788375/I don't have long hair (Tôi không có mái tóc dài.)|words=11.239813,11.499813,12.239813,12.459813,12.939813;
+071 02.mp3/15.788375/19.389750/He has short hair (Anh ấy có mái tóc ngắn.)|words=15.788375,16.068375,16.688375,17.168375;
+071 02.mp3/19.389750/25.208188/She has blue eyes (Cô ấy có đôi mắt màu xanh lam.)|words=19.389750,19.809750,20.389750,20.969750;

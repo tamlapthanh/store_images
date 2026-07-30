@@ -1,4 +1,3 @@
-128.mp3/1/3.209456/Listening, 128 (Nghe, 128);
-128.mp3/4/4.900748/Listen. (Nghe.);
-128.mp3/5/5.958866/and chant. (và tụng kinh.);
-128.mp3/7/50.160295/Here's a goat. It's on a boat. A funny goat on a boat. Here's a boy. He has a toy. A happy boy with his toy. (Đây là một con dê. Nó ở trên một chiếc thuyền. Một con dê vui nhộn trên thuyền. Đây là một cậu bé. Anh ấy có một món đồ chơi. Một cậu bé vui vẻ với món đồ chơi của mình.);
+128.mp3/0.000000/4.362375/You listening 128 (Bạn có nghe thấy không 128?)|words=0.000000,1.100437,1.480437;
+128.mp3/4.362375/7.095125/Listen and chant (Nghe và lặp lại.)|words=4.362375,4.762375,5.322375;
+128.mp3/7.095125/51.826937/Here's a goat. It's on a boat. A funny goat on a boat. Here's a boy. Toy. He has a toy. A happy boy with his toy (Đây là một con dê. Nó ở trên thuyền. Một con dê hài hước trên thuyền. Đây là một cậu bé. Đồ chơi. Cậu ấy có một món đồ chơi. Một cậu bé hạnh phúc với món đồ chơi của mình.)|words=10.935125,12.315125,12.735125,15.235125,16.435125,16.855125,17.375125,20.495125,21.075125,21.775125,22.695125,23.895125,24.475125,29.775125,31.155125,31.615125,32.095125,33.915125,35.195125,35.775125,36.275125,39.595125,39.855125,40.595125,41.555125,42.535125,43.195125;

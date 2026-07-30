@@ -1,8 +1,5 @@
-035 02.mp3/0/2.910998/Listening 35 (Nghe 35);
-035 02.mp3/3/4.337120/Listen. (Nghe.);
-035 02.mp3/4/5.780839/And say... (Và nói...);
-035 02.mp3/7/10.555896/The ice cream is on its face. (Kem ở trên mặt nó.);
-035 02.mp3/13/14.337075/Their Bags (Túi của họ);
-035 02.mp3/14/16.400204/are under the slide. (đang ở dưới cầu trượt.);
-035 02.mp3/18/19.798503/are toys (là đồ chơi);
-035 02.mp3/20/21.986009/are in the kitchen. (đang ở trong bếp.);
+035 02.mp3/0.847688/3.623625/Listening 35 (Nghe bài 35.)|words=0.847688,1.347688;
+035 02.mp3/3.623625/7.524125/Listen and say (Nghe và nói.)|words=3.623625,4.123625,4.903625;
+035 02.mp3/7.524125/13.189875/The ice cream is on its face (Kem dính trên mặt của nó.)|words=7.524125,7.704125,7.984125,8.384125,9.004125,9.484125,9.864125;
+035 02.mp3/13.189875/18.696438/Their bags are under the slide (Túi của họ ở dưới cầu trượt.)|words=13.189875,13.449875,14.089875,14.829875,15.309875,15.689875;
+035 02.mp3/18.696438/25.182063/Our toys are in the kitchen (Đồ chơi của chúng ta ở trong bếp.)|words=18.696438,18.876438,19.256438,20.396438,20.956438,21.336438;

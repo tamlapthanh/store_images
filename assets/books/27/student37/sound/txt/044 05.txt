@@ -1,8 +1,8 @@
-044 05.mp3/0/2.440249/Listening 44 (Nghe 44);
-044 05.mp3/3/3.763311/Listen. (Nghe.);
-044 05.mp3/4/5.287075/Read... (Đọc...);
-044 05.mp3/5/6.464671/and say... (và nói...);
-044 05.mp3/7/8.020884/1. (1.);
-044 05.mp3/8/15.696281/Dad! Dad! Dad! And this is Mrs. Smith. And this is my dad. (Bố! Bố! Bố! Và đây là bà Smith. Và đây là bố tôi.);
-044 05.mp3/16/17.328753/Two. (Hai.);
-044 05.mp3/18/22.195442/Nice to meet you. Nice to meet you too. (Rất vui được gặp bạn. Rất vui được gặp bạn.);
+044 05.mp3/0.000000/0.947188/You (Bạn)|words=0.000000;
+044 05.mp3/0.947188/3.195000/Listening 44 (Nghe bài 44.)|words=0.947188,1.327188;
+044 05.mp3/3.195000/4.741750/Listen (Nghe đi.)|words=3.195000;
+044 05.mp3/4.741750/7.550562/Read and say (Đọc và nói.)|words=4.741750,5.201750,5.761750;
+044 05.mp3/7.550562/8.889188/One (Một.)|words=7.550562;
+044 05.mp3/8.889188/16.799312/Dad! Dad! Dad! This is Mrs. Smith, and this is my dad (Bố ơi! Bố ơi! Bố ơi! Đây là bà Smith, và đây là bố của con.)|words=8.889188,10.129188,11.609188,12.629188,12.909188,13.109188,13.469188,14.209188,14.389188,14.629188,14.749188,14.909188;
+044 05.mp3/16.799312/18.012500/Too (Cũng vậy.)|words=16.799312;
+044 05.mp3/18.012500/25.312687/Nice to meet you. Nice to meet you too (Rất vui được gặp bạn. Rất vui được gặp bạn cũng vậy.)|words=18.012500,18.532500,18.732500,18.872500,19.092500,20.152500,20.352500,20.472500,20.632500;

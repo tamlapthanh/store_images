@@ -1,5 +1,4 @@
-007.mp3/1/2.290136/Listening Seven. (Nghe Bảy.);
-007.mp3/3/3.687075/Listen. (Nghe.);
-007.mp3/3/5.010431/...and sing. (...và hát.);
-007.mp3/5/7.297007/Alphabet Song (Bài hát bảng chữ cái);
-007.mp3/9/66.192041/A, B, C, D, E, F G, H, I, J, K, L This is the alphabet Lots more letters to know P, Q, R, S, T, U, B, W, X This is the alphabet Two more letters to go Y, Z, that's the end Now we can start again (A, B, C, D, E, F G, H, I, J, K, L Đây là bảng chữ cái Rất nhiều chữ cái cần biết P, Q, R, S, T, U, B, W, X Đây là bảng chữ cái Còn hai chữ cái nữa là Y, Z, thế là kết thúc Bây giờ chúng ta có thể bắt đầu lại);
+007.mp3/1.017187/3.020250/Listening seven (Nghe đoạn bảy.)|words=1.017187,1.457187;
+007.mp3/3.020250/5.906000/Listen and sing (Nghe và hát.)|words=3.020250,3.500250,4.200250;
+007.mp3/5.906000/9.119125/Alphabet song (Bài hát bảng chữ cái)|words=5.906000,6.406000;
+007.mp3/9.119125/69.773062/A, B, C, D, E, F, G, H, I, J, K, L. This is the alphabet, lots more letters to know. M-N-O-P-Q-R-S-T-U-V-W-X. This is the alphabet. Two more letters to go: Y-Z. That's the end. Now we can start again (A, B, C, D, E, F, G, H, I, J, K, L. Đây là bảng chữ cái, còn rất nhiều chữ khác để học. M-N-O-P-Q-R-S-T-U-V-W-X. Đây là bảng chữ cái. Còn hai chữ nữa: Y-Z. Vậy là hết. Bây giờ chúng ta có thể bắt đầu lại.)|words=17.139125,18.259125,18.679125,19.179125,20.459125,20.939125,21.899125,22.539125,22.919125,23.919125,24.719125,24.979125,25.619125,26.639125,26.999125,27.319125,28.939125,30.819125,31.319125,31.959125,32.499125,35.999125,37.359125,37.799125,38.399125,39.179125,39.859125,40.599125,41.599125,41.999125,42.719125,43.479125,44.179125,44.819125,45.879125,46.239125,46.539125,49.379125,50.059125,50.639125,51.199125,51.759125,52.419125,56.559125,58.079125,58.819125,59.199125,59.859125,60.779125,61.219125,61.479125,61.899125;

@@ -1,8 +1,7 @@
-107.mp3/0/2.884807/Listening, 107 (Nghe, 107);
-107.mp3/3/4.394399/Listen. (Nghe.);
-107.mp3/4/5.532812/...and say... (...và nói...);
-107.mp3/6/8.201814/I can run! (Tôi có thể chạy!);
-107.mp3/9/11.268005/I can't catch. (Tôi không thể bắt được.);
-107.mp3/12/14.961723/She can play soccer. (Cô ấy có thể chơi bóng đá.);
-107.mp3/16/18.487347/He can't ride a bike. (Anh ấy không thể đi xe đạp.);
-107.mp3/20/21.611814/It can fly! (Nó có thể bay!);
+107.mp3/0.934625/3.841875/Listening 107 (Nghe bài 107.)|words=0.934625,1.334625;
+107.mp3/3.841875/6.666062/Listen and say (Nghe và nói.)|words=3.841875,4.261875,4.861875;
+107.mp3/6.666062/9.561000/I can run (Tôi có thể chạy!)|words=6.666062,6.986062,7.426062;
+107.mp3/9.561000/12.947875/I can't catch (Tôi không thể bắt được.)|words=9.561000,9.821000,10.481000;
+107.mp3/12.947875/16.489875/She can play soccer (Cô ấy có thể chơi bóng đá.)|words=12.947875,13.287875,13.687875,14.127875;
+107.mp3/16.489875/20.290625/He can't ride a bike (Anh ấy không thể đi xe đạp.)|words=16.489875,16.709875,17.349875,17.709875,17.949875;
+107.mp3/20.290625/24.738000/It can fly (Nó có thể bay!)|words=20.290625,20.470625,20.710625;

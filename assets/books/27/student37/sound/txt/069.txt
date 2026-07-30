@@ -1,4 +1,2 @@
-069.mp3/1/2.667732/Listening 69 (Nghe 69);
-069.mp3/3/3.907370/Listen. (Nghe.);
-069.mp3/4/5.231995/and chant. (và tụng kinh.);
-069.mp3/6/60.940136/long, long, long short, short, short Curly, curly, curly Straight, straight, straight (dài, dài, dài ngắn, ngắn, ngắn Quăn, xoăn, xoăn Thẳng, thẳng, thẳng);
+069.mp3/1.021313/6.581875/Listening 69. Listen and chant (Nghe bài 69. Nghe và đọc theo nhịp điệu (chant).)|words=1.021313,1.381313,3.466625,4.410938,4.590938;
+069.mp3/6.581875/65.802437/Long, long, long. Short, short, short. Black, black, black. Curly, curly, curly. Straight, straight, straight. Great. Music (Dài, dài, dài. Ngắn, ngắn, ngắn. Đen, đen, đen. Xoăn, xoăn, xoăn. Thẳng, thẳng, thẳng. Tuyệt vời. Âm nhạc.)|words=10.981875,12.541875,13.921875,20.301875,22.321875,23.581875,29.741875,31.321875,32.821875,39.421875,41.281875,42.481875,48.561875,50.501875,51.701875,52.221875,54.601875,64.301875;

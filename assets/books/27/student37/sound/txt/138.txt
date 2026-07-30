@@ -1,4 +1,3 @@
-138.mp3/0/2.954853/Listening, 138 (Nghe, 138);
-138.mp3/3/4.047982/Listen. (Nghe.);
-138.mp3/4/5.116531/and chat. (và trò chuyện.);
-138.mp3/6/30.412993/don't be scared of mr. square he has four ears and lots of hair he is really very rare we can hear you mr. square (đừng sợ ông. anh ấy hình vuông, có bốn tai và rất nhiều tóc, anh ấy thực sự rất hiếm khi chúng tôi có thể nghe thấy tiếng của bạn, thưa ông. quảng trường);
+138.mp3/0.977688/3.505813/listening 138 (luyện nghe 138)|words=0.977688,1.377688;
+138.mp3/3.505813/6.073062/Listen and chat (Nghe và trò chuyện.)|words=3.505813,3.845813,4.405813;
+138.mp3/6.073062/34.011437/Don't be scared of Mr. Square. He has four ears and lots of hair. He is really very rare. We can hear you, Mr. Square (Đừng sợ ông Hình vuông. Ông ấy có bốn cái tai và rất nhiều tóc. Ông ấy thực sự rất đặc biệt. Chúng tôi nghe thấy bạn rồi, ông Hình vuông!)|words=10.053062,11.293062,11.613062,12.513062,13.073062,14.313062,15.093062,15.353062,15.793062,16.373062,17.133062,17.753062,18.333062,18.853062,19.973062,20.473062,21.273062,22.053062,23.193062,24.013062,25.073062,25.793062,26.453062,27.213062,28.433062;

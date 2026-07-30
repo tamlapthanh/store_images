@@ -1,4 +1,3 @@
-013.mp3/0/2.552971/Listening, 13 (Nghe, 13);
-013.mp3/3/4.014490/Listen. (Nghe.);
-013.mp3/4/5.068095/Enchant. (Bùa mê.);
-013.mp3/6/50.401769/doll, doll, doll ball, ball, ball teddy bear, teddy bear, teddy bear car car car (búp bê, búp bê, búp bê bóng, quả bóng, quả bóng gấu bông, gấu bông, gấu bông ô tô ô tô ô tô);
+013.mp3/0.936500/3.484437/listening 13 (luyện nghe 13)|words=0.936500,1.316500;
+013.mp3/3.484437/6.292250/Listen and chant (Nghe và đọc theo.)|words=3.484437,3.844437,4.384437;
+013.mp3/6.292250/56.241625/Doll, doll, doll. Ball, ball, ball. Teddy bear, teddy bear, teddy bear. Car, car, car. You (Búp bê, búp bê, búp bê. Bóng, bóng, bóng. Gấu bông, gấu bông, gấu bông. Ô tô, ô tô, ô tô. Bạn)|words=10.692250,12.472250,13.612250,20.112250,22.052250,23.192250,29.572250,30.692250,31.352250,31.872250,32.532250,33.072250,35.572250,40.772250,42.032250,54.812250;
