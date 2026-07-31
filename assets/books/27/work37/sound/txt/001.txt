@@ -1,7 +1,7 @@
-001.mp3/0/16.609660/Tiếng Anh Ba Family and Friends National Edition Workbook by Trắng Cao Bội Ngọc and Trương Văn Anh Copyright Oxford University Press 2022 (Tiếng Anh Anh Ba Family and Friends Workbook bản quốc gia của trắng Cao Bội Ngọc và Trương Văn Anh Bản quyền Nhà xuất bản Đại học Oxford 2022);
-001.mp3/18/19.669206/Listening, one. (Nghe này, một.);
-001.mp3/20/21.990907/Listen and color. (Hãy lắng nghe và tô màu.);
-001.mp3/23/25.279456/The ball is green. (Quả bóng có màu xanh lá cây.);
-001.mp3/26/28.583129/The teddy bear is orange. (Con gấu bông có màu cam.);
-001.mp3/29/31.892494/The car is red. (Chiếc xe có màu đỏ.);
-001.mp3/32/34.805306/The doll is yellow. (Con búp bê có màu vàng.);
+001.mp3/0.000000/18.319188/Family and Friends, National Edition Workbook by Chiang Ka Boy and Jun Van Anh. Copyright Oxford University Press 2022 (Sách bài tập Family and Friends, phiên bản Quốc gia của Chiang Ka Boy và Jun Van Anh. Bản quyền thuộc Oxford University Press năm 2022.)|words=2.900000,3.980000,4.440000,5.260000,5.820000,6.260000,7.020000,7.660000,8.980000,9.300000,9.580000,10.360000,11.120000,11.520000,12.180000,12.820000,13.340000,13.820000,14.440000;
+001.mp3/18.319188/20.286875/Listening One (Bài nghe số một)|words=18.319188,18.719188;
+001.mp3/20.286875/23.274062/Listen and color (Nghe và tô màu.)|words=20.286875,20.646875,21.286875;
+001.mp3/23.274062/26.155938/The ball is green (Quả bóng có màu xanh lá cây.)|words=23.274062,23.454062,23.894062,24.454062;
+001.mp3/26.155938/29.921375/The teddy bear is orange (Chú gấu bông có màu cam.)|words=26.155938,26.335938,26.675938,27.135938,27.635938;
+001.mp3/29.921375/32.968625/The car is red (Chiếc ô tô có màu đỏ.)|words=29.921375,30.081375,30.601375,31.161375;
+001.mp3/32.968625/38.295500/The doll is yellow (Con búp bê có màu vàng.)|words=32.968625,33.148625,33.588625,34.148625;

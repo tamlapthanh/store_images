@@ -1,6 +1,6 @@
-007.mp3/1/2.235034/Listening 7. (Nghe 7.);
-007.mp3/3/4.813878/Listen and match. (Hãy lắng nghe và kết hợp.);
-007.mp3/6/8.385624/Terry is a cat. (Terry là một con mèo.);
-007.mp3/10/12.554512/Eric is a dog. (Eric là một con chó.);
-007.mp3/14/16.666757/Penny is a bird. (Penny là một con chim.);
-007.mp3/18/21.429841/Susie is a fish. (Susie là một con cá.);
+007.mp3/1.068500/3.151375/Listening seven (Nghe đoạn bảy.)|words=1.068500,1.428500;
+007.mp3/3.151375/6.145062/Listen and match (Nghe và nối.)|words=3.151375,3.491375,4.111375;
+007.mp3/6.145062/10.280250/Terry is a cat (Terry là một con mèo.)|words=6.145062,6.605062,7.365062,7.665062;
+007.mp3/10.280250/14.388312/Eric is a dog (Eric là một con chó.)|words=10.280250,10.700250,11.500250,11.800250;
+007.mp3/14.388312/18.792625/Penny is a bird (Penny là một con chim.)|words=14.388312,14.748312,15.648312,15.908312;
+007.mp3/18.792625/24.476750/Susie is a fish (Susie là một con cá.)|words=18.792625,19.592625,20.312625,20.652625;

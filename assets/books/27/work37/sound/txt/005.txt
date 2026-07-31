@@ -1,8 +1,7 @@
-005.mp3/1/2.565646/Listening 5. (Nghe 5.);
-005.mp3/3/4.942086/Listen and color. (Hãy lắng nghe và tô màu.);
-005.mp3/6/8.539796/Rosie's hat is red. (Mũ của Rosie màu đỏ.);
-005.mp3/9/11.902018/Tim's hat is green. (Mũ của Tim màu xanh lá cây.);
-005.mp3/12/16.259932/Rosie's kite is red and orange. (Diều của Rosie có màu đỏ và cam.);
-005.mp3/17/20.166871/Tim's kite is green and purple. (Diều của Tim có màu xanh và tím.);
-005.mp3/21/23.907460/Rosie's ice cream is brown. (Kem của Rosie có màu nâu.);
-005.mp3/24/27.282585/Tim's ice cream is pink. (Kem của Tim có màu hồng.);
+005.mp3/0.000000/6.317375/You listening. Five, listen and color (Bạn đang lắng nghe. Năm, hãy lắng nghe và tô màu nhé.)|words=0.000000,1.177000,1.597000,3.277250,3.677250,4.277250;
+005.mp3/6.317375/9.574438/Rosie's hat is red (Mũ của Rosie có màu đỏ.)|words=6.317375,7.037375,7.317375,7.917375;
+005.mp3/9.574438/12.796750/Tim's hat is green (Mũ của Tim có màu xanh lá cây.)|words=9.574438,10.094438,10.414438,11.054438;
+005.mp3/12.796750/17.058750/Rosie's kite is red and orange (Diều của Rosie có màu đỏ và cam.)|words=12.796750,13.476750,13.856750,14.476750,14.936750,15.396750;
+005.mp3/17.058750/21.130813/Tim's kite is green and purple (Diều của Tim có màu xanh lá cây và tím.)|words=17.058750,17.538750,17.938750,18.538750,19.078750,19.558750;
+005.mp3/21.130813/24.838750/Rosie's ice cream is brown (Kem của Rosie có màu nâu.)|words=21.130813,21.830813,22.130813,22.650813,23.150813;
+005.mp3/24.838750/30.537125/Tim's ice cream is pink (Kem của Tim có màu hồng.)|words=24.838750,25.318750,25.638750,26.118750,26.658750;

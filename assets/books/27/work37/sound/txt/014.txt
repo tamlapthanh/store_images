@@ -1,3 +1,3 @@
-014.mp3/0/2.536553/Listening 14. (Nghe 14.);
-014.mp3/3/4.948367/Listen and write. (Nghe và viết.);
-014.mp3/5/48.772472/A train and a truck. A crab and a drum. I draw with my crayons. I have fun. A girl in a dress. A bird in a tree. Your crayons are with me. (Một chiếc xe lửa và một chiếc xe tải. Một con cua và một cái trống. Tôi vẽ bằng bút chì màu của tôi. Tôi có niềm vui. Một cô gái mặc váy. Một con chim trên cây. Bút chì màu của bạn ở bên tôi.);
+014.mp3/0.989938/3.310062/Listening 14 (Nghe bài 14.)|words=0.989938,1.369938;
+014.mp3/3.310062/5.774438/Listen and write (Nghe và viết.)|words=3.310062,3.690062,4.330062;
+014.mp3/5.774438/52.924062/A train and a truck, a crab and a drum, I draw with my crayons and I have fun, a girl in a dress, a bird in a tree, get your crayons, and draw with me (Một chiếc tàu hỏa và một chiếc xe tải, một con cua và một cái trống, tôi vẽ bằng bút chì màu và tôi vui vẻ, một cô gái mặc váy, một con chim trên cây, hãy lấy bút chì màu của bạn và vẽ cùng tôi.)|words=9.094438,10.234438,10.634438,11.294438,11.454438,12.614438,15.074438,15.454438,16.074438,16.194438,17.694438,19.654438,20.074438,20.534438,20.814438,21.574438,24.454438,24.974438,25.454438,27.274438,29.134438,29.614438,30.034438,30.254438,31.554438,33.834438,34.314438,34.854438,35.054438,36.794438,38.954438,39.574438,41.474438,43.234438,43.674438,44.234438;

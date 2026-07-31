@@ -1,8 +1,8 @@
-004.mp3/1/2.260680/Listening for. (Đang lắng nghe.);
-004.mp3/3/4.627687/Listen and color. (Hãy lắng nghe và tô màu.);
-004.mp3/5/8.421474/That is her pencil case. (Đó là hộp bút chì của cô ấy.);
-004.mp3/9/10.327755/It's green. (Nó màu xanh lá cây.);
-004.mp3/12/14.331882/That is her pen. (Đó là cây bút của cô ấy.);
-004.mp3/15/16.196825/It's pink. (Nó màu hồng.);
-004.mp3/18/20.242086/That is her eraser. (Đó là cục tẩy của cô ấy.);
-004.mp3/21/23.235102/It's white and blue. (Nó có màu trắng và xanh.);
+004.mp3/1.042812/3.000062/listening for (đang lắng nghe}, {)|words=1.042812,1.442812;
+004.mp3/3.000062/5.883875/Listen and color (Nghe và tô màu.}{)|words=3.000062,3.360062,3.920062;
+004.mp3/5.883875/9.138625/That is her pencil case (Đó là hộp bút của cô ấy.}{)|words=5.883875,6.203875,6.703875,7.023875,7.623875;
+004.mp3/9.138625/12.311438/It's green (Nó màu xanh lá cây!}, {)|words=9.138625,9.538625;
+004.mp3/12.311438/15.157312/That is her pen (Đó là chiếc bút của cô ấy.}{)|words=12.311438,12.651438,13.131438,13.491438;
+004.mp3/15.157312/18.114625/It's pink (Nó màu hồng!}, {)|words=15.157312,15.537312;
+004.mp3/18.114625/21.066188/That is her eraser (Đó là cục tẩy của cô ấy.}{)|words=18.114625,18.474625,18.874625,19.214625;
+004.mp3/21.066188/26.253063/It's white and blue (Nó màu trắng và xanh lam.)|words=21.066188,21.406188,21.746188,22.386188;

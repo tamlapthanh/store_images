@@ -1,7 +1,7 @@
-013.mp3/1/2.667868/Listening 13. (Nghe 13.);
-013.mp3/3/5.024626/Listen and match. (Hãy lắng nghe và kết hợp.);
-013.mp3/6/8.037619/This is my family. (Đây là gia đình của tôi.);
-013.mp3/8/11.961293/My sister is taking photos. (Chị tôi đang chụp ảnh.);
-013.mp3/12/15.355011/My dad is washing the car. (Bố tôi đang rửa xe.);
-013.mp3/16/17.934875/And this is me. (Và đây là tôi.);
-013.mp3/18/20.859864/I'm brushing my hair. (Tôi đang chải tóc.);
+013.mp3/1.053313/3.371875/Listening 13 (Nghe bài 13.)|words=1.053313,1.413313;
+013.mp3/3.371875/6.112125/Listen and match (Nghe và nối.)|words=3.371875,3.731875,4.311875;
+013.mp3/6.112125/8.800937/This is my family (Đây là gia đình tôi.)|words=6.112125,6.552125,6.892125,7.252125;
+013.mp3/8.800937/12.666750/My sister is taking photos (Chị gái tôi đang chụp ảnh.)|words=8.800937,9.080937,9.740937,10.360937,10.840937;
+013.mp3/12.666750/16.159063/My dad is washing the car (Bố tôi đang rửa xe.)|words=12.666750,12.946750,13.406750,13.926750,14.466750,14.766750;
+013.mp3/16.159063/18.745625/And this is me (Và đây là tôi.)|words=16.159063,16.459063,16.979063,17.459063;
+013.mp3/18.745625/23.954313/I'm brushing my hair (Tôi đang chải tóc.)|words=18.745625,19.125625,19.725625,20.165625;
