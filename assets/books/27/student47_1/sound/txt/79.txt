@@ -1,6 +1,6 @@
-79.mp3/0.000000/7.304875/Page 57 Lesson One Activity 4 (Trang 57, Bài học 1, Hoạt động 4)|words=0.000000,0.720000,2.796937,3.296937,4.722188,5.382188;
+79.mp3/0.000000/7.304875/Page 57 Lesson One Activity 4 (Trang 57, Bài học 1, Hoạt động 4.)|words=0.000000,0.720000,2.796937,3.296937,4.722188,5.382188;
 79.mp3/7.304875/14.734563/Listen and tick or cross. One (Nghe và đánh dấu hoặc khoanh. Một.)|words=7.304875,8.584188,8.904188,10.045500,10.285500,13.076625;
-79.mp3/14.734563/22.651750/What's your favourite subject? It's IT (Môn học yêu thích của bạn là gì? Đó là IT.)|words=14.734563,15.274563,15.514563,16.174563,18.895187,19.335187,19.795187;
+79.mp3/14.734563/22.651750/What's your favourite subject? It's IT (Môn học yêu thích của bạn là gì? Đó là IT.)|words=14.734563,15.274563,15.514563,16.174563,18.895187,19.335187;
 79.mp3/22.651750/24.385687/2 (2.)|words=22.651750;
 79.mp3/24.385687/31.565062/What's your favorite subject? It's art (Môn học yêu thích của bạn là gì? Đó là mỹ thuật!)|words=24.385687,24.985687,25.265687,25.945687,28.316688,28.756688;
 79.mp3/31.565062/33.547187/3 (3.)|words=31.565062;
